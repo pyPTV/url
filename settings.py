@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], [
-              "http://trkur3.com/178649/17886"
+              "http://rd.mobiteasy.com/mr/?id=alex1306"
              ]],
     [["IT"], [
                "http://trkur.com/178649/17609", 
