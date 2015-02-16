@@ -26,15 +26,14 @@
       "CA"], [
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
-    [["DE", 
-      "AT", 
-      "CH"], [
 
+
+    [["LU", "NO", "DK", "PA", "DE", "IS", "NL", "SE"],
+             [
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
-             ]],
     [["ZZ"], [
 
-              "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
+              
              ]]
 ]
 }
