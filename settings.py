@@ -2,11 +2,9 @@
     "mobile":
 [
     [["US"], [
-              # Hookup Cloud mobile
               "http://trkur3.com/178649/17886"
              ]],
     [["IT"], [
-               # Joliess Adult Mobile
                "http://trkur.com/178649/17609", 
                "http://mobile.bitterstrawberry.org/?id=170"
              ]],
@@ -27,21 +25,17 @@
       "GB", 
       "CA"], [
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default",
-              # Sexier PPS
               "http://trkur.com/178649/17307", 
-              # Phone mates PPS  
               "http://trkur.com/178649/16873"   
              ]],
     [["DE", 
       "AT", 
       "CH"], [
-              # My Secretary Girls PPS
               "http://trkur4.com/178649/18043",
-              # Sexy.com
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
              ]],
     [["ZZ"], [
-              # Sexy.com
+
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
              ]]
 ]
