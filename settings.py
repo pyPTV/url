@@ -24,7 +24,7 @@
       "AU", 
       "GB", 
       "CA"], [
-              "http://www.reddit.com/r/anal", "http://www.reddit.com/r/CollegeAmateurs/"
+              
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
 
