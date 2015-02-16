@@ -24,7 +24,7 @@
       "AU", 
       "GB", 
       "CA"], [
-              "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
+              
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
 
