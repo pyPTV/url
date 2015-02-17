@@ -49,8 +49,11 @@
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
              ]],
     [["ZZ"], [
-
-              "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA"
+              "http://enter.gangav.com/track/MTkyMjguMi4xMC4zNi4wLjAuMC4wLjA",
+              "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
+              "http://enter.av69.tv/track/MTkyMjguMi40LjQuMC4wLjAuMC4w",
+              "http://enter.ferame.com/track/MTkyMjguMi42LjE0LjAuMC4wLjAuMA"
              ]]
 ]
 }
+
