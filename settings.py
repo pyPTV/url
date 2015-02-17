@@ -31,8 +31,8 @@
     [["US", 
       "AU", 
       "GB", 
-      "CA"], [
-              
+      "CA",
+      "FR"], [
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
 
