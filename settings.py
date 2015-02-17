@@ -32,11 +32,25 @@
       "AU", 
       "GB", 
       "CA"], [
+              
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
 
-    [["ZZ"], [
+    [["LU", 
+      "NO", 
+      "DK", 
+      "PA", 
+      "DE", 
+      "IS", 
+      "NL", 
+      "SE", 
+      "AT"],
+             [
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
+             ]],
+    [["ZZ"], [
+
+              "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA"
              ]]
 ]
 }
