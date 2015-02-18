@@ -37,14 +37,9 @@
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
 
-    [["LU", 
-      "NO", 
-      "DK", 
-      "PA", 
-      "IS", 
-      "NL", 
-      "SE", 
-      "AT"],
+    [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN",
+      "RU", "IE", "MX", "CZ", "BR", "VE", "NG", "PH", "AR", "CR",
+      "BG", "UG"],
              [
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
              ]],
