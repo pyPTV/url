@@ -48,14 +48,7 @@
              [
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
              ]],
-    [["ZZ"], [
-              "http://enter.gangav.com/track/MTkyMjguMi4xMC4zNi4wLjAuMC4wLjA",
-              "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
-              "http://enter.av69.tv/track/MTkyMjguMi40LjQuMC4wLjAuMC4w",
-              "http://enter.ferame.com/track/MTkyMjguMi42LjE0LjAuMC4wLjAuMA",
-              "http://enter.avtits.com/track/MTkyMjguMi4xMy4xOS4wLjAuMC4wLjA",
-              "http://enter.javhd.com/track/MTkyMjguMi4yLjI2LjAuMC4wLjAuMA",
-              "http://enter.shiofuky.com/track/MTkyMjguMi4zLjI3LjAuMC4wLjAuMA"
+    [["ZZ"], ["http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
               
              ]]
 ]
