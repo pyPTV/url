@@ -32,7 +32,8 @@
       "AU", 
       "GB", 
       "CA",
-      "FR"], [
+      "FR",
+      "DE"], [
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
              ]],
 
@@ -40,7 +41,6 @@
       "NO", 
       "DK", 
       "PA", 
-      "DE", 
       "IS", 
       "NL", 
       "SE", 
