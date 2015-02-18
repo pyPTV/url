@@ -28,22 +28,34 @@
  
     "desktop":
 [
-    [["US", 
-      "AU", 
-      "GB", 
-      "CA",
-      "FR",
-      "DE"], [
-              "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
+    [["US", "AU", "GB", "CA", "FR"], [
+
+            "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
+
              ]],
+
+
+    [["DE"],[
+
+            "http://www.sehiba.com/VX/LP/chatsim?ver=7&w=21022&ws=",
+            "http://www.visit-x.net/?w=21022",
+            "http://www.sehiba.com/KOP/LP/wirliebenporno?w=21022&ws="
+
+            ]],
+
 
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN",
       "RU", "IE", "MX", "CZ", "BR", "VE", "NG", "PH", "AR", "CR",
-      "BG", "UG"],
-             [
+      "BG", "UG"], [
+
+            "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
+
+            ]],
+
+
+    [["ZZ"], [
+
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
-             ]],
-    [["ZZ"], ["http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
               
              ]]
 ]
