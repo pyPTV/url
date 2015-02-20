@@ -28,7 +28,7 @@
  
     "desktop":
 [
-    [["US", "AU", "GB", "CA", "FR", "DE"], [
+    [["US", "AU", "GB", "CA", "DE"], [
 
             "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
 
@@ -37,7 +37,7 @@
 
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN",
       "RU", "IE", "MX", "CZ", "BR", "VE", "NG", "PH", "AR", "CR",
-      "BG", "UG"], [
+      "BG", "UG", "GR", "FR", "CO"], [
 
             "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
 
