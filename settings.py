@@ -34,6 +34,10 @@
 
              ]],
 
+    [["DE"], [
+              "http://www.sehiba.com/KOP/LP/wirliebenporno?w=21022&ws=",
+              "http://www.sehiba.com/VX/LP/FemininVibrationHC?w=21022&ws="
+             ]],
 
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN",
       "RU", "IE", "MX", "CZ", "BR", "VE", "NG", "PH", "AR", "CR",
