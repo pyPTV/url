@@ -42,7 +42,7 @@
 
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN",
       "RU", "IE", "MX", "CZ", "BR", "VE", "NG", "PH", "AR", "CR",
-      "BG", "UG", "GR", "FR", "CO"], [
+      "BG", "UG", "GR", "FR", "CO", "FI"], [
 
             "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
 
