@@ -28,18 +28,44 @@
  
     "desktop":
 [
-    [["US", "AU", "GB", "CA"], [
+    [["US"], [
 
-            "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"
+             
+             ]],
+
+    [["AU"], [
+
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"
+
+             ]],
+
+    [["GB"], [
+
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"
+
+             ]],
+
+    [["CA"], [
+
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"
 
              ]],
 
     [["DE"], [
-              "http://www.sehiba.com/KOP/LP/wirliebenporno?w=21022&ws=",
-              "http://www.sehiba.com/VX/LP/FemininVibrationHC?w=21022&ws=",
-              "http://www.sehiba.com/VX/LP/chatsim?ver=7&w=21022&ws="
+
+              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Germany"
+
              ]],
 
+    [["BE", "FI", "FK", "FO", "GG", "GI", 
+      "GL", "JE", "LI", "NZ", "QA", "SM"], [
+
+              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Minor"
+
+             ]], 
+ 
+ 
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN",
       "RU", "IE", "MX", "CZ", "BR", "VE", "NG", "PH", "AR", "CR",
       "BG", "UG", "GR", "FR", "CO", "FI", "IT"], [
