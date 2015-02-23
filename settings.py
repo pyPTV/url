@@ -21,7 +21,8 @@
              ]],
     [["ZZ"], [
               "http://rd.mobiteasy.com/mr/?id=alex1306",
-              "http://m.targetwhitelabel7.29431.idhad.com/?target_id=29431"
+              "http://m.targetwhitelabel7.29431.idhad.com/?target_id=29431",
+              "http://bongacams.com/track?c=20944"
              ]]
 
 
