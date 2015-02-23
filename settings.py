@@ -70,7 +70,7 @@
       "SE", "AT", "ES", "IN", "RU", "IE", 
       "MX", "CZ", "BR", "VE", "NG", "PH", 
       "AR", "CR", "BG", "UG", "GR", "FR", 
-      "CO", "FI", "IT"], [
+      "CO", "IT"], [
 
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
 
