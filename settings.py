@@ -20,7 +20,8 @@
               "http://mobile.bitterstrawberry.org/?id=170"
              ]],
     [["ZZ"], [
-              "http://rd.mobiteasy.com/mr/?id=alex1306"
+              "http://rd.mobiteasy.com/mr/?id=alex1306",
+              "http://m.targetwhitelabel7.29431.idhad.com/?target_id=29431"
              ]]
 
 
