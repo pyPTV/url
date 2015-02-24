@@ -63,7 +63,10 @@
 
     [["DE"], [
 
-              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Germany"
+               "http://landing.sexkiste.com/?ag=690&pr=&prm=ppl&ts=&wm=19035",
+               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035",
+               "http://landing.amateurseite.com/?ag=681&pr=&prm=ppl&ts=&wm=19035",
+               "http://landing.amateurseite.com/?ag=682&pr=&prm=ppl&ts=&wm=19035"
 
              ]],
 
