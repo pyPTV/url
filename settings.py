@@ -2,6 +2,11 @@
     "mobile":
 [
 
+    [["US"], [
+              "http://bongacams.com/track?c=20944"
+             ]]
+
+
     [["AE", "AF", "AL", "AM", "AO", "AR", "AT", "AU", "AW", 
       "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BN", "BO", 
       "BR", "BT", "CA", "CH", "CL", "CM", "CN", "CO", "CR", 
@@ -19,10 +24,9 @@
              [
               "http://mobile.bitterstrawberry.org/?id=170"
              ]],
+
     [["ZZ"], [
-              "http://rd.mobiteasy.com/mr/?id=alex1306",
-              "http://m.targetwhitelabel7.29431.idhad.com/?target_id=29431",
-              "http://bongacams.com/track?c=20944"
+              "http://rd.mobiteasy.com/mr/?id=alex1306"
              ]]
 
 
