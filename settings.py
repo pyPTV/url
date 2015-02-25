@@ -3,7 +3,7 @@
 [
 
     [["US"], [
-              "http://www.flirt4free.com/live/girls/?mp_code=acmwr"
+              "http://bongacams.com/track?c=20944"
              ]],
 
 
