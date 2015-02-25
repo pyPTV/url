@@ -36,29 +36,29 @@
 [
     [["US"], [
 
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA",
-               "http://www.flirt4free.com/live/girls/?mp_code=acmwr"
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"
+               
              
              ]],
 
     [["AU"], [
 
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia",
-               "http://www.flirt4free.com/live/girls/?mp_code=acmwr"
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"
+               
 
              ]],
 
     [["GB"], [
 
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England",
-               "http://www.flirt4free.com/live/girls/?mp_code=acmwr"
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"
+               
 
              ]],
 
     [["CA"], [
 
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada",
-               "http://www.flirt4free.com/live/girls/?mp_code=acmwr"
+               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"
+               
              ]],
 
     [["DE"], [
