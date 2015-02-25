@@ -80,9 +80,9 @@
  
     [["LU", "NO", "DK", "PA", "IS", "NL", 
       "SE", "AT", "ES", "IN", "RU", "IE", 
-      "MX", "CZ", "BR", "VE", "NG", "PH", 
+      "MX", "CZ", "BR", "VE", "NG", "IT", 
       "AR", "CR", "BG", "UG", "GR", "FR", 
-      "CO", "IT"], [
+      "CO"], [
 
               "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
 
