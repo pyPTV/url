@@ -88,11 +88,8 @@
 
              ]],
 
-    [["PT", "EE", "LV", "LT", "SK", "SI", 
-      "RS", "HR", "MK", "RO", "KP", "ZA", 
-      "IL", "CY", "PL"], [
-                         
-                          "https://www.ifriends.net/?pccacct=mbstrike&pccsvc=ppes"
+    [["RU", "UA", "KZ"], [
+              "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"
                          ]],
 
 
