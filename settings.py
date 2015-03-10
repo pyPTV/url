@@ -88,7 +88,7 @@
 
              ]],
 
-    [["RU", "UA", "KZ"], [
+    [["UA", "KZ"], [
               "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"
                          ]],
 
