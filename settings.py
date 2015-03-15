@@ -84,7 +84,7 @@
       "AR", "CR", "BG", "UG", "GR", "FR", 
       "CO"], [
 
-              "http://crtracklink.com/go/caRG9_bBBLR/DEFAULT"
+              "http://safetrackingsystem.com/go/caRG9_bBBLR/DEFAULT"
 
              ]],
 
