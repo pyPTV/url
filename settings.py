@@ -3,7 +3,7 @@
 [
 
     [["US"], [
-              "http://bongacams.com/track?c=20944"
+              "http://bongacams.com/track?c=20944", "http://www.hotnewscake.com"
              ]],
 
 
