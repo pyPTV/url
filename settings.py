@@ -70,31 +70,28 @@
 
              ]],
 
-    [["BE", "FI", "FK", "FO", "GG", "GI", 
-      "GL", "JE", "LI", "NZ", "QA", "SM"], [
+    [["BE", "FI", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", "SM"], [
 
               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Minor"
 
              ]], 
  
  
-    [["LU", "NO", "DK", "PA", "IS", "NL", 
-      "SE", "AT", "ES", "IN", "RU", "IE", 
-      "MX", "CZ", "BR", "VE", "NG", "IT", 
-      "AR", "CR", "BG", "UG", "GR", "FR", 
-      "CO"], [
-
+    [["LU", "NO", "DK", "PA", "IS", "NL",  "SE", "AT", "ES", "IN", "RU", "IE", "MX", 
+      "CZ", "BR", "VE", "NG", "IT", "AR", "CR", "BG", "UG", "GR", "FR", "CO"], [
+    
               "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
              ]],
 
-    [["UA", "KZ"], [
+    [["UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM", "EE", "LV", "LT"], [
+
               "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"
+
                          ]],
 
 
-
-    [["ZZ"], [
+    [["JP", "TW", "SG", "HK", "KR", "PH", "CN"], [
 
               "http://enter.gangav.com/track/MTkyMjguMi4xMC4zNi4wLjAuMC4wLjA",
               "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
@@ -104,7 +101,14 @@
               "http://enter.javhd.com/track/MTkyMjguMi4yLjI2LjAuMC4wLjAuMA",
               "http://enter.shiofuky.com/track/MTkyMjguMi4zLjI3LjAuMC4wLjAuMA"
               
-             ]]
+             ]],
+
+    [["ZZ"], [
+
+              "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=revrestworld",
+              "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
+
+                         ]]
 ]
 }
 
