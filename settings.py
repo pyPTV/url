@@ -84,7 +84,7 @@
       "AR", "CR", "BG", "UG", "GR", "FR", 
       "CO"], [
 
-              "http://safetrackingsystem.com/go/caRG9_bBBLR/DEFAULT"
+              "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
              ]],
 
