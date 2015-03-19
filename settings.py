@@ -84,7 +84,7 @@
       "AR", "CR", "BG", "UG", "GR", "FR", 
       "CO"], [
 
-              "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
+              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=temp"
 
              ]],
 
