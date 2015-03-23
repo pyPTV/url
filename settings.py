@@ -105,8 +105,8 @@
 
     [["ZZ"], [
 
-              "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=revrestworld",
-              "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
+              "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=revrestworld"
+              
 
                          ]]
 ]
