@@ -10,7 +10,7 @@
     [["AE", "AF", "AL", "AM", "AO", "AR", "AT", "AU", "AW", 
       "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BN", "BO", 
       "BR", "BT", "CA", "CH", "CL", "CM", "CN", "CO", "CR", 
-      "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", 
+      "CY", "CZ", "DK", "DO", "DZ", "EC", "EE", "EG", 
       "ES", "ET", "FI", "FR", "GE", "GH", "GM", "GR", "GT", 
       "GU", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", 
       "IQ", "IR", "JM", "JO", "JP", "KE", "KH", "KR", "KW", 
@@ -24,6 +24,11 @@
              [
               "http://mobile.bitterstrawberry.org/?id=170"
              ]],
+
+    [["DE"], [
+              "http://www.amateurseite.com/?prm=ppl&py=19&lg=en&ag=431&ts=direct&sc=4&dp=1&pr=mobile&do=316&wm=19035"
+             ]],
+
 
     [["ZZ"], [
               "http://rd.mobiteasy.com/mr/?id=alex1306"
@@ -63,10 +68,9 @@
 
     [["DE"], [
 
-               
-               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035",
-               "http://landing.amateurseite.com/?ag=681&pr=&prm=ppl&ts=&wm=19035",
-               "http://landing.amateurseite.com/?ag=682&pr=&prm=ppl&ts=&wm=19035"
+               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
+               "http://landing.amateurseite.com/?ag=682&pr=second&prm=ppl&ts=&wm=19035",
+               "http://landing.amateurseite.com/?ag=681&pr=third&prm=ppl&ts=&wm=19035"
 
              ]],
 
