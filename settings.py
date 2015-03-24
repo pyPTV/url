@@ -37,62 +37,70 @@
 
 ],
  
+
+ 
     "desktop":
 [
     [["US"], [
 
                "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"
                
-             
-             ]],
+            ]],
 
     [["AU"], [
 
                "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"
                
-
-             ]],
+            ]],
 
     [["GB"], [
 
                "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"
                
-
-             ]],
+            ]],
 
     [["CA"], [
 
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"
+              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"
                
-             ]],
+            ]],
 
     [["DE"], [
 
-               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
-               "http://landing.amateurseite.com/?ag=682&pr=second&prm=ppl&ts=&wm=19035",
-               "http://landing.amateurseite.com/?ag=681&pr=third&prm=ppl&ts=&wm=19035"
+              "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=682&pr=second&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=681&pr=third&prm=ppl&ts=&wm=19035"
 
-             ]],
+            ]],
 
-    [["BE", "FI", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", "SM"], [
+    [["BE", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", 
+      "SM"], [
 
               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Minor"
 
-             ]], 
+            ]], 
  
  
-    [["LU", "NO", "DK", "PA", "IS", "NL",  "SE", "AT", "ES", "IN", "RU", "IE", "MX", 
-      "CZ", "BR", "VE", "NG", "IT", "AR", "CR", "BG", "UG", "GR", "FR", "CO"], [
+    [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN", 
+      "RU", "IE", "MX", "BR", "VE", "NG", "IT", "AR", "CR", "BG", 
+      "UG", "GR", "FR", "CO", "MY", ], [
     
               "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
-             ]],
+            ]],
 
-    [["UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM", "EE", "LV", "LT"], [
+    [["FI", "EE", "SK", "LV", "CZ", "SI", "HR", "RS", "PL", "BH",
+      "IL", "PT", "AE", "MK", "HU", "RO", "CY", "LT", "TR", "JO"], [
+
+              "http://bongacams.com/track?c=20944"
+              
+            ]],
+
+    [["UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], [
 
               "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"
 
-                         ]],
+            ]],
 
 
     [["JP", "TW", "SG", "HK", "KR", "PH", "CN"], [
@@ -105,16 +113,18 @@
               "http://enter.javhd.com/track/MTkyMjguMi4yLjI2LjAuMC4wLjAuMA",
               "http://enter.shiofuky.com/track/MTkyMjguMi4zLjI3LjAuMC4wLjAuMA"
               
-             ]],
+            ]],
+
 
     [["ZZ"], [
 
               "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=revrestworld"
               
-
-                         ]]
+            ]]
 ]
 }
+
+
 
 
 
