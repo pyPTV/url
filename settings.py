@@ -83,14 +83,14 @@
  
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN", 
       "RU", "IE", "MX", "BR", "VE", "NG", "IT", "AR", "CR", "BG", 
-      "UG", "GR", "FR", "CO", "MY", ], [
+      "UG", "GR", "FR", "CO", "MY", "SG", "NA", "TW", "MK"], [
     
               "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
             ]],
 
     [["FI", "EE", "SK", "LV", "CZ", "SI", "HR", "RS", "PL", "BH",
-      "IL", "PT", "AE", "MK", "HU", "RO", "CY", "LT", "TR", "JO"], [
+      "IL", "PT", "AE", "HU", "RO", "CY", "LT", "TR", "JO"], [
 
               "http://bongacams.com/track?c=20944"
               
@@ -103,7 +103,7 @@
             ]],
 
 
-    [["JP", "TW", "SG", "HK", "KR", "PH", "CN"], [
+    [["JP", "HK", "KR", "PH", "CN"], [
 
               "http://enter.gangav.com/track/MTkyMjguMi4xMC4zNi4wLjAuMC4wLjA",
               "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
@@ -123,7 +123,6 @@
             ]]
 ]
 }
-
 
 
 
