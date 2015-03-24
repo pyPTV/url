@@ -83,7 +83,8 @@
  
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "AT", "ES", "IN", 
       "RU", "IE", "MX", "BR", "VE", "NG", "IT", "AR", "CR", "BG", 
-      "UG", "GR", "FR", "CO", "MY", "SG", "NA", "TW", "MK"], [
+      "UG", "GR", "FR", "CO", "MY", "SG", "NA", "TW", "MK", "JP", 
+      "HK", "KR" ], [
     
               "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
@@ -103,7 +104,7 @@
             ]],
 
 
-    [["JP", "HK", "KR", "PH", "CN"], [
+    [["PH", "CN"], [
 
               "http://enter.gangav.com/track/MTkyMjguMi4xMC4zNi4wLjAuMC4wLjA",
               "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
@@ -123,6 +124,7 @@
             ]]
 ]
 }
+
 
 
 
