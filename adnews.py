@@ -2,14 +2,18 @@
     "mobile":
 [
 
-    [["US"], [
-              "http://mobile.us", "Title for mobile.us"
-             ]],
+    [["US"], [{
+                "http://mobile.us": "Title for mobile.us", 
+                "http://mobile-1.us": "Title for mobile-1.us"
 
-    [["ZZ"], [
-              "http://mobile.zz", "Title for mobile.zz"
-              "http://mobile-1.zz", "Title for mobile-1.zz"
-             ]]
+             }]],
+
+    [["ZZ"], [{
+
+              "http://mobile.zz": "Title for mobile.zz",
+              "http://mobile-1.zz": "Title for mobile-1.zz"
+
+             }]]
 
 
 ],
@@ -20,19 +24,18 @@
 [
 
 
-    [["BE", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", 
-      "SM"], [
+    [["BE", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", "SM"], [{
 
-              "http://desktop.group", "Title for desktop.group"
-              "http://desktop-1.group", "Title for desktop-1.group"
+              "http://desktop.group": "Title for desktop.group",
+              "http://desktop-1.group": "Title for desktop-1.group"
 
-            ]], 
+            }]], 
 
-    [["ZZ"], [
+    [["ZZ"], [{
 
-              "http://desktop.zz", "Title for desktop.zz"
+              "http://desktop.zz": "Title for desktop.zz"
               
-            ]]
+            }]]
 ]
 }
 
