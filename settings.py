@@ -1,39 +1,9 @@
 {
     "mobile":
 [
-
-    [["US"], [
-              "http://bongacams.com/track?c=20944"
-             ]],
-
-
-    [["AE", "AF", "AL", "AM", "AO", "AR", "AT", "AU", "AW", 
-      "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BN", "BO", 
-      "BR", "BT", "CA", "CH", "CL", "CM", "CN", "CO", "CR", 
-      "CY", "CZ", "DK", "DO", "DZ", "EC", "EE", "EG", 
-      "ES", "ET", "FI", "FR", "GE", "GH", "GM", "GR", "GT", 
-      "GU", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", 
-      "IQ", "IR", "JM", "JO", "JP", "KE", "KH", "KR", "KW", 
-      "KZ", "LB", "LK", "LT", "LU", "LV", "LY", "MA", "MD", 
-      "ME", "MK", "MM", "MN", "MU", "MV", "MX", "MY", "NA", 
-      "NG", "NI", "NL", "NO", "NP", "NZ", "OM", "PA", "PE", 
-      "PH", "PK", "PL", "PR", "PS", "PT", "PY", "QA", "RE", 
-      "RO", "RS", "RU", "SA", "SD", "SE", "SG", "SI", "SK", 
-      "SS", "SV", "TH", "TM", "TN", "TR", "TW", "TZ", "UA", 
-      "UG", "UK", "UY", "UZ", "VE", "VN", "YE","ZA","ZW", "IT"], 
-             [
-              "http://mobile.bitterstrawberry.org/?id=170"
-             ]],
-
-    [["DE"], [
-              "http://www.amateurseite.com/?prm=ppl&py=19&lg=en&ag=431&ts=direct&sc=4&dp=1&pr=mobile&do=316&wm=19035"
-             ]],
-
-
-    [["ZZ"], [
-              "http://rd.mobiteasy.com/mr/?id=alex1306"
-             ]]
-
+    [["US"], ["http://bongacams.com/track?c=20944"]],
+    [["DE"], ["http://www.amateurseite.com/?prm=ppl&py=19&lg=en&ag=431&ts=direct&sc=4&dp=1&pr=mobile&do=316&wm=19035"]],
+    [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
  
@@ -41,29 +11,10 @@
  
     "desktop":
 [
-    [["US"], [
-
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"
-               
-            ]],
-
-    [["AU"], [
-
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"
-               
-            ]],
-
-    [["GB"], [
-
-               "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"
-               
-            ]],
-
-    [["CA"], [
-
-              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"
-               
-            ]],
+    [["US"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"]],
+    [["AU"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"]],
+    [["GB"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"]],
+    [["CA"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"]],
 
     [["DE"], [
 
