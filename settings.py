@@ -11,7 +11,7 @@
  
     "desktop":
 [
-    [["US"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA", "http://hotnewscake.com"]],
+    [["US"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"]],
     [["AU"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"]],
     [["GB"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"]],
     [["CA"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"]],
