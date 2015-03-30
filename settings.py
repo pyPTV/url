@@ -2,7 +2,6 @@
     "mobile":
 [
     [["US"], ["http://bongacams.com/track?c=20944"]],
-    [["DE"], ["http://www.amateurseite.com/?prm=ppl&py=19&lg=en&ag=431&ts=direct&sc=4&dp=1&pr=mobile&do=316&wm=19035"]],
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
@@ -19,8 +18,8 @@
     [["DE"], [
 
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=682&pr=second&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=681&pr=third&prm=ppl&ts=&wm=19035"
+              "http://landing.amateurseite.com/?ag=682&pr=second&prm=ppl&ts=&wm=19035"
+              
 
             ]],
 
