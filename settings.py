@@ -14,7 +14,7 @@
     [["AU"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"]],
     [["GB"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"]],
     [["CA"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"]],
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["DE"], ["http://landing.stripbunny.com/?ag=1415&wm=19035&tsd=atcrm56&prm=pps&pr=stripb"]],
     [["BE", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", 
       "SM"], [
 
