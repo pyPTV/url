@@ -61,7 +61,7 @@
 
     [["ZZ"], [
 
-              "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=revrestworld",
+              
               "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000007_00000&QueryID=7&from=freevideo6",
               "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000000_00000&QueryID=138&from=freevideo6",
               "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000006_00000&QueryID=12&from=freevideo6",
