@@ -10,10 +10,11 @@
  
     "desktop":
 [
-    [["US"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA"]],
-    [["AU"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Australia"]],
-    [["GB"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=England"]],
-    [["CA"], ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=Canada"]],
+    [["US", "AU", "GB", "CA"], [
+              "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=USA", 
+              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000000_00000&QueryID=138&from=freevideo6"
+                                ]],
+
     [["DE", "AT", "CH"], ["http://landing.stripbunny.com/?ag=1415&wm=19035&tsd=atcrm56&prm=pps&pr=stripb"]],
     [["BE", "FK", "FO", "GG", "GI", "GL", "JE", "LI", "NZ", "QA", 
       "SM"], [
