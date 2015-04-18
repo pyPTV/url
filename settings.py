@@ -51,12 +51,9 @@
 
     [["ZZ"], [
 
-              
-              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000007_00000&QueryID=7&from=freevideo6",
-              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000000_00000&QueryID=138&from=freevideo6",
-              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000006_00000&QueryID=12&from=freevideo6",
-              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000002_00000&QueryID=1&from=freevideo6"
-              
+              "http://www.camscreative.com/?WID=125977836270&ptype=5&queryid=1&promocode=BCODE_00000",
+              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000000_00000&QueryID=138&from=freevideo6"
+
             ]]
 ]
 }
