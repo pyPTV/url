@@ -18,7 +18,7 @@
       "UG", "GR", "FR", "CO", "MY", "SG", "NA", "TW", "MK", "JP", 
       "HK", "KR" ], [
     
-              "http://ertya.com/go/caRG9_bBBLR/DEFAULT", "http://ertya.com/go/cbv_lu1T_bGqWH/ax"
+              "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
             ]],
 
