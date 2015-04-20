@@ -57,8 +57,7 @@
 
     [["ZZ"], [
 
-              "http://www.camscreative.com/?WID=125977836270&ptype=5&queryid=1&promocode=BCODE_00000",
-              "http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=702&promocode=BCODEL0000000_00000&QueryID=138&from=freevideo6"
+              "http://www.camscreative.com/?WID=125977836270&ptype=5&queryid=1&promocode=BCODE_00000"
 
             ]]
 ]
