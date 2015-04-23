@@ -22,7 +22,7 @@
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "ES", "IN", 
       "RU", "IE", "MX", "BR", "VE", "NG", "IT", "AR", "CR", "BG", 
       "UG", "GR", "FR", "CO", "MY", "SG", "NA", "TW", "MK", "JP", 
-      "HK", "KR", "AT", "CH", [
+      "HK", "KR", "AT", "CH"], [
     
               "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
