@@ -57,7 +57,9 @@
 
     [["ZZ"], [
 
-              "http://www.camscreative.com/?WID=125977836270&ptype=5&queryid=1&promocode=BCODE_00000"
+             "http://adf.ly/vFa4W",
+             "http://adf.ly/vFaD1",
+             "http://adf.ly/uRcNF"
 
             ]]
 ]
