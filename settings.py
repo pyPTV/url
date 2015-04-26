@@ -17,12 +17,12 @@
 
                                            ]],
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["DE", "AT", "CH"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
     [["LU", "NO", "DK", "PA", "IS", "NL", "SE", "ES", "IN", 
       "RU", "IE", "MX", "BR", "VE", "NG", "IT", "AR", "CR", "BG", 
       "UG", "GR", "FR", "CO", "MY", "SG", "NA", "TW", "MK", "JP", 
-      "HK", "KR", "AT", "CH"], [
+      "HK", "KR"], [
     
               "http://ertya.com/go/caRG9_bBBLR/DEFAULT"
 
