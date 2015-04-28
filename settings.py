@@ -31,7 +31,8 @@
     [["FI", "EE", "SK", "LV", "CZ", "SI", "HR", "RS", "PL", "BH",
       "IL", "PT", "AE", "HU", "RO", "CY", "LT", "TR", "JO"], [
 
-              "http://bongacams.com/track?c=20944"
+              #"http://bongacams.com/track?c=20944"
+              "http://adf.ly/uRcNF"
               
             ]],
 
