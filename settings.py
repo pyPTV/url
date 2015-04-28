@@ -25,7 +25,7 @@
 
 
 
-    [["PA", "IN", "MX", "VE", "NG", "AR", "CR", "UG", "CO", "MY", "NA", "TW", "HK"], 
+    [["PA", "IN", "MX", "VE", "NG", "AR", "CR", "UG", "CO", "MY", "NA", "HK"], 
      ["http://ertya.com/go/caRG9_bBBLR/DEFAULT"]],
 
 
