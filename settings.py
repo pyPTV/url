@@ -47,21 +47,15 @@
 
 
 
-    [["PH", "CN"], [
-
-              "http://enter.gangav.com/track/MTkyMjguMi4xMC4zNi4wLjAuMC4wLjA",
-              "http://enter.javhd.com/track/MTkyMjguMi4yLjY0LjAuMC4wLjAuMA",
-              "http://enter.av69.tv/track/MTkyMjguMi40LjQuMC4wLjAuMC4w",
-              "http://enter.ferame.com/track/MTkyMjguMi42LjE0LjAuMC4wLjAuMA",
-              "http://enter.avtits.com/track/MTkyMjguMi4xMy4xOS4wLjAuMC4wLjA",
-              "http://enter.javhd.com/track/MTkyMjguMi4yLjI2LjAuMC4wLjAuMA",
-              "http://enter.shiofuky.com/track/MTkyMjguMi4zLjI3LjAuMC4wLjAuMA"
-              
-            ]],
-
-
-
-    [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/uRcNF"]]
+    [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/uRcNF",
+              "http://adf.ly/1G1sm5",
+              "http://adf.ly/1G1spr",
+              "http://adf.ly/1G1st9",
+              "http://adf.ly/1G1sxn",
+              "http://adf.ly/1G1t26",
+              "http://adf.ly/1G1t6m",
+              "http://adf.ly/1G1tAo"    
+    ]]
 
 
 ]}
