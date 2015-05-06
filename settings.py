@@ -24,13 +24,6 @@
 
 
 
-
-    [["PA", "IN", "MX", "VE", "NG", "AR", "CR", "UG", "CO", "MY", "NA", "HK"], 
-     ["http://ertya.com/go/caRG9_bBBLR/DEFAULT"]],
-
-
-
-
     [["DK", "FI", 
       "FR", "SE", "NO", "IE", "NL", "EE", "CZ", "SK", "BE", "IS", 
       "ES", "LV", "GR", "SI", "JP", "IT", 
