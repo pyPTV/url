@@ -47,15 +47,7 @@
 
 
 
-    [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/uRcNF",
-              "http://adf.ly/1G1sm5",
-              "http://adf.ly/1G1spr",
-              "http://adf.ly/1G1st9",
-              "http://adf.ly/1G1sxn",
-              "http://adf.ly/1G1t26",
-              "http://adf.ly/1G1t6m",
-              "http://adf.ly/1G1tAo"    
-    ]]
+    [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1"]]
 
 
 ]}
