@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://bongacams.com/track?c=20944"]],
+    [["US"], ["http://bongacams.com/track?c=20944", "http://www.camplacecash.com/delivery/?w=1385&b=&c=premmob"]],
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
