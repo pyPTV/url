@@ -8,6 +8,7 @@
  
 
  
+
     "desktop":
 [
 
@@ -23,13 +24,16 @@
      ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
+    [["FR"], ["http://www.camplacecash.com/delivery/show/p12/?w=1385&b=204685&l=fr&c=fr&muted=1"]],
+    [["SE"], ["http://www.camplacecash.com/delivery/show/p12/?w=1385&b=204685&l=se&c=se&muted=1"]],
+    [["DK", "FI", "NO", "IE", "NL", "EE", "CZ", "SK", "BE", "IS"], ["http://www.camplacecash.com/delivery/?w=1385&b=&c=eu"]], 
 
-    [["DK", "FI", 
-      "FR", "SE", "NO", "IE", "NL", "EE", "CZ", "SK", "BE", "IS", 
-      "ES", "LV", "GR", "SI", "JP", "IT", 
+
+
+    [["ES", "LV", "GR", "SI", "JP", "IT", 
       "HR", "RS", "IL", "PT", "AE", 
       "MK", "HU", "BG", "RO", "KR", "BR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"],
-     ["http://bongacams.com/track?c=20944", "http://www.camplacecash.com/delivery/?w=1385&b=&c=av"]],
+     ["http://bongacams.com/track?c=20944"]],
 
 
 
@@ -44,6 +48,4 @@
 
 
 ]}
-
-
 
