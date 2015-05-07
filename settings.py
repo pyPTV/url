@@ -30,8 +30,7 @@
 
 
 
-    [["ES", "LV", "GR", "SI", "JP", "IT", 
-      "HR", "RS", "IL", "PT", "AE", 
+    [["ES", "LV", "GR", "SI", "JP", "IT", "HR", "RS", "IL", "PT", "AE", 
       "MK", "HU", "BG", "RO", "KR", "BR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"],
      ["http://bongacams.com/track?c=20944"]],
 
