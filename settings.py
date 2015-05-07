@@ -14,7 +14,7 @@
 
     [["US", "AU", "CA", "FK", "FO", "GB", "GG", "GI", "GL", "JE", "LI", "LU", "NZ", "QA", "SG", "SM",
       "AW", "BN", "BS", "KW", "MO", "PR"], 
-     ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world"]],
+     ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world", "http://www.camplacecash.com/delivery/?w=1385&b=&c=prem"]],
 
 
 
@@ -29,7 +29,7 @@
       "ES", "LV", "GR", "SI", "JP", "IT", 
       "HR", "RS", "IL", "PT", "AE", 
       "MK", "HU", "BG", "RO", "KR", "BR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"],
-     ["http://adf.ly/vFa4W"]],
+     ["http://bongacams.com/track?c=20944", "http://www.camplacecash.com/delivery/?w=1385&b=&c=prem"]],
 
 
 
