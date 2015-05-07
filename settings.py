@@ -9,13 +9,19 @@
 
  
 
-    "desktop":
+  "desktop":
 [
 
 
-    [["US", "AU", "CA", "FK", "FO", "GB", "GG", "GI", "GL", "JE", "LI", "LU", "NZ", "QA", "SG", "SM",
-      "AW", "BN", "BS", "KW", "MO", "PR"], 
+    [["US", "AU", "CA", "GB", "NZ"], 
      ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world", "http://www.camplacecash.com/delivery/?w=1385&b=&c=prem"]],
+
+
+
+    [["FK", "FO", "GG", "GI", "GL", "JE", "LI", "LU", "QA", 
+      "SG", "SM", "AW", "BN", "BS", "KW", "MO", "PR"], 
+     ["http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world"]],
+
 
 
 
