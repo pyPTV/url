@@ -27,7 +27,7 @@
 
 
     [["DE", "AT", "CH"], 
-     ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+     ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035", "http://landing.parkplatzkartei.com/?ag=771&pr=&prm=ppl&ts=&wm=19035"]],
 
 
     [["FR"], ["http://www.camplacecash.com/delivery/show/p12/?w=1385&b=204685&l=fr&c=fr&muted=1"]],
