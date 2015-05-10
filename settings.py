@@ -24,8 +24,7 @@
 
 
     [["DE", "AT", "CH"], [
-      "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035", 
-      "http://landing.parkplatzkartei.com/?ag=771&pr=&prm=ppl&ts=xxx&wm=19035&tsd=atcrm57"]],
+      "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
     [["FR", "SE", "DK", "FI", "NO", "IE", "NL", "EE", "CZ", "SK", "BE", "IS"], [
