@@ -43,7 +43,7 @@
       "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],
 
 
-    [["ZZ"], ["http://adf.ly/1Gid8n"]]
+    [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/1GZAUX", "http://adf.ly/1GZAZi", "http://adf.ly/1GZAed"]]
 
 
 ]}
