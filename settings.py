@@ -14,12 +14,13 @@
 
 
     [["US", "AU", "CA", "GB", "NZ"], [
-      "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world", 
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default", 
       "http://www.camplacecash.com/delivery/?w=1385&b=&c=prem"]],
 
 
 
-    [["FK", "FO", "GG", "GI", "GL", "JE", "LI", "LU", "QA", "SG", "SM", "AW", "BN", "BS", "KW", "MO", "PR"], [
+    [["FK", "FO", "GG", "GI", "GL", "JE", "LI", "QA", "SM", "AW", "BN", "BS", 
+      "KW", "MO", "PR"], [
       "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world"]],
 
 
@@ -27,12 +28,15 @@
       "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
-    [["FR", "SE", "DK", "FI", "NO", "IE", "NL", "EE", "CZ", "SK", "BE", "IS"], [
-      "http://www.camplacecash.com/delivery/?w=1385&b=&c=eu"]], 
+    [["IT", "NL", "BR", "FR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", 
+      "AR", "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK", 
+      "BE", "JP", "NA"], [
+      "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
-    [["ES", "LV", "GR", "SI", "JP", "IT", "HR", "RS", "IL", "PT", "AE", "MK", "HU", "BG", "RO", "KR", "BR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"], [
-      "http://bongacams.com/track?c=20944", "http://www.camplacecash.com/delivery/?w=1385&b=&c=eusec" ]],
+    [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", 
+      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"], [
+      "http://bongacams.com/track?c=20944"]],
 
 
     [["RU", "UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], [
