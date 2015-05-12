@@ -36,7 +36,7 @@
 
     [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", 
       "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"], [
-      "http://bongacams.com/track?c=20944"]],
+      "http://bongacams.com/track?c=20943"]],
 
 
     [["RU", "UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], [
