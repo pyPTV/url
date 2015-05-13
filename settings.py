@@ -15,7 +15,7 @@
 
     [["US", "AU", "CA", "GB", "NZ"], [
       "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default", 
-      "http://www.camplacecash.com/delivery/?w=1385&b=&c=prem"]],
+      "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=default"]],
 
 
 
