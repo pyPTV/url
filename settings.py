@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://bongacams.com/track?c=20944", "http://ertya.com/go/7Knh_bBBLR/DEFAULT"]],
+    [["US"], ["http://bongacams.com/track?c=20944"]],
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
