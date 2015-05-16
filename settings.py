@@ -28,9 +28,19 @@
       "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
-    [["IT", "NL", "BR", "FR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", 
-      "AR", "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK", 
-      "BE", "JP", "NA"], [
+    [["FR", "BE"], [
+      "http://www.eurolive.com/?id=75216&tracker=eup_cdbar_1fr&buying=1&langue=fr&w=0",
+      "http://www.eurolive.com/?id=75216&tracker=rev_cdbar_1fr&buying=0&langue=fr&w=0"]],
+
+
+    [["IT"], [
+      "http://www.eurolive.com/?id=75216&tracker=eup_cdbar_1it&buying=1&langue=it&w=0",
+      "http://www.eurolive.com/?id=75216&tracker=rev_cdbar_1it&buying=0&langue=it&w=0"]],
+
+
+    [["NL", "BR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", 
+      "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK", 
+      "JP", "NA"], [
       "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
