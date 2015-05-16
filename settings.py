@@ -30,23 +30,28 @@
 
     [["FR", "BE"], [
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=fr&brand=y&age=18%2A25",
-      "http://www.eurolive.com/?id=75216&tracker=eup_cdbar_1fr&buying=1&langue=fr&w=0",
-      "http://www.eurolive.com/?id=75216&tracker=rev_cdbar_1fr&buying=0&langue=fr&w=0"]],
+      "http://www.eurolive.com/?id=75216&langue=fr&tracker=frppl&w=0&buying=1",
+      "http://www.eurolive.com/?id=75216&langue=fr&tracker=frrev&w=0&buying=3"]],
 
 
     [["IT"], [
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=it&brand=y&age=18%2A25",
-      "http://www.eurolive.com/?id=75216&tracker=eup_cdbar_1it&buying=1&langue=it&w=0",
-      "http://www.eurolive.com/?id=75216&tracker=rev_cdbar_1it&buying=0&langue=it&w=0"]],
+      "http://www.eurolive.com/?id=75216&langue=it&tracker=itppl&w=0&buying=1",
+      "http://www.eurolive.com/?id=75216&langue=it&tracker=itrev&w=0&buying=3"]],
 
 
     [["NL"], [
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=nl&brand=y&age=18%2A25"]],
 
 
-    [["BR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", "JP", 
-      "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK", 
-      "NA"], [
+    [["ES"], [
+      "http://www.eurolive.com/?id=75216&langue=es&tracker=esppl&w=0&buying=1",
+      "http://www.eurolive.com/?id=75216&langue=es&tracker=esrev&w=0&buying=3",
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=es&brand=y&age=18%2A25"]],
+
+      
+    [["BR", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", "JP", "NA",
+      "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK"], [
       "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
