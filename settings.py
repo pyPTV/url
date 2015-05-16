@@ -29,13 +29,19 @@
 
 
     [["FR", "BE"], [
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=fr&brand=y&age=18%2A25",
       "http://www.eurolive.com/?id=75216&tracker=eup_cdbar_1fr&buying=1&langue=fr&w=0",
       "http://www.eurolive.com/?id=75216&tracker=rev_cdbar_1fr&buying=0&langue=fr&w=0"]],
 
 
     [["IT"], [
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=it&brand=y&age=18%2A25",
       "http://www.eurolive.com/?id=75216&tracker=eup_cdbar_1it&buying=1&langue=it&w=0",
       "http://www.eurolive.com/?id=75216&tracker=rev_cdbar_1it&buying=0&langue=it&w=0"]],
+
+
+    [["NL"], [
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=nl&brand=y&age=18%2A25"]],
 
 
     [["NL", "BR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", 
