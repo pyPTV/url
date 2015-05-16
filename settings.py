@@ -44,9 +44,9 @@
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=nl&brand=y&age=18%2A25"]],
 
 
-    [["NL", "BR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", 
+    [["BR", "ES", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", "JP", 
       "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK", 
-      "JP", "NA"], [
+      "NA"], [
       "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
