@@ -60,11 +60,11 @@
     [["RU", "UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], [
       "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],
 
-     ["JP", "TW"], [
+    [["JP", "TW"], [
       "http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
 
 
-    ["CN", "HK"], [
+    [["CN", "HK"], [
      "http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],
 
 
