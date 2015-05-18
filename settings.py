@@ -47,8 +47,8 @@
       "http://www.eurolive.com/?id=75216&langue=es&tracker=esrev&w=0&buying=3"]],
 
       
-    [["BR", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", "JP", "NA",
-      "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "TW", "SG", "MK"], [
+    [["BR", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", "NA",
+      "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "SG", "MK"], [
       "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
@@ -59,6 +59,13 @@
 
     [["RU", "UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], [
       "http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],
+
+     ["JP", "TW"], [
+      "http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
+
+
+    ["CN", "HK"], [
+     "http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],
 
 
     [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/1GZAUX", "http://adf.ly/1GZAZi", "http://adf.ly/1GZAed"]]
