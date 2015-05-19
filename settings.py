@@ -29,7 +29,7 @@
 
 
     [["FR", "BE"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=fr&brand=y&age=18%2A25]],
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=fr&brand=y&age=18%2A25"]],
 
 
     [["IT"], [
