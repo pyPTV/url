@@ -14,7 +14,6 @@
 
 
     [["US", "AU", "CA", "GB", "NZ"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default", 
       "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=default"]],
 
 
