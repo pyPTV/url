@@ -23,7 +23,7 @@
       "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world"]],
 
 
-    [["DE", "AT", "CH"], [
+    [["DE"], [
       "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
