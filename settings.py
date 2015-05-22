@@ -27,6 +27,14 @@
       "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
+    [["NO", "SE", "FI", "DK"], [
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=en&brand=y&age=18%2A25"]],
+
+
+    [["AT", "CH"], [
+      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=de&brand=y&age=18%2A25"]],
+
+
     [["FR", "BE"], [
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=fr&brand=y&age=18%2A25"]],
 
@@ -43,8 +51,8 @@
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=es&brand=y&age=18%2A25"]],
 
       
-    [["BR", "IN", "DK", "NO", "SE", "MX", "CO", "NG", "AR", "NA",
-      "VE", "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "SG", "MK"], [
+    [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
+      "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "SG", "MK"], [
       "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
