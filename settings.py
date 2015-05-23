@@ -27,7 +27,7 @@
       "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
-    [["NO", "SE", "FI", "DK"], [
+    [["NO", "SE", "FI", "DK", "IE", "LU", "IS"], [
       "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=en&brand=y&age=18%2A25"]],
 
 
@@ -52,12 +52,12 @@
 
       
     [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
-      "GR", "CZ", "IE", "FI", "LU", "PA", "IS", "SG", "MK"], [
+      "GR", "PA", "MK"], [
       "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
 
 
     [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", 
-      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO"], [
+      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG"], [
       "http://bongacams.com/track?c=20943"]],
 
 
