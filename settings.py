@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://bongacams.com/track?c=20944"]],
-    [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
+    [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170", "http://rd.mobiteasy.com/mr/?id=alex1306", "http://www.69.tv/?pid=2410dc6f16a698de058ed2e9c83349f1"]]
 
 ],
  
