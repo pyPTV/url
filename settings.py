@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://bongacams.com/track?c=20944"]],
+    [["US"], ["http://bongacams.com/track?c=20944", "http://rd.mobiteasy.com/mr/?id=alex1306"]],
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170", "http://rd.mobiteasy.com/mr/?id=alex1306"]]
 
 ],
