@@ -8,8 +8,8 @@
 
     "mobile": {
         "US": {
-            "http://mobile.us": " ",
-            "http://mobile-1.us": " "
+            "http://mobile.us": "ad-mob1",
+            "http://mobile-1.us": "ad-mob2"
         },
         "ZZ": {
             "http://mobile.zz": " ",
@@ -18,9 +18,9 @@
     },
 
     "desktop": {
-        "BE-FK-FO-GG-GI-GL-JE-LI-NZ-QA-SM": {
-            "http://desktop.group": " ",
-            "http://desktop-1.group": " "
+        "BE-FK-FO-GG-GI-GL-JE-LI-NZ-QA-SM-RU": {
+            "http://desktop.group": "ad1 ",
+            "http://desktop-1.group": "ad2 "
         },
         "ZZ": {
             "http://desktop.zz": " "
