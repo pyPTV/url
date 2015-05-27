@@ -8,22 +8,22 @@
 
     "mobile": {
         "US": {
-            "http://mobile.us": "ad-mob1",
-            "http://mobile-1.us": "ad-mob2"
+            "http://play.traffpartners.com/?id=alex1306": "Click here",
+            "http://play.traffpartners.com/?id=alex1306": "Click here"
         },
         "ZZ": {
-            "http://mobile.zz": " ",
-            "http://mobile-1.zz": " "
+            "http://play.traffpartners.com/?id=alex1306": "Click here",
+            "http://play.traffpartners.com/?id=alex1306": "Click here"
         }
     },
 
     "desktop": {
         "BE-FK-FO-GG-GI-GL-JE-LI-NZ-QA-SM-RU": {
-            "http://desktop.group": "ad1 ",
-            "http://desktop-1.group": "ad2 "
+            "http://play.traffpartners.com/?id=alex1306": "Click here",
+            "http://play.traffpartners.com/?id=alex1306": "Click here"
         },
         "ZZ": {
-            "http://desktop.zz": " "
+            "http://play.traffpartners.com/?id=alex1306": "Click here"
         }
     }
 }
