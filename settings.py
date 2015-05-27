@@ -28,27 +28,27 @@
 
 
     [["NO", "SE", "FI", "DK", "IE", "LU", "IS"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=en&brand=y&age=18%2A25"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
 
     [["AT", "CH"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=de&brand=y&age=18%2A25"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
 
     [["FR", "BE"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=fr&brand=y&age=18%2A25"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
 
     [["IT"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=it&brand=y&age=18%2A25"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
 
     [["NL"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=nl&brand=y&age=18%2A25"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
 
     [["ES"], [
-      "http://www.xcams.com/?comfrom=880925&cf0=pc2&cf2=es&brand=y&age=18%2A25"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
       
     [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
