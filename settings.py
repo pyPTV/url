@@ -20,7 +20,7 @@
 
     [["FK", "FO", "GG", "GI", "GL", "JE", "LI", "QA", "SM", "AW", "BN", "BS", 
       "KW", "MO", "PR"], [
-      "http://chaturbate.com/affiliates/in/ZmU7/Xbh8t/?track=world"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
 
 
     [["DE"], [
