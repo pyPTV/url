@@ -14,13 +14,13 @@
 
 
     [["US", "AU", "CA", "GB", "NZ"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=premium"]],
 
 
 
     [["FK", "FO", "GG", "GI", "GL", "JE", "LI", "QA", "SM", "AW", "BN", "BS", 
       "KW", "MO", "PR"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=minor"]],
 
 
     [["DE"], [
@@ -28,27 +28,27 @@
 
 
     [["NO", "SE", "FI", "DK", "IE", "LU", "IS"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=neurope"]],
 
 
     [["AT", "CH"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=atch"]],
 
 
     [["FR", "BE"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=frbe"]],
 
 
     [["IT"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=it"]],
 
 
     [["NL"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=nl"]],
 
 
     [["ES"], [
-      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=default"]],
+      "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=es"]],
 
       
     [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
