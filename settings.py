@@ -24,8 +24,7 @@
 
 
     [["DE"], [
-      "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
-      "http://www.amateurseite.com/site/?ag=768&wm=19035&prm=ppl&tsd=atcrm63&fsk=18"]],
+      "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
 
     [["NO", "SE", "FI", "DK", "IE", "LU", "IS"], [
