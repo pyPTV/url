@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://rd.mobiteasy.com/mr/?id=alex1306"]],
+    [["US"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]],
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
