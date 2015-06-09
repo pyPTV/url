@@ -8,22 +8,22 @@
 
     "mobile": {
         "US": {
-            "http://play.traffpartners.com/?id=alex1306": "Click here",
-            "http://play.traffpartners.com/?id=alex1306": "Click here"
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here",
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here"
         },
         "ZZ": {
-            "http://play.traffpartners.com/?id=alex1306": "Click here",
-            "http://play.traffpartners.com/?id=alex1306": "Click here"
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here",
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here"
         }
     },
 
     "desktop": {
         "BE-FK-FO-GG-GI-GL-JE-LI-NZ-QA-SM-RU": {
-            "http://play.traffpartners.com/?id=alex1306": "Click here",
-            "http://play.traffpartners.com/?id=alex1306": "Click here"
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here",
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here"
         },
         "ZZ": {
-            "http://play.traffpartners.com/?id=alex1306": "Click here"
+            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "Click here"
         }
     }
 }
