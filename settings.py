@@ -38,17 +38,17 @@
 
     [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
       "GR", "PA", "MK"], [
-      "http://ertya.com/go/caRG9_bBBLR/DEFAULT"]], 
+      "http://adf.ly/1Gid8n"]], 
 
 
     [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", 
       "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG", "UA"], [
-      "http://bongacams.com/track?c=20943"]],
+      "http://adf.ly/1Ix8mZ"]],
 
 
-    [["RU", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],
-    [["JP", "TW"], ["http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
-    [["CN", "HK"], ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],
+    [["RU", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], ["http://adf.ly/lvii7"]],
+    [["JP", "TW"], ["http://adf.ly/1Ix9A3"]],
+    [["CN", "HK"], ["http://adf.ly/1Ix9EA"]],
     [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/1GZAUX", "http://adf.ly/1GZAZi", "http://adf.ly/1GZAed"]]
 
 
