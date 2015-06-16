@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx", "http://bongacams.com/track?c=20944"]],
+    [["US"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]],
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
@@ -42,11 +42,11 @@
 
 
     [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", 
-      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG"], [
+      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG", "UA"], [
       "http://bongacams.com/track?c=20943"]],
 
 
-    [["RU", "UA", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],
+    [["RU", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],
     [["JP", "TW"], ["http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
     [["CN", "HK"], ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],
     [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/1GZAUX", "http://adf.ly/1GZAZi", "http://adf.ly/1GZAed"]]
