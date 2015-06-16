@@ -28,7 +28,6 @@
     [["NO"], ["http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=no"]],
     [["SE"], ["http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=se"]],
     [["DK"], ["http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=dk"]],
-
     [["FK", "FO", "GG", "GI", "GL", "JE", "LI", "QA", "SM", "AW", "BN", "BS", 
       "KW", "MO", "PR", "IE", "LU", "IS", "FI"], [
       "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=minor"]],
