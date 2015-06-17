@@ -34,7 +34,8 @@
 
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=rev&ts=&wm=19035"]],
+              "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubelp&prm=rev&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=1423&pr=webcamlp&prm=rev&ts=&wm=19035"]],
 
     [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
       "GR", "PA", "MK"], [
