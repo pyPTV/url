@@ -33,7 +33,8 @@
       "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=minor"]],
 
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=rev&ts=&wm=19035"]],
 
     [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
       "GR", "PA", "MK"], [
