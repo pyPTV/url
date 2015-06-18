@@ -32,14 +32,14 @@
       "KW", "MO", "PR", "IE", "LU", "IS", "FI"], [
       "http://chaturbate.com/affiliates/in/hr8m/Xbh8t/?track=minor"]],
 
+
     [["JP", "TW"], ["http://adf.ly/1Ix9A3"]],
     [["CN", "HK"], ["http://adf.ly/1Ix9EA"]],
+
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubelp&prm=rev&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1423&pr=webcamlp&prm=rev&ts=&wm=19035"]],
-
-    [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", "PA"], ["http://adf.ly/1Gid8n"]], 
 
 
     [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", "MT", "ME",
