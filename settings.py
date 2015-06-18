@@ -35,19 +35,11 @@
 
     [["JP", "TW"], ["http://adf.ly/1Ix9A3"]],
     [["CN", "HK"], ["http://adf.ly/1Ix9EA"]],
-
+    [["RU", "KZ"], ["http://adf.ly/lvii7"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubelp&prm=rev&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1423&pr=webcamlp&prm=rev&ts=&wm=19035"]],
-
-
-    [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", "MT", "ME",
-      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG", "UA", "GR", "MK", "AD"], [
-      "http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/1GZAUX", "http://adf.ly/1GZAZi", "http://adf.ly/1GZAed"]],
-
-
-    [["RU", "KZ", "AZ", "GE", "AM", "BY", "MD", "KG", "UZ", "TM"], ["http://adf.ly/lvii7"]],
 
 
     [["ZZ"], ["http://adf.ly/vFa4W", "http://adf.ly/vFaD1", "http://adf.ly/1GZAUX", "http://adf.ly/1GZAZi", "http://adf.ly/1GZAed"]]
