@@ -37,13 +37,11 @@
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubelp&prm=rev&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1423&pr=webcamlp&prm=rev&ts=&wm=19035"]],
 
-    [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", 
-      "GR", "PA", "MK"], [
-      "http://adf.ly/1Gid8n"]], 
+    [["BR", "IN", "MX", "CO", "NG", "AR", "NA", "VE", "PA"], ["http://adf.ly/1Gid8n"]], 
 
 
-    [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", 
-      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG", "UA"], [
+    [["EE", "SK", "LV", "SI", "HR", "RS", "IL", "PT", "AE", "HU", "BG", "RO", "MT", "ME",
+      "KR", "ZA", "CY", "PL", "LT", "TR", "BH", "JO", "CZ", "SG", "UA", "GR", "MK", "AD"], [
       "http://adf.ly/1Ix8mZ"]],
 
 
