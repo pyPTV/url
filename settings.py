@@ -13,7 +13,7 @@
 [
 
 
-    [["US"], 
+    [["US", "CA", "NZ", "AU"], 
      ["http://imlive.com/wmaster.ashx?WID=125977836270&LinkID=1220&queryid=1&perlead=1220&promocode=BCODE_00000"]],
 
     [["GB", "IE", "BE", "DK", "FI", "FR", "GI", "IS", "IT", "MC", "NL", "NO", "PT", "ES", "SE", "CH", "AT", "LU", "HK", "SM"], 
