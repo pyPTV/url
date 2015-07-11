@@ -20,6 +20,14 @@
      ["http://adf.ly/1Kao5M", "http://adf.ly/1KaoEF"]],
 
     [["RU", "KZ"],       ["http://adf.ly/lvii7"]],
+
+
+    [["JP", "TW"],       
+     ["http://click.dtiserv2.com/Direct/9173999-173-us9126/home/index.html", 
+      "http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
+
+
+    [["CN", "PH"],       ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],
     [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["ZZ"],             ["http://adf.ly/1Kapei"]]
 
