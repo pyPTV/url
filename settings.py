@@ -18,7 +18,7 @@
       "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
 
     [["GB", "IE", "BE", "DK", "FI", "FR", "GI", "IS", "IT", "MC", "NL", "NO", "PT", "ES", "SE", "CH", "AT", "LU", "HK", "SM"], 
-     ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPWhwYWdlJmNmc2EyPSZjZjA9cHBz&promo=xcams&subid1=hpage&subid2=&brand=xcams"]],
+     ["http://frtya.com/go/caRG9_bBBLR/DEFAULT"]],
 
     [["RU", "KZ"],       ["http://adf.ly/lvii7"]],
 
