@@ -29,7 +29,7 @@
 
 
     [["CN", "PH"],       ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],
-    [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035", "https://www.sehiba.com/VX/LP/Chatsim_Rotation?ver=2&w=21022&ws="]],
     [["ZZ"],             ["http://adf.ly/1Kapei"]]
 
 
