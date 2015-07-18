@@ -13,11 +13,11 @@
 [
 
 
-    [["US"], 
+    [["US", "CA", "AU"], 
      ["http://www.localmilfselfies.com/?page=x1&wm_login=alex1306&ps=p",
       "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
 
-    [["CA", "NZ", "AU", "GB", "IE", "BE", "DK", "FI", "FR", "GI", "IS", "IT", "MC", "NL", "NO", "PT", "ES", "SE", "CH", "AT", "LU", "HK", "SM"], 
+    [["NZ", "GB", "IE", "BE", "DK", "FI", "FR", "GI", "IS", "IT", "MC", "NL", "NO", "PT", "ES", "SE", "CH", "AT", "LU", "HK", "SM"], 
      ["http://frtya.com/go/caRG9_bBBLR/DEFAULT"]],
 
     [["RU", "KZ"],       ["http://adf.ly/lvii7"]],
