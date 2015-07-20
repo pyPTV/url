@@ -26,7 +26,7 @@
                          "http://frtya.com/go/fxyag_bBBLR/DEFAULT", 
                          "http://frtya.com/go/caRG9_bBBLR/DEFAULT"]],
 
-    [[AD, "FR", "LU", "MC", "RE"], [
+    [["AD", "FR", "LU", "MC", "RE"], [
                          "http://frtya.com/go/fxyag_bBBLR/DEFAULT",
                          "http://frtya.com/go/lW8l_bBBLR/DEFAULT",                           
                          "http://frtya.com/go/wHl_bBBLR/DEFAULT", 
@@ -37,6 +37,7 @@
     [["JP", "TW"],       ["http://click.dtiserv2.com/Direct/9173999-173-us9126/home/index.html", "http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
     [["CN", "PH"],       ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],    
     [["ZZ"],             ["http://adf.ly/1Kapei"]]
+
 
 
 ]}
