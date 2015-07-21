@@ -16,6 +16,8 @@
     [["US", "CA", "AU"], [
                          "http://wcjoin.com/osuog", "http://wcjoin.com/ysuob",
                          "http://wcjoin.com/jtuoz", "http://wcjoin.com/euuoh", "http://wcjoin.com/quuow",
+                         "http://www.camplacecash.com/delivery/?w=1385&l=en&b=&c=mainpage",
+                         "http://www.camplacecash.com/delivery/show/landingpages/lp1/?w=1385&b=205684&l=en&c=sinwheel",
                          "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
 
     [["GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "CH", "BE"], [
