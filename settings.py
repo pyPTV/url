@@ -39,7 +39,7 @@
     [["RU", "KZ"],       ["http://adf.ly/lvii7"]],    
     [["JP", "TW"],       ["http://click.dtiserv2.com/Direct/9173999-173-us9126/home/index.html", "http://click.dtiserv2.com/Direct/9354999-354-us9126/jp/japanese-webcam-girls.shtml"]],
     [["CN", "PH"],       ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],    
-    [["ZZ"],             ["http://adf.ly/1Kapei"]]
+    [["ZZ"],             ["http://adf.ly/1Kapei", "http://join.extremebukkake.com/track/MTAwNTI4LjIxMi41LjIxMS4wLjAuMC4wLjA"]]
 
 
 
