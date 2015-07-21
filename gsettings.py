@@ -2,14 +2,14 @@
     "mobile":
 [
     
-    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/alex1306.215.68.68.0.0.0.0.0"]]
+    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/MTAwNTI4LjIxNS42OC42OC4wLjAuMC4wLjA"]]
 
 ],
  
     "desktop":
 [
 
-    [["ZZ"], ["http://join.bukkakeboys.com/track/alex1306.268.62.308.0.0.0.0.0"]]
+    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNTI4LjI2OC42Mi4zMDguMC4wLjAuMC4w"]]
 ]
 }
 
