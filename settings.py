@@ -34,6 +34,7 @@
                          "http://frtya.com/go/lW8l_bBBLR/DEFAULT",                           
                          "http://frtya.com/go/wHl_bBBLR/DEFAULT", 
                          "http://frtya.com/go/hsL_bBBLR/DEFAULT"]],
+
     [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["ES"],             ["http://frtya.com/go/cCch_bBBLR/DEFAULT"]],
     [["RU", "KZ"],       ["http://adf.ly/lvii7"]],    
