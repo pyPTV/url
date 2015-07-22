@@ -17,7 +17,8 @@
                          "http://wcjoin.com/osuog", 
                          "http://wcjoin.com/ysuob",
                          "http://www.camplacecash.com/delivery/?w=1385&l=en&b=&c=mainpage",
-                         "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
+                         "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1",
+                         "http://www.flirt4free.com/live/girls/?mp_code=acmwr"]],
 
     [["GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "CH", "BE"], [
                          "http://frtya.com/go/fxyag_bBBLR/DEFAULT", 
