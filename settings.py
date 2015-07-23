@@ -28,6 +28,7 @@
                          "http://frtya.com/go/lW8l_bBBLR/gratuite",                           
                          "http://frtya.com/go/wHl_bBBLR/exposed", 
                          "http://frtya.com/go/hsL_bBBLR/dusexe",
+                         "http://frtya.com/go/bQlyF_bBBLR/sondage",
                          "http://bongacams.com/track?c=20944"]],
 
     [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
