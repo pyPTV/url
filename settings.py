@@ -31,7 +31,7 @@
                          "http://bongacams.com/track?c=20944"]],
 
     [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
-    [["RU", "KZ"],       ["http://adf.ly/lvii7"]],    
+    [["RU", "KZ", "BY"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],    
     [["JP"],             ["http://frtya.com/go/bVrGI_bBBLR/jpcams"]],
     [["CN", "PH"],       ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],    
     [["ZZ"],             ["http://bongacams.com/track?c=20944"]]
