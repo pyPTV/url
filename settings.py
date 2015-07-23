@@ -14,7 +14,6 @@
 
 
     [["US", "CA", "AU"], [
-                         "http://wcjoin.com/osuog", 
                          "http://wcjoin.com/ysuob",
                          "http://www.camplacecash.com/delivery/?w=1385&l=en&b=&c=mainpage",
                          "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
