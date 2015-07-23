@@ -35,7 +35,6 @@
                          "http://frtya.com/go/hsL_bBBLR/DEFAULT"]],
 
     [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
-    [["ES"],             ["http://frtya.com/go/cCch_bBBLR/DEFAULT"]],
     [["RU", "KZ"],       ["http://adf.ly/lvii7"]],    
     [["JP"],             ["http://frtya.com/go/bVrGI_bBBLR/DEFAULT"]],
     [["CN", "PH"],       ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]],    
