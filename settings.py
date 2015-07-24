@@ -31,7 +31,7 @@
       "IL", 
       "HR", "AE", "LT", "RO", "TR", "BG", "PL", "HU", "MK", "CY", 
       "KR", "ZA", "UA", "BH", "JO", "RS"], [
-                         "http://bongacams.com/track?c=20944"]]
+                         "http://bongacams.com/track?c=20944"]],
 
     [["FR"], [
                          "http://frtya.com/go/lW8l_bBBLR/gratuite",                           
