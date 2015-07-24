@@ -25,7 +25,8 @@
     [["FI", "PT", "AT", "SG", "TW", "HK", "SM", "GI", "LU"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy"]],
 
-    [["EE", "CZ", "SK", "IT", "SI", 
+    [["EE", "CZ", 
+      "SK", "IT", "SI", 
       "ES", "LV", "GR", 
       "IL", 
       "HR", "AE", "LT", "RO", "TR", "BG", "PL", "HU", "MK", "CY", 
