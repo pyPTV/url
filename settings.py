@@ -15,7 +15,7 @@
 
 
     [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1",
-                          "http://insurance-howto-blog.blogspot.ru/"]],
+                          "http://insurance-howto-blog.blogspot.com"]],
 
     [["GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "CH", "BE"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy", 
