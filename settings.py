@@ -14,9 +14,7 @@
 
 
 
-    [["US", "CA", "AU"], [
-                         "http://www.camplacecash.com/delivery/?w=1385&l=en&b=&c=mainpage",
-                         "http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
+    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
 
     [["GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "CH", "BE"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy", 
