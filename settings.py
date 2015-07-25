@@ -15,7 +15,9 @@
 
 
     [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1",
-                          "http://insurance-howto-blog.blogspot.com"]],
+                          "http://insurance-howto-blog.blogspot.com",
+                          "http://www.streamate.com/?DF=0&AFNO=1-0-638166-355806&UHNSMTY=221",
+                          "http://mt.livecamfun.com/xtarc/638166/358/1/arg_tour=ex4&t=4?mta=355806"]],
 
     [["GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "CH", "BE"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy", 
