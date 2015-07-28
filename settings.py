@@ -14,7 +14,8 @@
 
 
 
-    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
+    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1",
+                          "http://www.derangeddollars.com/gallhit.php?100161,22,1,1,0"]],
 
     [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy", 
