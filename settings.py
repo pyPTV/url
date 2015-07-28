@@ -14,8 +14,7 @@
 
 
 
-    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1",
-                          "http://www.localmilfselfies.com/?page=x1&wm_login=alex1306&ps=p"]],
+    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
 
     [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy", 
