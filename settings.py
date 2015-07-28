@@ -17,7 +17,7 @@
     [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1",
                           "http://www.localmilfselfies.com/?page=x1&wm_login=alex1306&ps=p"]],
 
-    [["GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "CH", "BE"], [
+    [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy", 
                          "http://frtya.com/go/wHl_bBBLR/exposed"]],
 
@@ -32,6 +32,8 @@
       "KR", "ZA", "UA", "BH", "JO", "RS"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy"]],
 
+    [["NL", "BE"], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
+    
     [["FR"], [
                          "http://frtya.com/go/lW8l_bBBLR/gratuite",                           
                          "http://frtya.com/go/wHl_bBBLR/exposed", 
