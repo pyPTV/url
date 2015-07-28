@@ -24,11 +24,11 @@
     [["FI", "PT", "AT", "SG", "TW", "HK", "SM", "GI", "LU"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy"]],
 
-    [["EE", "CZ", 
+    [["CZ", 
       "SK", "SI", 
-      "LV", "GR", 
+      "GR", 
       "IL", 
-      "HR", "AE", "LT", "RO", "TR", "BG", "PL", "HU", "MK", "CY", 
+      "HR", "AE", "RO", "TR", "BG", "PL", "HU", "MK", "CY", 
       "KR", "ZA", "UA", "BH", "JO", "RS"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy"]],
 
@@ -41,7 +41,8 @@
                          "http://frtya.com/go/bQlyF_bBBLR/sondage"]],
 
     [["DE"],             ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
-    [["RU", "KZ", "BY"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],    
+    [["RU", "KZ", "BY", 
+      "EE", "LV", "LT"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],    
     [["JP"],             ["http://frtya.com/go/bVrGI_bBBLR/jpcams"]],
     [["ZZ"],             ["http://click.dtiserv2.com/Direct/9354999-354-us9126/cn/japanese-webcam-girls.shtml"]]
 
