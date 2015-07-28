@@ -25,14 +25,14 @@
                          "http://frtya.com/go/caRG9_bBBLR/sexy"]],
 
     [["EE", "CZ", 
-      "SK", "IT", "SI", 
-      "ES", "LV", "GR", 
+      "SK", "SI", 
+      "LV", "GR", 
       "IL", 
       "HR", "AE", "LT", "RO", "TR", "BG", "PL", "HU", "MK", "CY", 
       "KR", "ZA", "UA", "BH", "JO", "RS"], [
                          "http://frtya.com/go/caRG9_bBBLR/sexy"]],
 
-    [["NL", "BE"], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
+    [["NL", "BE", "IT", "ES" ], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
     
     [["FR"], [
                          "http://frtya.com/go/lW8l_bBBLR/gratuite",                           
