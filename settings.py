@@ -21,10 +21,9 @@
     [["NL", "BE", "IT", "ES"], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
     
     [["FR"], [
-                         "http://frtya.com/go/lW8l_bBBLR/gratuite",                           
-                         "http://frtya.com/go/wHl_bBBLR/exposed", 
+                         "http://frtya.com/go/lW8l_bBBLR/gratuite",
                          "http://frtya.com/go/hsL_bBBLR/dusexe",
-                         "http://frtya.com/go/bQlyF_bBBLR/sondage"]],
+                         "http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["RU", "KZ", "BY", "EE", "LV", "LT"], ["http://runetki.com/?id=7423&cmp=&lng=ru&tp=5"]],    
