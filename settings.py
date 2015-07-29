@@ -15,7 +15,7 @@
 
 
 
-    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
+    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1", "http://go.milfder.com/aff_c?offer_id=2&aff_id=34"]],
     [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], ["http://frtya.com/go/caRG9_bBBLR/sexy", "http://frtya.com/go/wHl_bBBLR/exposed"]],
     [["FI", "PT", "AT", "SG", "TW", "HK", "SM", "GI", "LU"], ["http://frtya.com/go/caRG9_bBBLR/sexy"]],
     [["NL", "BE", "IT", "ES"], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
