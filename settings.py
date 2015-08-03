@@ -14,7 +14,7 @@
 
 
 
-    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1"]],
+    [["US", "CA", "AU"], ["http://www.seekingmilf.com?ainfo=NDA0MTh8MTM1OXww&skin=203&i=1", "http://adultoffline.com/"]],
     [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], ["http://frtya.com/go/caRG9_bBBLR/sexy"]],
     [["LU", "PA", "AT", "TW", "SG"], ["http://frtya.com/go/caRG9_bBBLR/sexy"]],
     [["NL", "BE", "IT", "ES", "FI", "PT"], ["http://runetki.com/160851/"]],
