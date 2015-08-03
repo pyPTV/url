@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]],
-    [["ZZ"], ["http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]]
+    [["US"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]],
+    [["ZZ"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]]
 
 ],
  
