@@ -20,7 +20,7 @@
     [["NL", "BE", "IT", "ES", "FI", "PT"], ["http://runetki.com/160851/"]],
     [["FR"], ["http://runetki.com/160851/"]],
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035", "http://www.awc-pharmacy-24h.com/catalog/Bestsellers.htm?refid=898"]],
+    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["RU", "KZ", "BY", "EE", "LV", "LT"], ["http://runetki.com/432914/"]],   
     [["ZZ"], ["http://runetki.com/160851/"]]
 
