@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US", "CA", "AU"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&product_type=video&gay=1&pi=gay"]],
-    [["ZZ"],             ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&product_type=video&gay=1&pi=gay"]]
+    [["US", "CA", "AU"], ["http://m.gaylive.55745.idhad.com/?target_id=55745", "http://m.hotgays.55747.idhad.com/?target_id=55747", "http://traffic.trafficcompany.com/?p=2478&media_type=adult&product_type=video&gay=1&pi=gay"]],
+    [["ZZ"],             ["http://m.gaylive.55745.idhad.com/?target_id=55745", "http://m.hotgays.55747.idhad.com/?target_id=55747", "http://traffic.trafficcompany.com/?p=2478&media_type=adult&product_type=video&gay=1&pi=gay"]]
 
 ],
  
