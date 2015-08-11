@@ -22,7 +22,7 @@
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["RU", "KZ", "BY", "EE", "LV", "LT"], ["http://runetki.com/432914/"]],   
-    [["ZZ"], ["https://youtu.be/_lRixkZ1FX4"]]
+    [["ZZ"], ["http://runetki.com/160851/"]]
 
 
 
