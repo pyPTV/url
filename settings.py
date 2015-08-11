@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://blondetube.mobi/?pid=215898&typ=4", "http://blondetube.mobi/?pid=215898&typ=4"]], 
+    [["US"], ["http://m.idhad.com/?codeaff=aff_affil4you_6722"]], 
     [["ZZ"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx", "http://traffic.trafficcompany.com/?p=2478&media_type=adult&product_type=video&pi=sraight"]]
 
 ],
