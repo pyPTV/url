@@ -12,17 +12,13 @@
 
     [["US", "CA", "AU"], [
 
-              "http://www.gaytubechannels.com/?t=403352,5,13,0",
-              "http://join.gayvideobase.com/?t=403352,5,14,0",
-              "http://www.gogotwinks.com/?t=403352,5,10,0"
+              "http://www.buddylead.com/nextdoorebony/go.php?pr=9&su=2&si=51&ad=250878&cs=tour1&ar=&buffer="
                 
               ]],
 
     [["ZZ"], [
 
-              "http://www.gaytubechannels.com/?t=403352,5,13,0",
-              "http://join.gayvideobase.com/?t=403352,5,14,0",
-              "http://www.gogotwinks.com/?t=403352,5,10,0"
+              "http://www.buddylead.com/nextdoorebony/go.php?pr=9&su=2&si=51&ad=250878&cs=tour1&ar=&buffer="
               
               ]]
 
