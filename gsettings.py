@@ -12,13 +12,17 @@
 
     [["US", "CA", "AU"], [
 
-              "http://www.buddylead.com/nextdoorebony/go.php?pr=9&su=2&si=51&ad=250878&cs=tour1&ar=&buffer="
+                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276598&r=lc872027",
+                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276599&r=lc872027",
+                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276600&r=lc872027"
                 
               ]],
 
     [["ZZ"], [
 
-              "http://www.buddylead.com/nextdoorebony/go.php?pr=9&su=2&si=51&ad=250878&cs=tour1&ar=&buffer="
+                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276598&r=lc872027",
+                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276599&r=lc872027",
+                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276600&r=lc872027"
               
               ]]
 
