@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US", "CA", "AU"], ["http://rd.mobiteasy.com/mr/?id=ppubros"]],
-    [["ZZ"],             ["http://rd.mobiteasy.com/mr/?id=ppubros"]]
+    [["US", "CA", "AU"], ["http://gay.traffpartners.com/?id=ppubros"]],
+    [["ZZ"],             ["http://gay.traffpartners.com/?id=ppubros"]]
 
 ],
  
