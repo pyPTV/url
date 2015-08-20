@@ -14,16 +14,7 @@
 
 
 
-    [["US", "CA", "AU"], [
-
-                          "http://ard.xxxblackbook.com/trafficoptimizer/index.php?toid=276592&r=lc872027",
-                          "http://ard.xxxblackbook.com/trafficoptimizer/index.php?toid=276593&r=lc872027",
-                          "http://ard.xxxblackbook.com/trafficoptimizer/index.php?toid=276594&r=lc872027",
-                          "http://ard.xxxblackbook.com/trafficoptimizer/index.php?toid=276596&r=lc872027",
-                          "http://ard.blacktryst.com/trafficoptimizer/index.php?toid=276597&r=lc872027"
-
-
-]],
+    [["US", "CA", "AU"], ["http://runetki.com/160851/"]],
     [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], ["http://runetki.com/160851/"]],
     [["LU", "PA", "AT", "TW", "SG"], ["http://runetki.com/160851/"]],
     [["NL", "BE", "IT", "ES", "FI", "PT"], ["http://runetki.com/160851/"]],
