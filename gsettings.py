@@ -12,18 +12,12 @@
 
     [["US", "CA", "AU"], [
 
-                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276598&r=lc872027",
-                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276599&r=lc872027",
-                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276600&r=lc872027"
+                          "https://www.cameraboys.com"
                 
               ]],
 
     [["ZZ"], [
-
-                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276598&r=lc872027",
-                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276599&r=lc872027",
-                          "http://ard.gcruise.com/trafficoptimizer/index.php?toid=276600&r=lc872027"
-              
+                          "https://www.cameraboys.com"
               ]]
 
 
