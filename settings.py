@@ -14,15 +14,15 @@
 
 
 
-    [["US", "CA", "AU"], ["https://yareel.com/?affiliate_id=55d8513525c0d", "http://runetki.com/160851/"]],
-    [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], ["https://yareel.com/?affiliate_id=55d8513525c0d", "http://runetki.com/160851/"]],
-    [["LU", "PA", "AT", "TW", "SG"], ["https://yareel.com/?affiliate_id=55d8513525c0d", "http://runetki.com/160851/"]],
-    [["NL", "BE", "IT", "ES", "FI", "PT"], ["https://yareel.com/?affiliate_id=55d8513525c0d", "http://runetki.com/160851/"]],
-    [["FR"], ["https://yareel.com/?affiliate_id=55d8513525c0d", "http://runetki.com/160851/"]],
+    [["US", "CA", "AU"], ["http://runetki.com/160851/"]],
+    [["GB", "IE", "NZ", "DK", "SE", "NO", "IS", "CH"], ["http://runetki.com/160851/"]],
+    [["LU", "PA", "AT", "TW", "SG"], ["http://runetki.com/160851/"]],
+    [["NL", "BE", "IT", "ES", "FI", "PT"], ["http://runetki.com/160851/"]],
+    [["FR"], ["http://runetki.com/160851/"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["RU", "KZ", "BY", "EE", "LV", "LT"], ["http://runetki.com/432914/"]],   
-    [["ZZ"], ["https://yareel.com/?affiliate_id=55d8513525c0d", "http://runetki.com/160851/"]]
+    [["ZZ"], ["http://runetki.com/160851/"]]
 
 
 
