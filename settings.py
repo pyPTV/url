@@ -2,7 +2,11 @@
     "mobile":
 [
     [["US"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]], 
-    [["ZZ"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]]
+    [["ZZ"], ["http://cdn.yareel.com/pap_apk/Yareel_55d8513525c0d.apk", 
+              "http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx", 
+              "http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx", 
+              "http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx",
+              "http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]]
 
 ],
  
