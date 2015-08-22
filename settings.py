@@ -13,7 +13,7 @@
 [
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
-    [["ZZ"], ["http://www.fpcTraffic.com/raw/click.cgi?account=ppubros"]]
+    [["ZZ"], ["http://runetki.com/160851/"]]
 
 
 
