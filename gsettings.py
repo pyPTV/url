@@ -12,12 +12,12 @@
 
     [["US", "CA", "AU"], [
 
-                          "https://www.cameraboys.com"
+                          "http://join.bukkakeboys.com/track/MTAwNTI4LjIxMi42Mi42MTIuMC4wLjAuMC4w"
                 
               ]],
 
     [["ZZ"], [
-                          "https://www.cameraboys.com"
+                          "http://join.bukkakeboys.com/track/MTAwNTI4LjIxMi42Mi42MTIuMC4wLjAuMC4w"
               ]]
 
 
