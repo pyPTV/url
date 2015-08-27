@@ -12,12 +12,12 @@
 
     [["US", "CA", "AU"], [
 
-                          "http://join.bukkakeboys.com/track/MTAwNTI4LjIxMi42Mi42MTIuMC4wLjAuMC4w"
+                          "http://www.gaycamshows.com"
                 
               ]],
 
     [["ZZ"], [
-                          "http://join.bukkakeboys.com/track/MTAwNTI4LjIxMi42Mi42MTIuMC4wLjAuMC4w"
+                          "http://www.gaycamshows.com"
               ]]
 
 
