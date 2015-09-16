@@ -8,22 +8,22 @@
 
     "mobile": {
         "US": {
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!",
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!"
+            "http://google.com": "You help us if you click this ad link!",
+            "http://google.comc": "You help us if you click this ad link!"
         },
         "ZZ": {
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!",
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!"
+            "http://google.com": "You help us if you click this ad link!",
+            "http://google.com": "You help us if you click this ad link!"
         }
     },
 
     "desktop": {
         "BE-FK-FO-GG-GI-GL-JE-LI-NZ-QA-SM-RU": {
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!",
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!"
+            "http://google.com": "You help us if you click this ad link!",
+            "http://google.com": "You help us if you click this ad link!"
         },
         "ZZ": {
-            "http://play.traffpartners.com/?id=alex1306&tr=hnc": "You help us if you click this ad link!"
+            "http://google.com": "You help us if you click this ad link!"
         }
     }
 }
