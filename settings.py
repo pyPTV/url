@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com/160851/"]], 
-    [["ZZ"], ["http://rd.mobiteasy.com/mr/?id=alex1306&tr=xxx"]]
+    [["ZZ"], ["http://runetki.com/160851/"]]
 
 ],
  
