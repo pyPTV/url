@@ -8,22 +8,22 @@
 
     "mobile": {
         "US": {
-            "http://google.com": "You help us if you click this ad link!",
-            "http://google.comc": "You help us if you click this ad link!"
+            "http://google.com": " ",
+            "http://google.comc": " "
         },
         "ZZ": {
-            "http://google.com": "You help us if you click this ad link!",
-            "http://google.com": "You help us if you click this ad link!"
+            "http://google.com": " ",
+            "http://google.com": " "
         }
     },
 
     "desktop": {
         "BE-FK-FO-GG-GI-GL-JE-LI-NZ-QA-SM-RU": {
-            "http://google.com": "You help us if you click this ad link!",
-            "http://google.com": "You help us if you click this ad link!"
+            "http://google.com": " ",
+            "http://google.com": " "
         },
         "ZZ": {
-            "http://google.com": "You help us if you click this ad link!"
+            "http://google.com": " "
         }
     }
 }
