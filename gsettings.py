@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US", "CA", "AU"], ["http://www.gaycamshows.com"]],
-    [["ZZ"],             ["http://gay.traffpartners.com/?id=ppubros"]]
+    [["ZZ"],             ["http://www.gaycamshows.com"]]
 
 ],
  
