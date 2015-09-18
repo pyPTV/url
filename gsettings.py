@@ -1,16 +1,16 @@
 {
     "mobile":
 [
-    [["US", "CA", "AU"], ["http://www.gaycamshows.com"]],
-    [["ZZ"],             ["http://www.gaycamshows.com"]]
+    [["US", "CA", "AU"], ["http://www.hotnewscake.com"]],
+    [["ZZ"],             ["http://www.hotnewscake.com"]]
 
 ],
  
     "desktop":
 [
 
-    [["DE", "UK", "DK", "FR", "AT", "NO", "BR", "CH", "JP", "BE"], ["http://frtya.com/go/uFYX_bBBLR/DEFAULT"]],
-    [["ZZ"], ["http://www.gaycamshows.com"]]
+    [["DE", "UK", "DK", "FR", "AT", "NO", "BR", "CH", "JP", "BE"], ["http://www.hotnewscake.com"]],
+    [["ZZ"], ["http://www.hotnewscake.com"]]
 
 
 ]
