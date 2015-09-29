@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com/160851/"]], 
-    [["ZZ"], ["http://runetki.com/160851/"]]
+    [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
  
