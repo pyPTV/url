@@ -1,16 +1,16 @@
 {
     "mobile":
 [
-    [["US", "CA", "AU"], ["http://www.gaycamshows.com"]],
-    [["ZZ"],             ["http://www.gaycamshows.com"]]
+    [["US", "CA", "AU"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]],
+    [["ZZ"],             ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]]
 
 ],
  
     "desktop":
 [
 
-    [["DE", "UK", "DK", "FR", "AT", "NO", "BR", "CH", "JP", "BE"], ["http://www.gaycamshows.com"]],
-    [["ZZ"], ["http://www.gaycamshows.com"]]
+    [["DE", "UK", "DK", "FR", "AT", "NO", "BR", "CH", "JP", "BE"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]],
+    [["ZZ"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]]
 
 
 ]
