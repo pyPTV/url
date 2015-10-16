@@ -2,15 +2,15 @@
     "mobile":
 [
     [["US", "CA", "AU"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]],
-    [["ZZ"],             ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]]
+    [["ZZ"],             ["http://join.bukkakeboysmobile.com/track/affmasterico.268.68.68.0.0.0.0.0"]]
 
 ],
  
     "desktop":
 [
 
-    [["DE", "UK", "DK", "FR", "AT", "NO", "BR", "CH", "JP", "BE"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]],
-    [["ZZ"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]]
+    [["US", "CA", "AU"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]],
+    [["ZZ"], ["http://join.bukkakeboys.com/track/affmasterico.212.62.612.0.0.0.0.0"]]
 
 
 ]
