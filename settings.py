@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://chaturbate.com/affiliates/in/hr8m/wljQg/?track=default&disable_sound=True"]], 
+    [["US"], ["http://frtya.com/go/vxiZ_bBBLR/DEFAULT", "http://frtya.com/go/eWVN_bBBLR/DEFAULT"]], 
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
