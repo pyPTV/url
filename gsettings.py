@@ -9,8 +9,8 @@
     "desktop":
 [
 
-    [["US", "CA", "AU"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True", "http://www.allporncollection.com"]],
-    [["ZZ"], ["http://join.bukkakeboys.com/track/affmasterico.212.62.612.0.0.0.0.0", "http://www.allporncollection.com"]]
+    [["US", "CA", "AU"], ["http://chaturbate.com/affiliates/in/9rL0/wljQg/?track=default&disable_sound=True"]],
+    [["ZZ"], ["http://join.bukkakeboys.com/track/affmasterico.212.62.612.0.0.0.0.0"]]
 
 
 ]
