@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://frtyb.com/go/F6pX_bBBLR/DEFAULT"]],
+    [["US"], ["http://join.bukkakeboysmobile.com/track/affmasterico.268.68.68.0.0.0.0.0"]],
     [["ZZ"], ["http://join.bukkakeboysmobile.com/track/affmasterico.268.68.68.0.0.0.0.0"]]
 
 ],
