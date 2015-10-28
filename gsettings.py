@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&gay=1"]],
+    [["US"], ["http://frtyb.com/go/F6pX_bBBLR/DEFAULT"]],
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&gay=1"]]
 
 ],
