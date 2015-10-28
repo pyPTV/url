@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://frtyb.com/go/vxiZ_bBBLR/DEFAULT", "http://frtyb.com/go/eWVN_bBBLR/DEFAULT"]], 
+    [["US"], ["http://frtyb.com/go/eWVN_bBBLR/DEFAULT"]], 
     [["ZZ"], ["http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
