@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.bukkakeboysmobile.com/track/affmasterico.268.68.68.0.0.0.0.0"]],
-    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/affmasterico.268.68.68.0.0.0.0.0"]]
+    [["US"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&gay=1"]],
+    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&gay=1"]]
 
 ],
  
