@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://frtyb.com/go/eWVN_bBBLR/DEFAULT"]], 
-    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult"]]
+    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult", "http://mobile.bitterstrawberry.org/?id=170"]]
 
 ],
  
