@@ -15,7 +15,7 @@
     [["RU"], ["http://runetki.com/432914/"]],
     [["EE", "CZ", "AT", "BE", "SK", "IT", "SI", "JP", "ES", "LV", "IL",
       "HR", "PT", "LT", "RO", "TR", "BG", "PL", "HU", "CY", "FI", "IS"], ["http://bongacams.com/track?c=302460"]],
-    [["ZZ"], ["http://chaturbate.com/affiliates/in/hr8m/wZqzy/?track=default"]]
+    [["ZZ"], ["http://chaturbate.com/affiliates/in/hr8m/XSQ5K/?track=default"]]
 
 
 
