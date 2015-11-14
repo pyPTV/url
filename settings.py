@@ -1,8 +1,9 @@
 {
     "mobile":
 [
-    [["AU", "CA", "GB", "IE", "NZ", "US", "NL", "DK", 
-      "BE", "FR", "IS", "NO", "SE"], ["http://frtyb.com/go/eWVN_bBBLR/FreeCamsExposedMobilePPL"]], 
+    [["AU", "CA", "GB", "IE", "NZ", 
+      "US", "NL", "DK", "BE", "FR", 
+      "IS", "NO", "SE"], ["http://frtyb.com/go/eWVN_bBBLR/FreeCamsExposedMobilePPL"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult"]]
 
 ],
