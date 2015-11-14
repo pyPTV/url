@@ -16,7 +16,7 @@
     
     
     [["AU", "CA", "GB", "IE", "NZ", "NL", 
-      "DK", "SE", "NO", "IS", "FR" "CH", "BE"], ["http://frtyb.com/go/wHl_bBBLR/FreeCamsExposedPPL"]], 
+      "DK", "SE", "NO", "IS", "FR", "CH", "BE"], ["http://frtyb.com/go/wHl_bBBLR/FreeCamsExposedPPL"]], 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035", "http://frtyb.com/go/wHl_bBBLR/FreeCamsExposedPPL"]],
 
 
