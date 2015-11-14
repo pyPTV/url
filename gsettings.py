@@ -9,7 +9,9 @@
     "desktop":
 [
 
-    [["US"], ["http://join.bukkakeboys.com/track/affmasterico.212.62.612.0.0.0.0.0"]],
+    [["BE", "CH", "ES", "FI", "HK", "KR", "PT", "ZA", 
+      "DK", "FR", "IE", "IS", "IT", "NO", "PR", "SE",
+      "CA", "NZ", "SG"], ["http://frtyb.com/go/uFYX_bBBLR/DEFAULT"]],
     [["ZZ"], ["http://join.bukkakeboys.com/track/affmasterico.212.62.612.0.0.0.0.0"]]
 
 
