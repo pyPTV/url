@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["AU", "CA", "GB", "NZ", "US", "SG" 
+    [["AU", "CA", "GB", "NZ", "US", "SG", 
       "DK", "FR", "IE", "IS", "IT", "NO", 
       "PR", "SE", "BE", "CH", "ES", "FI", 
       "HK", "JP", "KR", "PT", "ZA"], ["http://frtyb.com/go/F6pX_bBBLR/JizzRouletteMobilePPL"]],
@@ -12,7 +12,7 @@
     "desktop":
 [
 
-    [["AU", "CA", "GB", "NZ", "SG" 
+    [["AU", "CA", "GB", "NZ", "SG", 
       "DK", "FR", "IE", "IS", "IT", "NO", 
       "PR", "SE", "BE", "CH", "ES", "FI", 
       "HK", "KR", "PT", "ZA"], ["http://frtyb.com/go/uFYX_bBBLR/GayCamsExposed"]],
