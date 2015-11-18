@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["AU", "CA", "GB", "IE", "NZ", "US", "NL", "DK", "BE", "FR", "IS", "NO", "SE"], ["http://frtyb.com/go/eWVN_bBBLR/FreeCamsExposedMobilePPL"]], 
+    [["AU", "CA", "GB", "IE", "NZ", "US", "NL", "DK", "IS", "NO", "SE"], ["http://frtyb.com/go/eWVN_bBBLR/FreeCamsExposedMobilePPL"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult"]]
 
 ],
@@ -13,10 +13,11 @@
 [
     
     
-    [["AU", "CA", "GB", "IE", "NZ", "NL", "DK", "SE", "NO", "IS", "FR", "CH", "BE"], ["http://frtyb.com/go/wHl_bBBLR/FreeCamsExposedPPL"]], 
-    [["DE"], ["http://frtyb.com/go/wHl_bBBLR/FreeCamsExposedPPL", "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["AU", "CA", "GB", "IE", "NZ", "NL", "DK", "SE", "NL", "NO", "IS", "CH"], ["http://frtyb.com/go/caRG9_bBBLR/sexy", "http://frtyb.com/go/wHl_bBBLR/FreeCamsExposedPPL"]], 
+    [["DE"], ["http://frtyb.com/go/caRG9_bBBLR/sexy", "http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["RU"], ["http://runetki.com/432914/"]],
-    [["EE", "CZ", "AT", "SK", "IT", "SI", "JP", "ES", "LV", "IL", "HR", "PT", "LT", "RO", "TR", "BG", "PL", "HU", "CY", "FI"], ["http://bongacams.com/track?c=302460"]],
+    [["BR", "IN", "CO", "IT", "MX", "VE", "ES", "AR", "AT", "LU", "CZ", "FI", "FR", "BE"], ["http://frtyb.com/go/caRG9_bBBLR/sexy"]], 
+    
     [["US"], ["http://chaturbate.com/affiliates/in/hr8m/XSQ5K/?track=default"]],
     [["ZZ"], ["http://runetki.com/160851/"]]
 
