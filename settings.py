@@ -18,8 +18,8 @@
     [["RU"], ["http://runetki.com/432914/"]],
     [["BR", "IN", "CO", "IT", "MX", "VE", "ES", "AR", "AT", "LU", "CZ", "FI", "FR", "BE"], ["http://frtyb.com/go/caRG9_bBBLR/sexy"]], 
     
-    [["US"], ["http://chaturbate.com/affiliates/in/hr8m/XSQ5K/?track=default"]],
-    [["ZZ"], ["http://runetki.com/160851/"]]
+    [["ZZ"], ["http://chaturbate.com/affiliates/in/hr8m/XSQ5K/?track=default"]]
+   
 
 
 
