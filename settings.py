@@ -18,7 +18,7 @@
     [["RU"], ["http://runetki.com/432914/"]],
     [["BR", "IN", "CO", "IT", "MX", "VE", "ES", "AR", "AT", "LU", "CZ", "FI", "FR", "BE"], ["http://frtyb.com/go/caRG9_bBBLR/sexy"]], 
     
-    [["ZZ"], ["http://chaturbate.com/affiliates/in/hr8m/XSQ5K/?track=default"]]
+    [["ZZ"], ["http://chaturbate.com/affiliates/in/ZmU7/XSQ5K/?track=default"]]
    
 
 
