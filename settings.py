@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com"]], 
-    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult"]]
+    [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
  
@@ -24,7 +24,6 @@
 
 
 ]}
-
 
 
 
