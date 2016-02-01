@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://www.tgtrak.com/SHht", "http://www.tgtrak.com/SHhv"]], 
+    [["US"], ["http://track.wapempire.com/SH1xZ"]], 
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
