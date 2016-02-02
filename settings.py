@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://track.wapempire.com/SH1xZ"]], 
+    [["US"], ["http://runetki.com"]], 
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
