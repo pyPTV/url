@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/redirect?aff_id=1621&at=1"]], 
+    [["US"], ["http://track.wapempire.com/SH1xZ"]], 
     [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=1621&at=1"]]
 
 ],
