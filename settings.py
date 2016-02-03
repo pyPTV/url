@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://runetki.com"]], 
-    [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
+    [["US"], ["http://1empiredirect.com/redirect?aff_id=1621&at=1"]], 
+    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=1621&at=1"]]
 
 ],
  
