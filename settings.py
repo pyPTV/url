@@ -31,8 +31,7 @@
       "TR", "BG", "PL", 
       "HU", "MK", "CY",
       "SG", "KR", "RS"], ["http://bongacams.com/track?c=302460"]],
-    [["ZZ"], ["http://www.flirt4free.com/live/girls/?mp_code=ag65c",  "http://ads.itmcash.com/a/14756",
-              "http://promotools.biz/cp/text_link/index.php?ur=aHR0cDovL3d3dy54Y2Ftcy5jb20%2FY29tZnJvbT04ODA5MjUmY2YyPSZjZnNhMj0mY2YwPXBjMg%3D%3D&promo=xcams&subid1=&subid2=&brand=xcams"]]
+    [["ZZ"], ["http://ads.itmcash.com/a/14756"]]
    
 
 
