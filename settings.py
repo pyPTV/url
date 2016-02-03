@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com"]], 
-    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=1621&at=1&tb=http%3A%2F%2Ft0pm0b1l3.com%2F%3Fid%3D170"]]
+    [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
  
