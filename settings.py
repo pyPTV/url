@@ -31,7 +31,7 @@
       "TR", "BG", "PL", 
       "HU", "MK", "CY",
       "SG", "KR", "RS"], ["http://bongacams.com/track?c=302460"]],
-    [["ZZ"], ["http://ads.itmcash.com/a/14756"]]
+    [["ZZ"], ["http://bit.ly/1TFH7i9"]]
    
 
 
