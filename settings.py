@@ -25,8 +25,7 @@
       "BE", "NL", "FR",
       "IE", "SK", "IS", 
       "IT", "SI", "ES", 
-      "LT", "GR", "IL",
-      "HR", "PT", "LU", 
+      "LT", "IL", "LU", 
       "AE", "LV", "TR", 
       "HU", "MK", "CY"], ["http://bongacams.com/track?c=302460"]],
     [["ZZ"], ["http://ads.itmcash.com/a/14758"]]
