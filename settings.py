@@ -27,11 +27,9 @@
       "IT", "SI", "ES", 
       "LT", "GR", "IL",
       "HR", "PT", "LU", 
-      "AE", "LV", "RO", 
-      "TR", "BG", "PL", 
-      "HU", "MK", "CY",
-      "SG", "KR", "RS"], ["http://bongacams.com/track?c=302460"]],
-    [["ZZ"], ["http://ads.itmcash.com/a/14756"]]
+      "AE", "LV", "TR", 
+      "HU", "MK", "CY"], ["http://bongacams.com/track?c=302460"]],
+    [["ZZ"], ["http://ads.itmcash.com/a/14758"]]
    
 
 
