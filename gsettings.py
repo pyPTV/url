@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://1empiredirect.com/redirect?aff_id=1621&at=2"]],
-    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=1621&at=2"]]
+    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&gay=1&source_type=redirect"]]
 
 ],
  
