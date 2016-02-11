@@ -9,8 +9,8 @@
     "desktop":
 [
 
-    [["US"], ["http://www.flirt4free.com/live/guys/?mp_code=ag65c"]],
-    [["ZZ"], ["http://www.flirt4free.com/live/guys/?mp_code=ag65c"]]
+    [["US"], ["http://join.bukkakeboys.com/track/affmasterico.211.62.612.0.0.0.0.0"]],
+    [["ZZ"], ["http://join.bukkakeboys.com/track/affmasterico.211.62.612.0.0.0.0.0"]]
 
 
 ]
