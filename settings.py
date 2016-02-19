@@ -13,7 +13,7 @@
 [
     
     
-    [["US"], ["http://www.tgtrak.com/SHht"]],
+    [["US", "CA", "GB"], ["http://chaturbate.com/affiliates/in/hr8m/YBq6s/?track=default"]],
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
     [["IN"], ["http://secure.babesofindia.com/track/affmasterico.1.8.14.0.0.0.0.0"]],
     [["RU"], ["http://runetki.com/?id=28053&cmp=&lng=ru&tp=5"]],
