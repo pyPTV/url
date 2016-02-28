@@ -13,7 +13,10 @@
 [
     
     
-    [["US", "CA", "GB"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+    [["NL", "AT", "AU", "BE", 
+      "CA", "CH", "DK", "FI", 
+      "FR", "IE", "IS", "LI", 
+      "LU", "NO", "NZ", "SE", "SG"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
     [["IN"], ["http://secure.babesofindia.com/track/affmasterico.1.8.14.0.0.0.0.0"]],
     [["RU"], ["http://runetki.com/627737/"]],
     [["ZZ"], ["http://join.bdsmprison.com/track/MTAwMDAwMjIzOS40LjkwLjI0OS4wLjAuMC4wLjA",
