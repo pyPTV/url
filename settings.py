@@ -13,13 +13,7 @@
 [
     
     
-    [["US", "CA", "GB"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
-                          "http://join.bdsmprison.com/track/MTAwMDAwMjIzOS40LjkwLjI0OS4wLjAuMC4wLjA",
-                          "http://join.elitespanking.com/track/MTAwMDAwMjIzOS40LjMxLjMxLjAuMC4wLjAuMA",
-                          "http://join.femdomacademy.com/track/MTAwMDAwMjIzOS40LjUwLjUwLjAuMC4wLjAuMA",
-                          "http://join.straponsquad.com/track/MTAwMDAwMjIzOS40Ljg0LjIzMi4wLjAuMC4wLjA",
-                          "http://join.sexualdisgrace.com/track/MTAwMDAwMjIzOS40LjgyLjIzMC4wLjAuMC4wLjA"]],
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["US", "CA", "GB"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
     [["IN"], ["http://secure.babesofindia.com/track/affmasterico.1.8.14.0.0.0.0.0"]],
     [["RU"], ["http://runetki.com/627737/"]],
     [["JP"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjgzLjAuMC4wLjAuMA"]],
