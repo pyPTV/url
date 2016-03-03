@@ -17,7 +17,7 @@
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=pps&ts=&wm=19035"]],
     [["IN"], ["http://secure.babesofindia.com/track/affmasterico.1.8.14.0.0.0.0.0"]],
-    [["RU"], ["http://runetki.com/627737/"]],
+    [["RU", "PH"], ["http://runetki.com/627737/"]],
     [["HR", "HU", "PL", "SK"], ["http://ads.itmcash.com/a/14765"]],
     [["ZZ"], ["http://join.bdsmprison.com/track/MTAwMDAwMjIzOS40LjkwLjI0OS4wLjAuMC4wLjA",
               "http://join.elitespanking.com/track/MTAwMDAwMjIzOS40LjMxLjMxLjAuMC4wLjAuMA",
