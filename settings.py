@@ -15,8 +15,7 @@
     
     [["US"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=pps&ts=&wm=19035"]],
+    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
     [["IN"], ["http://secure.babesofindia.com/track/affmasterico.1.8.14.0.0.0.0.0"]],
 
