@@ -22,17 +22,8 @@
     [["RU", "PH"], ["http://runetki.com/627737/"]],
 
     [["HR", "HU", "PL", "SK"], ["http://ads.itmcash.com/a/14765"]],
-               
-    [["JP"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjgzLjAuMC4wLjAuMA"]],
 
-    [["CN"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjY4LjAuMC4wLjAuMA"]],
-
-    [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjg0LjAuMC4wLjAuMA", 
-              "http://enter.javhd.com/track/MjIxNTIuMi4yLjIuMC4wLjAuMC4w",
-              "http://enter.av69.tv/track/MjIxNTIuMi40LjI4LjAuMC4wLjAuMA",
-              "http://enter.gangav.com/track/MjIxNTIuMi4xMC4zNi4wLjAuMC4wLjA",
-              "http://enter.schoolgirlshd.com/track/MjIxNTIuMi4xMi4zNS4wLjAuMC4wLjA",
-              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
 
 
 ]}
