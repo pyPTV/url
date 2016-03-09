@@ -27,12 +27,11 @@
 
     [["IN"], ["http://secure.babesofindia.com/track/affmasterico.1.8.14.0.0.0.0.0"]],
 
-    [["RU", "PH"], ["http://runetki.com/627737/"]],
+    [["EE", "CZ", "SK", "HR", "LT", "RO", 
+      "TR", "BG", "PL", "HU", "MK", "ZA",
+      "JO", "RS", "UA", "KZ"], ["http://bongacams.com/track?c=332288"]],
 
-    [["HR", "HU", "PL", "SK"], ["http://ads.itmcash.com/a/14765"]],
-
-    [["ZZ"], ["http://bongacams.com/track?c=332288"]]
-
+    [["ZZ"], ["http://runetki.com/627737/"]]
 
 ]}
 
