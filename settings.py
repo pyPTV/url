@@ -31,7 +31,7 @@
 
     [["HR", "HU", "PL", "SK"], ["http://ads.itmcash.com/a/14765"]],
 
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://bongacams.com/track?c=332288"]]
 
 
 ]}
