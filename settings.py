@@ -13,7 +13,15 @@
 [
     
     
-    [["US"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+    [["AT", "AU", "BE", "CA", "CH", "DK",
+      "FI", "FR", "GB", "IE", "IS", "JP",
+      "LI", "LU", "NL", "NO", "NZ", "SE",
+      "SG", "US", "AN", "GG", "GI", "GL",
+      "JE", "SM", "VI", "FK", "FO", "QA",
+      "IT", "AE", "AW", "BN", "BR", "BS", 
+      "CY", "ES", "GQ", "HK", "IL", "IM",
+      "KR", "KW", "KY", "MO", "PF", "PR",
+      "PT", "SI", "VG"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
