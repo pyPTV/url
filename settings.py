@@ -24,9 +24,10 @@
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
 
-    [["EE", "CZ", "SK", "HR", "LT", "RO", 
-      "TR", "BG", "PL", "HU", "MK", "ZA",
-      "JO", "RS", "UA", "KZ"], ["http://bongacams.com/track?c=332288"]],
+    [["EE", "CZ", "SK", "SI", "ES", "LV",
+      "HR", "PT", "LT", "RO", "TR", "BG", 
+      "PL", "HU", "MK", "ZA", "UA", "KZ", 
+      "JO", "RS"], ["http://bongacams.com/track?c=332288"]],
 
     [["ZZ"], ["http://runetki.com/627737/"]]
 
