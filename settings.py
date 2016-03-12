@@ -22,7 +22,7 @@
       "GQ", "HK", "IL", "IM", "KR", "KW", 
       "KY", "MO", "PF", "PR", "VG"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=first&prm=ppl&ts=&wm=19035"]],
+    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035"]],
 
     [["EE", "CZ", "SK", "SI", "ES", "LV",
       "HR", "PT", "LT", "RO", "TR", "BG", 
