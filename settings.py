@@ -16,11 +16,11 @@
     [["AT", "AU", "BE", "CA", "CH", "DK",
       "FI", "FR", "GB", "IE", "IS", "JP",
       "LI", "LU", "NL", "NO", "NZ", "SE",
-      "SG", "US", "AN", "GG", "GI", "GL",
+      "SG", "AN", "GG", "GI", "GL", "VG",
       "JE", "SM", "VI", "FK", "FO", "QA",
       "IT", "AE", "AW", "BN", "BS", "CY", 
       "GQ", "HK", "IL", "IM", "KR", "KW", 
-      "KY", "MO", "PF", "PR", "VG"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      "KY", "MO", "PF", "PR"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035",
               "http://landing.rotlichtkartei.com/?ag=724&prd=Nohm7mui&pr=&prm=ppl&ts=&wm=19035",
