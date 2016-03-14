@@ -11,8 +11,7 @@
 
     [["US"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w",
               "http://join.shemalefuckfest.com/track/MTAwNjA1LjIxMS4zMy4zMy4wLjAuMC4wLjA"]],
-    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w",
-              "http://join.shemalefuckfest.com/track/MTAwNjA1LjIxMS4zMy4zMy4wLjAuMC4wLjA"]]
+    [["ZZ"], ["http://ads.itmcash.com/a/14773"]]
 
 
 ]
