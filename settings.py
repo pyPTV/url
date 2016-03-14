@@ -29,12 +29,12 @@
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=amateurtubechannel&prm=ppl&ts=&wm=19035",
               "http://landing.rotlichtkartei.com/?ag=724&prd=Nohm7mui&pr=rotlichrotate&prm=ppl&ts=&wm=19035"]],
 
-    [["EE", "CZ", "SK", "SI", "ES", "LV",
+    [["EE", "CZ", "SK", "SI", "LV",
       "HR", "PT", "LT", "RO", "TR", "BG", 
-      "PL", "HU", "MK", "ZA", "UA", "KZ", 
+      "HU", "MK", "ZA", "UA", "KZ", 
       "JO", "RS"], ["http://bongacams.com/track?c=332288"]],
 
-    [["ZZ"], ["http://runetki.com/627737/"]]
+    [["ZZ"], ["http://ads.itmcash.com/a/14765"]]
 
 ]}
 
