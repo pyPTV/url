@@ -27,8 +27,7 @@
               "http://landing.amateurseite.com/?ag=1524&pr=amateurbsdm&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=807&fsk=18&pr=amateursecretvideo&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=amateurtubechannel&prm=ppl&ts=&wm=19035",
-              "http://landing.rotlichtkartei.com/?ag=724&prd=Nohm7mui&pr=rotlichrotate&prm=ppl&ts=&wm=19035"
-              ]],
+              "http://landing.rotlichtkartei.com/?ag=724&prd=Nohm7mui&pr=rotlichrotate&prm=ppl&ts=&wm=19035"]],
 
     [["EE", "CZ", "SK", "SI", "ES", "LV",
       "HR", "PT", "LT", "RO", "TR", "BG", 
