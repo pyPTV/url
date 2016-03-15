@@ -30,7 +30,7 @@
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS"], ["http://bongacams.com/track?c=332288"]],
 
-    [["ZZ"], ["http://ads.itmcash.com/a/14765"]]
+    [["ZZ"], ["http://runetki.com/886392/"]]
 
 ]}
 
