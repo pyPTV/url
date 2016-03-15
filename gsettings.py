@@ -24,7 +24,7 @@
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&page=random_model&g=male"]],
     
-    [["ZZ"], ["http://ads.itmcash.com/a/14773"]]
+    [["ZZ"], ["http://www.cam4.com/male"]]
 
 
 ]
