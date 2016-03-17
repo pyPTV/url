@@ -1,7 +1,9 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/tiny/B9U"]], 
+    [["US"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjkuMC4wLjAuMC4w",
+              "http://enter.javhd.com/track/MjIxNTIuMi4yLjg1LjAuMC4wLjAuMA",
+              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjExLjAuMC4wLjAuMA",]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
@@ -30,7 +32,9 @@
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS"], ["http://bongacams.com/track?c=332288"]],
 
-    [["ZZ"], ["http://runetki.com/886392/"]]
+    [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjIuMC4wLjAuMC4w",
+              "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
+              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]]
 
 ]}
 
