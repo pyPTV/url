@@ -3,7 +3,7 @@
 [
     [["US"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjkuMC4wLjAuMC4w",
               "http://enter.javhd.com/track/MjIxNTIuMi4yLjg1LjAuMC4wLjAuMA",
-              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjExLjAuMC4wLjAuMA",]], 
+              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjExLjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
