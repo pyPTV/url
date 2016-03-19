@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com/886392/"]], 
-    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
+    [["ZZ"], ["http://1empiredirect.com/tiny/CK8", "http://t0pm0b1l3.com/?id=170"]]
 
 ],
  
