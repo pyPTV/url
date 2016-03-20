@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com/886392/"]], 
-    [["ZZ"], ["http://1empiredirect.com/tiny/CK8", "http://t0pm0b1l3.com/?id=170"]]
+    [["ZZ"], ["http://1empiredirect.com/tiny/CMI", "http://t0pm0b1l3.com/?id=170"]]
 
 ],
  
