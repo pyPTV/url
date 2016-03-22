@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://www.cam4.com/male"]],
+    [["US"], ["http://join.bukkakeboysmobile.com/track/MTAwNjg0LjIxNC42OC42OC4wLjAuMC4wLjA"]],
     [["ZZ"], ["http://1empiredirect.com/tiny/CLI"]]
 
 ],
@@ -9,7 +9,7 @@
     "desktop":
 [
 
-    [["US"], ["http://www.cam4.com/male"]],
+    [["US"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMS42Mi42MTIuMC4wLjAuMC4w"]],
 
     [["AT", "AU", "BE", "CA", "CH", "DK",
       "FI", "FR", "GB", "IE", "IS", "JP",
@@ -24,7 +24,7 @@
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&page=random_model&g=male"]],
     
-    [["ZZ"], ["http://www.cam4.com/male"]]
+    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w"]]
 
 
 ]
