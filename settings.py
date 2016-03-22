@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://runetki.com/886392/"]], 
-    [["ZZ"], ["http://1empiredirect.com/tiny/COw"]]
+    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=8229&at=1&tb=http%3A%2F%2Frd.mobiteasy.com%2Fmr%2F%3Fid%3Dadultkonxxx"]]
 
 ],
  
