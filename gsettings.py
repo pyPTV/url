@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://join.bukkakeboysmobile.com/track/MTAwNjg0LjIxNC42OC42OC4wLjAuMC4wLjA"]],
-    [["ZZ"], ["http://1empiredirect.com/tiny/CLI"]]
+    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=8229&at=2&tb=http%3A%2F%2Fjoin.bukkakeboysmobile.com%2Ftrack%2FMTAwNjg0LjIxNC42OC42OC4wLjAuMC4wLjA"]]
 
 ],
  
