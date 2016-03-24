@@ -18,7 +18,7 @@
       "JE", "SM", "VI", "FK", "FO", "QA",
       "IT", "AE", "AW", "BN", "BS", "CY", 
       "GQ", "HK", "IL", "IM", "KR", "KW", 
-      "KY", "MO", "PF", "PR", "DE"], ["http://chaturbate.com/affiliates/in/9rL0/AkxtL/?track=default"]],
+      "KY", "MO", "PF", "PR", "DE"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w"]],
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
