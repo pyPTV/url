@@ -29,8 +29,9 @@
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS"], ["http://bongacams.com/track?c=332288"]],
-
-    [["ZZ"], ["http://runetki.com/886392/"]]
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
+    [["RU"], ["http://runetki.com/627737/"]],
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
 
 ]}
 
