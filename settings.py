@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://runetki.com/886392/"]], 
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
