@@ -2,7 +2,9 @@
     "mobile":
 [
     [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]], 
-    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
+    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://1empiredirect.com/redirect?aff_id=8229&at=1&tb=http%3A%2F%2Frd.mobiteasy.com%2Fmr%2F%3Fid%3Dadultkonxxx&type=MOBILE3G"]]
 
 ],
  
