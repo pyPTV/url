@@ -16,7 +16,7 @@
     [["NL", "AN", "AT", "AU", "BE", "CA",
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
-      "LI", "LU", "NO", "NZ", "SE", "SM" ], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1524&pr=amateurbsdm&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=807&fsk=18&pr=amateursecretvideo&prm=ppl&ts=&wm=19035",
