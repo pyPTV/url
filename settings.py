@@ -29,8 +29,7 @@
       "MK", "ZA", "UA", "KZ", "JO", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
     [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
     [["RU"], ["http://runetki.com/627737/"]],
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
-              "http://join.japanesebukkakeorgy.com/track/MTAwNjg0LjIxMS43LjcuMC4wLjAuMC4w",
+    [["ZZ"], ["http://join.japanesebukkakeorgy.com/track/MTAwNjg0LjIxMS43LjcuMC4wLjAuMC4w",
               "http://join.extremebukkake.com/track/MTAwNjg0LjIxMS41LjUuMC4wLjAuMC4w",
               "http://join.fetish360.com/track/MTAwNjg0LjIxMS4yNy4yNy4wLjAuMC4wLjA",
               "http://join.gggsexbox.com/track/MTAwNjg0LjIxMS4xOC4xOC4wLjAuMC4wLjA"]]
