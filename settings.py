@@ -1,8 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
-              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
               "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
@@ -30,7 +29,6 @@
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
     [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
-              "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
               "http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA",
               "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w",
               "http://join.pregnantandfucked.com/track/MjAwMTM4LjEuODguODkuMC4wLjAuMC4w"]],
