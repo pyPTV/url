@@ -1,7 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]], 
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
+              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
@@ -27,11 +28,9 @@
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
-    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
-              "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA",
-              "http://join.realtimebondage.com/track/MzAwMTMxOS4xLjUuNS4wLjAuMC4wLjA",
-              "http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA",
-              "http://join.infernalrestraints.com/track/MzAwMTMxOS4xLjMuMTguMC4wLjAuMC4w"]],
+    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+              "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
+              "http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA"]],
     [["RU"], ["http://runetki.com/627737/"]],
     [["ZZ"], ["http://join.japanesebukkakeorgy.com/track/MTAwNjg0LjIxMS43LjcuMC4wLjAuMC4w",
               "http://join.extremebukkake.com/track/MTAwNjg0LjIxMS41LjUuMC4wLjAuMC4w",
