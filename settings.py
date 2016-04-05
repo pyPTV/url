@@ -31,12 +31,17 @@
     [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
               "http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA",
               "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w",
-              "http://join.pregnantandfucked.com/track/MjAwMTM4LjEuODguODkuMC4wLjAuMC4w"]],
+              "http://join.pregnantandfucked.com/track/MjAwMTM4LjEuODguODkuMC4wLjAuMC4w",
+              "http://join.infernalrestraints.com/track/MzAwMTMxOS4xLjMuMTguMC4wLjAuMC4w",
+              "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA"
+              ]],
     [["RU"], ["http://runetki.com/627737/"]],
     [["ZZ"], ["http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA",
               "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w",
               "http://join.pregnantandfucked.com/track/MjAwMTM4LjEuODguODkuMC4wLjAuMC4w",
-              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w"]]
+              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+              "http://join.infernalrestraints.com/track/MzAwMTMxOS4xLjMuMTguMC4wLjAuMC4w",
+              "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA"]]
 
 ]}
 
