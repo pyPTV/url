@@ -1,8 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
-              "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w"]], 
+    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjMuNTcuMTgzLjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
@@ -28,18 +27,8 @@
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
       "MK", "ZA", "UA", "KZ", "JO", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
-    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
-              "http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA",
-              "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w",
-              "http://join.pregnantandfucked.com/track/MjAwMTM4LjEuODguODkuMC4wLjAuMC4w",
-              "http://join.infernalrestraints.com/track/MzAwMTMxOS4xLjMuMTguMC4wLjAuMC4w",
-              "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA"
-              ]],
     [["RU"], ["http://runetki.com/627737/"]],
-    [["ZZ"], ["http://join.hardtied.com/track/MzAwMTMxOS4xLjIuMi4wLjAuMC4wLjA",
-              "http://join.milfsbang.com/track/MjAwMTM4LjEuNzkuODAuMC4wLjAuMC4w",
-              "http://join.pregnantandfucked.com/track/MjAwMTM4LjEuODguODkuMC4wLjAuMC4w",
-              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+    [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
               "http://join.infernalrestraints.com/track/MzAwMTMxOS4xLjMuMTguMC4wLjAuMC4w",
               "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA"]]
 
