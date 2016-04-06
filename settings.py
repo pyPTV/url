@@ -25,7 +25,7 @@
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
-      "MK", "ZA", "UA", "KZ", "JO", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
+      "MK", "ZA", "UA", "KZ", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
     [["RU"], ["http://runetki.com/627737/"]],
     [["IN"], ["http://secure.babesofindia.com/track/adultkonxxx.1.8.14.0.0.0.0.0", 
               "http://secure.indiansex247.com/track/adultkonxxx.1.7.13.0.0.0.0.0",
