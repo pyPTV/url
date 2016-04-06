@@ -1,7 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjMuNTcuMTgzLjAuMC4wLjAuMA"]], 
+    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjMuNTcuMTgzLjAuMC4wLjAuMA",
+              "http://join.milfsultra.com/track/MjAwMTM4LjMuNzcuMjAzLjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
@@ -29,6 +30,7 @@
       "MK", "ZA", "UA", "KZ", "JO", "RS", "SI"], ["http://bongacams.com/track?c=332288"]],
     [["RU"], ["http://runetki.com/627737/"]],
     [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+              "http://join.milfsultra.com/track/MjAwMTM4LjEuNzcuNzguMC4wLjAuMC4w",
               "http://join.infernalrestraints.com/track/MzAwMTMxOS4xLjMuMTguMC4wLjAuMC4w",
               "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA"]]
 
