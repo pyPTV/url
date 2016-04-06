@@ -20,7 +20,8 @@
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035"]],
+    [["DE"], ["http://join.666bukkake.com/track/affmasterico.211.1.310.0.0.0.0.0",
+              "http://join.germangoogirls.com/track/affmasterico.211.6.661.0.0.0.0.0"]],
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
