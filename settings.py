@@ -31,7 +31,10 @@
               "http://secure.indiansex247.com/track/adultkonxxx.1.7.13.0.0.0.0.0",
               "http://secure.indiansexmassage.com/track/adultkonxxx.1.36.45.0.0.0.0.0",
               "http://secure.indianwhippedass.com/track/adultkonxxx.1.21.44.0.0.0.0.0"]],
-    [["AE"], ["http://secure.araborgasm.com/track/adultkonxxx.1.14.30.0.0.0.0.0",
+    [["EG", "MA", "DZ", "SD", "SA", "YA",
+      "SY", "TN", "JO", "AE", "LB", "PS",
+      "MR", "OM", "KW", "QA", "KM", "BH"], [
+              "http://secure.araborgasm.com/track/adultkonxxx.1.14.30.0.0.0.0.0",
               "http://secure.araborgasm.com/track/adultkonxxx.1.14.32.0.0.0.0.0",
               "http://secure.arabuncovered.com/track/adultkonxxx.1.13.31.0.0.0.0.0",
               "http://secure.arabuncovered.com/track/adultkonxxx.1.13.20.0.0.0.0.0"]],
