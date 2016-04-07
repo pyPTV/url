@@ -22,9 +22,9 @@
 
     [["DE"], ["http://join.666bukkake.com/track/affmasterico.211.1.310.0.0.0.0.0",
               "http://join.germangoogirls.com/track/affmasterico.211.6.661.0.0.0.0.0",
-              "http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035",
-              "http://www.xtremepornclips.com/1261/Bonus/50/output/noheader/fsk/18/?ag=1268&pr=&prm=rev&ts=&wm=19035",
-              "http://www.visit-x.net/?w=21022"]],
+              "http://www.visit-x.net/?w=21022",
+              "http://www.dominaboard.com/?prm=ppl&do=322&ag=437&py=19&wm=19035&dp=1&pr=&sc=4&ts=direct&lg=de",
+              "http://pissendegirls.com/?prm=rev&dp=1&do=617&py=20&wm=19035&pr=&ts=direct&sc=4&ag=1517&lg=de"]],
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
