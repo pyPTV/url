@@ -18,8 +18,7 @@
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
-    [["DE"], ["http://www.visit-x.net/?w=21022",
-              "http://www.dominaboard.com/?prm=ppl&do=322&ag=437&py=19&wm=19035&dp=1&pr=&sc=4&ts=direct&lg=de"]],
+    [["DE"], ["http://www.visit-x.net/?w=21022"]],
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
