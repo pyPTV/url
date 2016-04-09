@@ -44,7 +44,8 @@
               "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA",
               "http://secure.cumeatingtraining.com/track/MjAyLjUuOS4xMy4wLjAuMC4wLjA",
               "http://secure.dirtytalkingblowjobs.com/track/MjAyLjUuNTAuNzAuMC4wLjAuMC4w",
-              "http://secure.peggingnewbies.com/track/MjAyLjUuNjIuOTUuMC4wLjAuMC4w"]]
+              "http://secure.peggingnewbies.com/track/MjAyLjUuNjIuOTUuMC4wLjAuMC4w",
+              "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
 
 ]}
 
