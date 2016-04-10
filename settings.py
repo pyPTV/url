@@ -39,12 +39,15 @@
               "http://secure.arabuncovered.com/track/adultkonxxx.1.13.31.0.0.0.0.0",
               "http://secure.arabuncovered.com/track/adultkonxxx.1.13.20.0.0.0.0.0"]],
     [["PK"], ["http://secure.fuckmypakistanigf.com/track/adultkonxxx.1.24.55.0.0.0.0.0"]],
-    [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+    [["US", "GB"], [
+              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+              "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
+    [["ZZ"], [
               "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA",
               "http://secure.cumeatingtraining.com/track/MjAyLjUuOS4xMy4wLjAuMC4wLjA",
               "http://secure.dirtytalkingblowjobs.com/track/MjAyLjUuNTAuNzAuMC4wLjAuMC4w",
-              "http://secure.peggingnewbies.com/track/MjAyLjUuNjIuOTUuMC4wLjAuMC4w",
-              "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
+              "http://secure.peggingnewbies.com/track/MjAyLjUuNjIuOTUuMC4wLjAuMC4w"
+              ]]
 
 ]}
 
