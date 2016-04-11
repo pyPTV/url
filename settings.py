@@ -13,7 +13,7 @@
 [
     
     
-    [["NL", "AN", "AT", "AU", "BE", "CA",
+    [["NL", "AN", "AT", "AU", "BE", "CA", "MC",
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
