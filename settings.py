@@ -18,8 +18,7 @@
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
-    [["DE"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default", 
-              "http://www.visit-x.net/?w=21022"]],
+    [["DE"], ["http://www.visit-x.net/?w=21022"]],
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
