@@ -18,7 +18,9 @@
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
 
-    [["DE"], ["http://www.visit-x.net/?w=21022"]],
+    [["DE"], ["http://www.visit-x.net/?w=21022",
+              "http://thumbcon.mydirtyhobby.com/?queueId=40041&customImageSize=1&itemCount=36&shuffleResults=0&cacheBuster=1446200721&naff=N3Z-AV8h",
+              "http://in.mydirtyhobby.de/track/N3Z-AV8h"]],
 
     [["EE", "CZ", "SK", "SI", "LV", "HR", 
       "PT", "LT", "RO", "TR", "BG", "HU", 
