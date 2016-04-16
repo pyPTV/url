@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjMuNTcuMTgzLjAuMC4wLjAuMA"]], 
+    [["US"], ["http://secure.dirtytalkingblowjobs.com/track/MjAyLjUuNTAuNzAuMC4wLjAuMC4w"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
@@ -38,7 +38,7 @@
               "http://secure.arabuncovered.com/track/adultkonxxx.1.13.31.0.0.0.0.0",
               "http://secure.arabuncovered.com/track/adultkonxxx.1.13.20.0.0.0.0.0"]],
     [["PK"], ["http://secure.fuckmypakistanigf.com/track/adultkonxxx.1.24.55.0.0.0.0.0"]],
-    [["US", "GB"], ["http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w"]],
+    
     [["ZZ"], [
               "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA",
               "http://secure.cumeatingtraining.com/track/MjAyLjUuOS4xMy4wLjAuMC4wLjA",
