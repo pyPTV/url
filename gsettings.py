@@ -12,7 +12,7 @@
 
 
 
-    [["EE", "CZ", "SK", "SI", "LV", "HR", "PT", "LT", "RO", "TR", "BG", "HU", "MK", "ZA", "UA", "KZ", "JO", "RS"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&page=random_model&g=male"]],
+    [["US", "GB"], ["http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]],
     
     [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w",
               "http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]]
