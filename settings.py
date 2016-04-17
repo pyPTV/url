@@ -27,7 +27,6 @@
     
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
               "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA",
-              "http://join.topgrl.com/track/MzAwMTMxOS4xLjQuNC4wLjAuMC4wLjA",
               "http://secure.dirtytalkingblowjobs.com/track/MjAyLjUuNTAuNzAuMC4wLjAuMC4w",
               "http://secure.peggingnewbies.com/track/MjAyLjUuNjIuOTUuMC4wLjAuMC4w"
               ]]
