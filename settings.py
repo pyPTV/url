@@ -1,8 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjkuMC4wLjAuMC4w", 
-              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjExLjAuMC4wLjAuMA"]], 
+    [["US"], ["http://1empiredirect.com/redirect?aff_id=8229&at=1&tb=http%3A%2F%2Frd.mobiteasy.com%2Fmr%2F%3Fid%3Dadultkonxxx&type=MOBILE3G"]], 
     [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
