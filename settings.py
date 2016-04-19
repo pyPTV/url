@@ -27,7 +27,8 @@
       "LV", "EE", "MC", 
 
       "RU", "KZ", "AZ", "BY", "GE", "MD", "AM",
-      "IL"], ["http://bongacams.com/track?c=332288"]],
+      
+      "IL", "IT"], ["http://bongacams.com/track?c=332288"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tube&prm=ppl&ts=&wm=19035",
