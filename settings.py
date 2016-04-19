@@ -21,7 +21,8 @@
     [["ES", "PL", "RO", "CZ", "PT", "HU", "BG",
       "RS", "SK", "HR", "BA", "AL", "MK", "SI",
       "ME", "MT", "AD", "LT", "LV", "EE"], ["http://bongacams.com/track?c=332288"]],
-      
+    
+    [["RU", "KZ", "AZ", "BY", "GE", "MD", "AM"], ["http://runetki.com/627737/"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tube&prm=ppl&ts=&wm=19035",
@@ -30,7 +31,7 @@
              ]],
 
       
-    [["RU", "KZ", "AZ", "BY", "GE", "MD", "AM"], ["http://runetki.com/627737/"]],
+    
     
     
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
