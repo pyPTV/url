@@ -17,6 +17,11 @@
       "CH", "DK", "FI", "FK", "FO", "FR", "GB",
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      
+    [["ES", "PL", "RO", "CZ", "PT", "HU", "BG",
+      "RS", "SK", "HR", "BA", "AL", "MK", "SI",
+      "ME", "MT", "AD"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tube&prm=ppl&ts=&wm=19035",
@@ -25,7 +30,7 @@
              ]],
 
       
-    [["RU"], ["http://runetki.com/627737/"]],
+    [["RU", "KZ", "AZ", "BY", "GE", "MD", "AM", "LT", "LV", "EE"], ["http://runetki.com/627737/"]],
     
     
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
