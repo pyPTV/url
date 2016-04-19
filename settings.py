@@ -13,16 +13,19 @@
 [
     
     
-    [["NL", "AN", "AT", "AU", "BE", "CA", "MC",
-      "CH", "DK", "FI", "FK", "FO", "FR", "GB",
+    [["US", "GB"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+
+    [["NL", "AN", "AT", "AU", "BE", "CA",
+      "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
-      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      "LI", "LU", "NO", "NZ", "SE", "SM",
       
-    [["ES", "PL", "RO", "CZ", "PT", "HU", "BG",
-      "RS", "SK", "HR", "BA", "AL", "MK", "SI",
-      "ME", "MT", "AD", "LT", "LV", "EE"], ["http://bongacams.com/track?c=332288"]],
-    
-    [["RU", "KZ", "AZ", "BY", "GE", "MD", "AM"], ["http://runetki.com/627737/"]],
+      "ES", "PL", "RO", "CZ", "PT", "HU", 
+      "BG", "RS", "SK", "HR", "BA", "AL", 
+      "MK", "SI", "ME", "MT", "AD", "LT", 
+      "LV", "EE", "MC", 
+
+      "RU", "KZ", "AZ", "BY", "GE", "MD", "AM"], ["http://bongacams.com/track?c=332288"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tube&prm=ppl&ts=&wm=19035",
