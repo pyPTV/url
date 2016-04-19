@@ -26,7 +26,7 @@
       "MK", "SI", "ME", "MT", "AD", "LT", 
       "LV", "EE", "MC", 
 
-      "RU", "KZ", "AZ", "BY", "GE", "MD", "AM", "UA"
+      "RU", "KZ", "AZ", "BY", "GE", "MD", "AM", "UA",
       
       "IL", "IT"], ["http://bongacams.com/track?c=332288"]],
 
