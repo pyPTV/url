@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://1empiredirect.com/tiny/CZo"]],
-    [["ZZ"], ["http://traffic.trafficcompany.com/?p=2478&media_type=adult&gay=1&source_type=redirect"]]
+    [["ZZ"], ["http://1empiredirect.com/tiny/CZo"]]
 
 ],
  
