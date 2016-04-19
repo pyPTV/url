@@ -20,7 +20,7 @@
       
     [["ES", "PL", "RO", "CZ", "PT", "HU", "BG",
       "RS", "SK", "HR", "BA", "AL", "MK", "SI",
-      "ME", "MT", "AD"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      "ME", "MT", "AD", "LT", "LV", "EE"], ["http://bongacams.com/track?c=332288"]],
       
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
@@ -30,7 +30,7 @@
              ]],
 
       
-    [["RU", "KZ", "AZ", "BY", "GE", "MD", "AM", "LT", "LV", "EE"], ["http://runetki.com/627737/"]],
+    [["RU", "KZ", "AZ", "BY", "GE", "MD", "AM"], ["http://runetki.com/627737/"]],
     
     
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
