@@ -13,7 +13,8 @@
 [
     
     
-    [["US", "GB", "AU", "CA", "NZ"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+    [["US", "AU", "CA", "NZ"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+    [["GB"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default", "http://bongacams.com/track?c=332288"]],
 
     [["NL", "AN", "AT", "BE", 
       "CH", "DK", "FI", "FK", "FO", "FR",
@@ -30,7 +31,8 @@
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=768&fsk=18&pr=tube&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1425&fsk=18&pr=ostern&prm=ppl&ts=&wm=19035",
-              "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"
+              "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default", 
+              "http://bongacams.com/track?c=332288"
              ]],
 
       
