@@ -41,7 +41,8 @@
     
     
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
-              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"
+              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA",
+              "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"
               ]]
 
 ]}
