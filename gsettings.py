@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/tiny/CZo"]],
-    [["ZZ"], ["http://1empiredirect.com/tiny/CZo"]]
+    [["US"], ["http://join.bukkakeboysmobile.com/track/adultkonxxx.214.68.68.0.0.0.0.0"]],
+    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/adultkonxxx.214.68.68.0.0.0.0.0"]]
 
 ],
  
