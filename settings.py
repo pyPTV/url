@@ -13,10 +13,9 @@
 [
     
     
-    [["US", "AU", "CA", "NZ"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
-    [["GB"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
-
-    [["NL", "AN", "AT", "BE", 
+    [["US", "AU", "CA", "NZ", "GB",
+    
+      "NL", "AN", "AT", "BE", 
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
