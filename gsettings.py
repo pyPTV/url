@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://join.bukkakeboysmobile.com/track/adultkonxxx.214.68.68.0.0.0.0.0"]],
-    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/adultkonxxx.214.68.68.0.0.0.0.0"]]
+    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&gay=1&source_type=redirect"]]
 
 ],
  
