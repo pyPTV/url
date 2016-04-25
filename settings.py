@@ -35,7 +35,7 @@
                     "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
                     "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]],
 
-    [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
+    [["DE"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
               "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
               "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA"
               ]],
