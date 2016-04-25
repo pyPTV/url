@@ -18,7 +18,10 @@
       "NL", "AN", "AT", "BE", 
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
-      "LI", "LU", "NO", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
+      "LI", "LU", "NO", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
+                                      "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
+                                      "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
+                                      "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]],
       
     [["ES", "PL", "RO", "CZ", "PT", "HU", 
       "BG", "RS", "SK", "HR", "BA", "AL", 
@@ -27,7 +30,10 @@
 
       "RU", "KZ", "AZ", "BY", "GE", "MD", "AM", "UA",
       
-      "IL", "IT"], ["http://bongacams.com/track?c=332288"]],
+      "IL", "IT"], ["http://bongacams.com/track?c=332288",
+                    "http://bongacams.com/track?c=332288",
+                    "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
+                    "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]],
 
     [["DE"], ["http://landing.amateurseite.com/?ag=1423&pr=webcam&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1425&fsk=18&pr=ostern&prm=ppl&ts=&wm=19035"]],
