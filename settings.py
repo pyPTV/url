@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://1empiredirect.com/tiny/CO4"]], 
-    [["ZZ"], ["http://1empiredirect.com/tiny/CO4"]]
+    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
  
