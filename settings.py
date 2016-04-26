@@ -19,6 +19,7 @@
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
+                                      "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
                                       "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA"]],
       
     [["ES", "PL", "RO", "CZ", "PT", "HU", 
