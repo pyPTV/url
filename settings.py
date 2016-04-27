@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/tiny/CO4"]], 
+    [["US"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjg1LjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
@@ -13,14 +13,12 @@
 [
     
     
-    [["US", "AU", "CA", "NZ", "GB",
+    [["AU", "CA", "NZ", "GB",
     
       "NL", "AN", "AT", "BE", 
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
-      "LI", "LU", "NO", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
-                                      "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
-                                      "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA"]],
+      "LI", "LU", "NO", "SE", "SM"], ["http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
       
     [["ES", "PL", "RO", "CZ", "PT", "HU", 
       "BG", "RS", "SK", "HR", "BA", "AL", 
@@ -36,7 +34,7 @@
 
     [["DE"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
               "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default",
-              "http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA"
+              
               ]],
 
       
