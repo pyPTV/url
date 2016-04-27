@@ -33,6 +33,7 @@
     [["DE"], ["http://www.saboom.com/?ag=755&pr=&prm=ppl&ts=&wm=19035",
               "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
     
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
     
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
               "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]]
