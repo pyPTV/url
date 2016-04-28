@@ -2,7 +2,11 @@
     "mobile":
 [
     [["US"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjg1LjAuMC4wLjAuMA"]], 
-    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
+    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://1empiredirect.com/tiny/CO4",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
  
