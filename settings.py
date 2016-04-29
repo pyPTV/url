@@ -42,8 +42,8 @@
     
     
     [["US"], ["http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]],
-    [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
-              "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA",
+              "http://enter.shiofuky.com/track/MjIwOTIuMi4zLjI3LjAuMC4wLjAuMA"]]
 
 ]}
 
