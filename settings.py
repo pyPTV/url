@@ -25,14 +25,6 @@
       "LI", "LU", "NO", "SE", 
       "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
       
-    [["ES", "PL", "RO", "CZ", 
-      "PT", "HU", "BG", "RS", 
-      "SK", "HR", "BA", "AL", 
-      "MK", "SI", "ME", "MT", 
-      "AD", "LT", "LV", "EE",
-      "RU", "KZ", "AZ", "BY", 
-      "GE", "MD", "AM", "UA",
-      "IL", "IT"], ["http://bongacams.com/track?c=332288"]],
 
     [["DE"], ["http://www.saboom.com/?ag=754&pr=cam&prm=ppl&ts=&wm=19035",
               "http://www.saboom.com/?ag=758&pr=static&prm=ppl&ts=&wm=19035",
