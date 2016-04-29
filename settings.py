@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjg1LjAuMC4wLjAuMA"]], 
+    [["US"], ["http://join.hellofbdsm.com/track/adultkonxxx.3.57.183.0.0.0.0.0"]], 
     [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
               "http://1empiredirect.com/tiny/CO4",
               "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
@@ -38,7 +38,7 @@
               "http://chaturbate.com/affiliates/in/hr8m/AkxtL/?track=default"]],
     
     
-    
+    [["US"], ["http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]],
     [["ZZ"], ["http://enter.javhd.com/track/MjIxNTIuMi4yLjI2LjAuMC4wLjAuMA",
               "http://enter.shiofuky.com/track/MjIxNTIuMi4zLjI3LjAuMC4wLjAuMA"]]
 
