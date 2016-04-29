@@ -34,8 +34,11 @@
       "GE", "MD", "AM", "UA",
       "IL", "IT"], ["http://bongacams.com/track?c=332288"]],
 
-    [["DE"], ["http://www.saboom.com/?ag=755&pr=&prm=ppl&ts=&wm=19035",
-              "http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+    [["DE"], ["http://www.saboom.com/?ag=754&pr=cam&prm=ppl&ts=&wm=19035",
+              "http://www.saboom.com/?ag=758&pr=static&prm=ppl&ts=&wm=19035",
+              "http://www.saboom.com/?ag=755&pr=classic&prm=ppl&ts=&wm=19035",
+              "http://www.saboom.com/?ag=756&pr=jasmin&prm=ppl&ts=&wm=19035",
+              "http://www.saboom.com/?ag=751&pr=aleta&prm=ppl&ts=&wm=19035"]],
     
     
     [["US"], ["http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]],
