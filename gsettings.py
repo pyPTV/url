@@ -13,9 +13,9 @@
 
 
     [["US", "GB"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMi42Mi42MTIuMC4wLjAuMC4w",
-                    "http://join.groupsexgays.com/track/adultkonxxx.3.49.175.0.0.0.0.0"]],
+                    "http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]],
     [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMi42Mi42MTIuMC4wLjAuMC4w",
-              "http://join.groupsexgays.com/track/adultkonxxx.3.49.175.0.0.0.0.0"]]
+              "http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]]
 
 
 ]
