@@ -2,7 +2,11 @@
     "mobile":
 [
     [["US"], ["http://join.hellofbdsm.com/track/adultkonxxx.3.57.183.0.0.0.0.0"]], 
-    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
+    [["ZZ"], ["http://go2boobs.net/go/2231/1?subid1=sub&subid2=suba",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect",
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
  
