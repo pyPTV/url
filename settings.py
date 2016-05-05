@@ -24,7 +24,6 @@
       "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE", 
       "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz",
-              "http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA",
               "http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]],
       
 
