@@ -23,7 +23,9 @@
       "FO", "FR", "GG", "GI", 
       "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE", 
-      "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+      "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz",
+              "http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA",
+              "http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]],
       
 
     [["DE"], ["http://www.saboom.com/?ag=758&pr=&prm=rev&ts=&wm=19035",
@@ -32,7 +34,8 @@
     
     [["US"], ["http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]],
     [["ZZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA",
-              "http://enter.shiofuky.com/track/MjIwOTIuMi4zLjI3LjAuMC4wLjAuMA"]]
+              "http://enter.shiofuky.com/track/MjIwOTIuMi4zLjI3LjAuMC4wLjAuMA",
+              "http://join.hellofbdsm.com/track/adultkonxxx.1.57.58.0.0.0.0.0"]]
 
 ]}
 
