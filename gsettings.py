@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.groupsexgays.com/track/adultkonxxx.3.49.175.0.0.0.0.0"]],
+    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjMuMy4xMjguMC4wLjAuMC4w"]],
     [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&gay=1&source_type=redirect"]]
 
 ],
@@ -11,8 +11,10 @@
 
 
 
-    [["US", "GB"], ["http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]]
+    [["US", "GB"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjEuMy40LjAuMC4wLjAuMA",
+                    "http://join.groupsexgays.com/track/MjAwMjAwLjEuNDkuNTAuMC4wLjAuMC4w"]],
+    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjEuMy40LjAuMC4wLjAuMA",
+              "http://join.groupsexgays.com/track/MjAwMjAwLjEuNDkuNTAuMC4wLjAuMC4w"]]
 
 
 ]
