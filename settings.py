@@ -21,8 +21,9 @@
       "LI", "LU", "NO", "SE"
       ], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
       
-    [["DE"], ["http://in.mydirtyhobby.com/track/N3Z-AbsU/topamateurs",
-              "http://thumbcon.mydirtyhobby.com/?queueId=40041&customImageSize=1&itemCount=36&shuffleResults=0&cacheBuster=1446200721&naff=N3Z-AbsU"]],
+    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=819&prd=10&pr=&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=1526&pr=&prm=ppl&ts=&wm=19035"]],
     
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjMxNy40LjEwLjEwLjAuMC4wLjAuMA",
               "http://join.hellofbdsm.com/track/MjAwMjAwLjEuNTcuNTguMC4wLjAuMC4w"]]
