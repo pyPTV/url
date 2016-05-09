@@ -24,7 +24,6 @@
     [["DE"], ["http://in.mydirtyhobby.com/track/N3Z-AbsU/topamateurs"]],
     
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjMxNy40LjEwLjEwLjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjAwLjEuNC41LjAuMC4wLjAuMA",
               "http://join.hellofbdsm.com/track/MjAwMjAwLjEuNTcuNTguMC4wLjAuMC4w"]]
 
 ]}
