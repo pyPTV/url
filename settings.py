@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w"]], 
+    [["US"], ["http://www.fpcTraffic3.com/raw/click.cgi?account=adultkonxxx&track=A"]], 
     [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
