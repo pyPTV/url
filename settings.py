@@ -19,7 +19,9 @@
       "FO", "FR", "GG", "GI", 
       "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE"
-      ], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+      ], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz",
+          "http://join.allpornsitespass.com/track/MjAwMjAwLjEuNC41LjAuMC4wLjAuMA",
+          "http://join.hellofbdsm.com/track/MjAwMjAwLjEuNTcuNTguMC4wLjAuMC4w"]],
       
     [["DE", "AT"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tube&prm=ppl&ts=&wm=19035",
                     "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
