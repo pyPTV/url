@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w"]], 
-    [["ZZ"], ["http://go2boobs.net/go/2231/1"]]
+    [["ZZ"], ["http://go2boobs.net/go/2231/1", "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
  
