@@ -1,8 +1,11 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjMuMy4xMjguMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjMuMy4xMjguMC4wLjAuMC4w"]]
+    [["US"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA",
+              "http://join.groupsexgays.com/track/MjAwMjAwLjMuNDkuMTc1LjAuMC4wLjAuMA"]],
+
+    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA",
+              "http://join.groupsexgays.com/track/MjAwMjAwLjMuNDkuMTc1LjAuMC4wLjAuMA"]]
 
 ],
  
@@ -11,9 +14,10 @@
 
 
 
-    [["US", "GB"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjEuMy40LjAuMC4wLjAuMA",
-                    "http://join.groupsexgays.com/track/MjAwMjAwLjEuNDkuNTAuMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjAwLjEuMy40LjAuMC4wLjAuMA",
+    [["US"], ["http://join.groupsexgays.com/track/MjAwMjAwLjEuNDkuNTAuMC4wLjAuMC4w",
+              "http://join.bukkakeboys.com/track/MTAwNjA1LjIxMi42Mi42MTIuMC4wLjAuMC4w"]],
+
+    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMi42Mi42MTIuMC4wLjAuMC4w",
               "http://join.groupsexgays.com/track/MjAwMjAwLjEuNDkuNTAuMC4wLjAuMC4w"]]
 
 
