@@ -2,7 +2,13 @@
     "mobile":
 [
     [["US"], ["http://join.m.exxxtrasmall.com/track/MjMyNDIuMTExLjQ4LjQ4LjAuMC4wLjAuMA"]], 
-    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
+    [["DE", "IN", "IT", "GB",
+      "FR", "CH", "AU", "NL",
+      "AT", "MX", "BR", "ES",
+      "GR", "PT", "JP", "BE",
+      "SE", "AR", "DK", "NO"
+      ], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]],
+      [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
  
