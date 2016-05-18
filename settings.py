@@ -30,7 +30,10 @@
                     "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
                     ]],
     
-    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjEuNC41LjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjEuNC41LjAuMC4wLjAuMA",
+              "http://join.hellofbdsm.com/track/MjAwMjAwLjEuNTcuNTguMC4wLjAuMC4w",
+              "http://join.clinicfuck.com/track/MjAwMjAwLjEuMjcuMjguMC4wLjAuMC4w"
+              ]]
 
 ]}
 
