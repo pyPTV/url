@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.m.exxxtrasmall.com/track/MjMyNDIuMTExLjQ4LjQ4LjAuMC4wLjAuMA"]], 
+    [["US"], ["http://1empiredirect.com/tiny/CMQ"]], 
     [["DE", "IN", "IT", "GB",
       "FR", "CH", "AU", "NL",
       "AT", "MX", "BR", "ES",
