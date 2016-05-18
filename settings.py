@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w"]], 
+    [["US"], ["http://join.m.exxxtrasmall.com/track/MjMyNDIuMTExLjQ4LjQ4LjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
