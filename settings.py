@@ -34,7 +34,9 @@
               "http://join.hellofbdsm.com/track/MjAwMjAwLjEuNTcuNTguMC4wLjAuMC4w",
               "http://join.clinicfuck.com/track/MjAwMjAwLjEuMjcuMjguMC4wLjAuMC4w",
               "http://join.blackstepdad.com/track/MjMyNDIuMi42Ni43MTIuMC4wLjAuMC4w",
-              "http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA"
+              "http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
+              "http://momsteachsex.com/tube/featured?coupon=14798",
+              "http://stepsiblingscaught.com/tube/featured?coupon=14798"
               ]]
 
 ]}
