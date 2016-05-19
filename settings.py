@@ -2,12 +2,17 @@
     "mobile":
 [
     [["US"], ["http://1empiredirect.com/tiny/CMQ"]], 
+    
     [["DE", "IN", "IT", "GB",
       "FR", "CH", "AU", "NL",
       "AT", "MX", "BR", "ES",
       "GR", "PT", "JP", "BE",
       "SE", "AR", "DK", "NO"
       ], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]],
+      
+    [["SG", "RU", "NZ", "CL",
+      "CA", "AZ", "TN", "CZ"
+      ], ["http://go2boobs.net/go/2231/1"]],
       
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
