@@ -35,8 +35,6 @@
                     ]],
     
     [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
-              "http://momsteachsex.com/tube/featured?coupon=14798",
-              "http://stepsiblingscaught.com/tube/featured?coupon=14798",
               "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA",
               "http://join.exxxtrasmall.com/track/MjMyNDIuMi4zNS4zNS4wLjAuMC4wLjA",
               "http://join.mybabysittersclub.com/track/MjMyNDIuMi43MC44NTIuMC4wLjAuMC4w"
