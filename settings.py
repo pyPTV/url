@@ -20,18 +20,18 @@
     
     
     [["AU", "CA", "NZ", "GB",
-      "NL", "AN", "BE", 
+      "NL", "AN", "BE", "AT",
       "DK", "FI", "FK", 
       "FO", "FR", "GG", "GI", 
       "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE"
       ], ["http://chaturbate.com/affiliates/in/?track=default&tour=ZmU7&campaign=AQTqz"]],
       
-    [["DE", "AT", "CH"], ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
-                          "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
-                          "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=sophia&prm=ppl&tsd=atcrm113&fsk=18",
-                          "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=1697913&ts=deeplink&wm=19035&pr=machine&prm=ppl&tsd=atcrm113&fsk=18",
-                          "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
+    [["DE", "CH"], ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
+                    "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
+                    "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=sophia&prm=ppl&tsd=atcrm113&fsk=18",
+                    "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=1697913&ts=deeplink&wm=19035&pr=machine&prm=ppl&tsd=atcrm113&fsk=18",
+                    "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
                     ]],
     
     [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
