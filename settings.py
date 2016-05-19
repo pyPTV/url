@@ -32,6 +32,9 @@
                     "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
                     ]],
     
+    [["RU"], ["http://runetki.com/627737/"]],
+    [["UA"], ["http://bongacams.com/track?c=332288"]],
+    
     [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
               "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA",
               "http://join.exxxtrasmall.com/track/MjMyNDIuMi4zNS4zNS4wLjAuMC4wLjA",
