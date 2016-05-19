@@ -10,9 +10,6 @@
       "SE", "AR", "DK", "NO"
       ], ["http://go2boobs.net/go/2231/1"]],
       
-    [["SG", "RU", "NZ", "CL",
-      "CA", "AZ", "TN", "CZ"
-      ], ["http://go2boobs.net/go/2231/1"]],
       
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
