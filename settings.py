@@ -25,9 +25,7 @@
       "FO", "FR", "GG", "GI", 
       "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "SE"
-      ], ["http://chaturbate.com/affiliates/in/?track=default&tour=ZmU7&campaign=AQTqz",
-          "http://join.hellofbdsm.com/track/MjAwMjAwLjEuNTcuNTguMC4wLjAuMC4w",
-          "http://join.allpornsitespass.com/track/MjAwMjAwLjEuNC41LjAuMC4wLjAuMA"]],
+      ], ["http://chaturbate.com/affiliates/in/?track=default&tour=ZmU7&campaign=AQTqz"]],
       
     [["DE", "AT", "CH"], ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
                           "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
@@ -36,8 +34,7 @@
                           "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
                     ]],
     
-    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
+    [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
               "http://momsteachsex.com/tube/featured?coupon=14798",
               "http://stepsiblingscaught.com/tube/featured?coupon=14798",
               "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA",
