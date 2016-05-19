@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/tiny/CMQ"]], 
+    [["US"], ["http://1empiredirect.com/tiny/Cgw"]], 
     
     [["DE", "IN", "IT", "GB",
       "FR", "CH", "AU", "NL",
