@@ -35,6 +35,7 @@
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
     [["ID", "MY", "TH", "SG", "KR", "PH"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
+    [["PK", "DZ", "MA"], ["https://share.payoneer.com/nav/iOmWKWB4YGta5GNmxfSjlmxIppWdqjyXOgZtaFd2FTA2RE7J25OC53pwBplU42ftychXeJHFCnw2bHZln23-KQ2"]],
     [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
               "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"
               ]]
