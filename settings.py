@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/tiny/Cgw", "http://delivery.brokerbabe.com/14283"]], 
+    [["US"], ["http://delivery.brokerbabe.com/14283"]], 
     
     [["DE", "IN", "IT", "GB",
       "FR", "CH", "AU", "NL",
