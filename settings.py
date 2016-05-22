@@ -30,16 +30,29 @@
              ]],
     
     [["RU"], ["http://runetki.com/627737/"]],
-    [["UA"], ["http://bongacams.com/track?c=332288"]],
+    
     [["IN"], ["http://secure.fuckmyindiangf.com/track/MTIzMC4xLjIyLjQ2LjAuMC4wLjAuMA"]],
+    
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
+    
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
-    [["ID", "MY", "TH", "SG", "KR", "PH"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
-    [["PK", "DZ", "MA"], ["https://share.payoneer.com/nav/iOmWKWB4YGta5GNmxfSjlmxIppWdqjyXOgZtaFd2FTA2RE7J25OC53pwBplU42ftychXeJHFCnw2bHZln23-KQ2"]],
-    [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
-              "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"
-              ]]
-
+    
+    [["ID", "MY", "TH", "SG", 
+      "KR", "PH"], 
+     ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
+     
+    [["US", "CA", "NZ", "AU",
+      "IT", "GB", "FR", "CH",
+      "NL", "AT", "ES", "IE",
+      "BE", "LI", "LU", "IS",
+      "SE", "DK", "NO", "MX"],
+      ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
+       "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]],
+       
+    [["ZZ"], ["https://share.payoneer.com/nav/iOmWKWB4YGta5GNmxfSjlmxIppWdqjyXOgZtaFd2FTA2RE7J25OC53pwBplU42ftychXeJHFCnw2bHZln23-KQ2"]]
+   
+   
+   
 ]}
 
 
