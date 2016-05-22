@@ -11,7 +11,7 @@
       ], ["http://go2boobs.net/go/2231/1"]],
       
       
-    [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
+    [["ZZ"], ["http://t0pm0b1l3.com/?id=170", "http://delivery.brokerbabe.com/14283"]]
 
 ],
  
@@ -33,8 +33,7 @@
     [["UA"], ["http://bongacams.com/track?c=332288"]],
     
     [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
-              "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA",
-              "http://delivery.brokerbabe.com/14283"
+              "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"
               ]]
 
 ]}
