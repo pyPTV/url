@@ -47,7 +47,7 @@
       ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
        "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]],
        
-    [["ZZ"], ["https://share.payoneer.com/nav/iOmWKWB4YGta5GNmxfSjlmxIppWdqjyXOgZtaFd2FTA2RE7J25OC53pwBplU42ftychXeJHFCnw2bHZln23-KQ2"]]
+    [["ZZ"], ["http://tracking.payoneer.com/SH9T"]]
    
    
    
