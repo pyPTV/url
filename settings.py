@@ -31,8 +31,6 @@
     
     [["RU"], ["http://runetki.com/627737/"]],
     
-    [["IN"], ["http://secure.fuckmyindiangf.com/track/MTIzMC4xLjIyLjQ2LjAuMC4wLjAuMA"]],
-    
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
     
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
