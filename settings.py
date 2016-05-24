@@ -35,19 +35,13 @@
     
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
     
-    [["ID", "MY", "TH", "SG", 
-      "KR", "PH"], 
-     ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
+    [["ID", "MY", "TH", "SG", "KR", "PH"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
      
-    [["US", "CA", "NZ", "AU",
-      "IT", "GB", "FR", "CH",
-      "NL", "AT", "ES", "IE",
-      "BE", "LI", "LU", "IS",
-      "SE", "DK", "NO", "MX"],
-      ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
-       "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]],
+    [["IN", "PK"], ["http://tracking.payoneer.com/SH9T"]],
+
        
-    [["ZZ"], ["http://tracking.payoneer.com/SH9T"]]
+    [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
+              "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]]
    
    
    
