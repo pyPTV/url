@@ -3,12 +3,10 @@
 [
     [["US"], ["http://delivery.brokerbabe.com/14283"]], 
     
-    [["DE", "IN", "IT", "GB",
-      "FR", "CH", "AU", "NL",
-      "AT", "MX", "BR", "ES",
-      "GR", "PT", "JP", "BE",
-      "SE", "AR", "DK", "NO"
-      ], ["http://go2boobs.net/go/2231/1"]],
+    [["DE", "IN", "IT", "GB", "FR", "CH", 
+      "AU", "NL", "AT", "MX", "BR", "ES", 
+      "GR", "PT", "JP", "BE", "SE", "AR", 
+      "DK", "NO"], ["http://go2boobs.net/go/2231/1"]],
       
       
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
