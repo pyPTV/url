@@ -29,7 +29,7 @@
               "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
              ]],
     
-    [["RU"], ["http://runetki.com/627737/"]],
+    [["RU", "UA", "KZ", "BY", "AM", "AZ"], ["http://runetki.com/627737/"]],
     
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
     
