@@ -35,6 +35,7 @@
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
     
     [["ID", "MY", "TH", "SG", "KR", "PH"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
+    [["BA", "BG", "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
      
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
 
