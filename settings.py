@@ -37,8 +37,7 @@
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
 
        
-    [["ZZ"], ["http://join.sislovesme.com/track/MjMyNDIuMi43NC4xNjMyLjAuMC4wLjAuMA",
-              "http://join.familystrokes.com/track/MjMyNDIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjMxNy40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
    
