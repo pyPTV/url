@@ -38,7 +38,8 @@
 
        
     [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMTM4LjEuNC41LjAuMC4wLjAuMA",
-              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w"]]
+              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w",
+              "http://join.fetishnetwork.com/track/MTAwMDAwMjMxNy40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
    
