@@ -37,7 +37,8 @@
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
 
        
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjMxNy40LjEwLjEwLjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMTM4LjEuNC41LjAuMC4wLjAuMA",
+              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w"]]
    
    
    
