@@ -11,8 +11,10 @@
 
 
 
-    [["US"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMi42Mi42MTIuMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMi42Mi42MTIuMC4wLjAuMC4w"]]
+    [["US"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMi42Mi42MTIuMC4wLjAuMC4w",
+              "http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]],
+    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjg0LjIxMi42Mi42MTIuMC4wLjAuMC4w",
+              "http://join.groupsexgays.com/track/MjAwMTM4LjEuNDkuNTAuMC4wLjAuMC4w"]]
 
 
 ]
