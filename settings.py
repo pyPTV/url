@@ -28,8 +28,8 @@
               "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
              ]],
     
-    [["RU", "UA", "KZ", "BY", "AM", "AZ", "EE", "LT", "LV", "CZ", "SI", "SK"], ["http://bongacams.com/track?c=332288"]],
-    
+    [["EE", "LT", "LV", "CZ", "SI", "SK"], ["http://bongacams.com/track?c=332288"]],
+    [["AM", "AZ", "BY", "KG", "KZ", "MD", "UA", "TJ", "RU"], ["http://targetgo.org/?hash=urcvl5"]],
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
     [["ID", "MY", "TH", "SG", "KR", "TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
