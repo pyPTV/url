@@ -9,7 +9,7 @@
       "DK", "NO"], ["http://go2boobs.net/go/2231/1"]],
       
       
-    [["ZZ"], ["http://t0pm0b1l3.com/?id=170", "http://go2boobs.net/go/2231/1"]]
+    [["ZZ"], ["http://go2boobs.net/go/2231/1"]]
 
 ],
  
