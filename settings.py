@@ -41,8 +41,8 @@
     [["AT"], ["http://thumbcon.mydirtyhobby.com/?queueId=40041&customImageSize=1&itemCount=36&shuffleResults=0&cacheBuster=1446200721&naff=N3Z-AbsU",
               "http://in.mydirtyhobby.com/track/N3Z-AbsU"]],
        
-    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMTM4LjEuNC41LjAuMC4wLjAuMA",
-              "http://join.hellofbdsm.com/track/MjAwMTM4LjEuNTcuNTguMC4wLjAuMC4w"]]
+    [["ZZ"], ["http://secure.peggingnewbies.com/track/MjAyLjUuNjIuOTUuMC4wLjAuMC4w",
+              "http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA"]]
    
    
    
