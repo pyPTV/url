@@ -32,7 +32,7 @@
     [["AM", "AZ", "BY", "KG", "KZ", "MD", "UA", "TJ", "RU"], ["http://bongacams.com/track?c=332288"]],
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
-    [["ID", "MY", "TH", "SG", "KR", "TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
+    [["ID", "MY", "TH", "SG", "KR", "TW", "HK"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
     [["BA", "BG", "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     [["AT"], ["http://thumbcon.mydirtyhobby.com/?queueId=40041&customImageSize=1&itemCount=36&shuffleResults=0&cacheBuster=1446200721&naff=N3Z-AbsU",
