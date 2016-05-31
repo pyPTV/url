@@ -19,7 +19,10 @@
   "desktop":
 [
     
-    [["FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+    [["NL", "AN", "AT", "AU", "BE", "CA",
+      "CH", "DK", "FI", "FK", "FO", "FR",
+      "GG", "GI", "GL", "IE", "IS", "JE",
+      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
     
     [["DE"], ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
               "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
