@@ -41,7 +41,8 @@
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
   
        
-    [["ZZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
+              "http://join.hellofbdsm.com/track/MjAwMjQzLjEuNTcuNTguMC4wLjAuMC4w"]]
    
    
    
