@@ -32,18 +32,22 @@
                     "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2374159&ts=deeplink&wm=19035&pr=sasha&prm=ppl&tsd=atcrm113&fsk=18"
              ]],
     
-    [["EE", "LT", "LV", "CZ", "SI", "SK", "TR"], ["http://bongacams.com/track?c=332288"]],
-    [["AM", "AZ", "BY", "KG", "KZ", "MD", "UA", "TJ", "RU"], ["http://bongacams.com/track?c=332288"]],
-    [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjk5LjAuMC4wLjAuMA"]],
-    [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
-    [["ID", "MY", "TH", "SG", "KR", "TW", "HK"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjg3LjAuMC4wLjAuMA"]],
-
-    [["BA", "BG", "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
+    [["EE", "LT", "LV", "CZ", "SI", "SK", 
+      "TR", "AM", "AZ", "BY", "KG", "KZ", 
+      "MD", "UA", "TJ", "RU"], ["http://bongacams.com/track?c=332288"]],
+      
+    [["BA", "BG", "HR", "GR", "HU", "MK", 
+      "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
+      
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
-  
-       
-    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.hellofbdsm.com/track/MjAwMjQzLjEuNTcuNTguMC4wLjAuMC4w"]]
+    
+    [["US", "MX", "AR", "ES"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA", "http://join.hellofbdsm.com/track/MjAwMjQzLjEuNTcuNTguMC4wLjAuMC4w"]],
+    
+    [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExOS4wLjAuMC4wLjA"]],
+    [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
+    [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
+    [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
+    [["ZZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA"]]
    
    
    
