@@ -47,7 +47,7 @@
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
     [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
     [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
-    [["ZZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjI2LjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.sislovesme.com/track/MjM4MjIuMi43NC4xNjMyLjAuMC4wLjAuMA", "http://join.familystrokes.com/track/MjM4MjIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]]
    
    
    
