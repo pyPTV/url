@@ -41,7 +41,7 @@
       
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     
-    [["US", "MX", "AR", "ES", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA", "http://join.hellofbdsm.com/track/MjAwMjQzLjEuNTcuNTguMC4wLjAuMC4w"]],
+    [["US", "MX", "AR", "ES", "GB"], ["http://join.sislovesme.com/track/MjM4MjIuMi43NC4xNjMyLjAuMC4wLjAuMA", "http://join.familystrokes.com/track/MjM4MjIuMi43Mi4xMjAyLjAuMC4wLjAuMA"]],
     
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExOS4wLjAuMC4wLjA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
