@@ -24,7 +24,7 @@
       "GG", "GI", "GL", "IE", "IS", "JE",
       "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
     
-    [["DE", "AT"], ["http://www.parkplatzkartei.com/site/?ag=770&wm=19035&ts=&prm=ppl&fsk=18",
+    [["DE"], [      "http://www.parkplatzkartei.com/site/?ag=770&wm=19035&ts=&prm=ppl&fsk=18",
                     "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
                     "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
                     "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=sophia&prm=ppl&tsd=atcrm113&fsk=18",
@@ -36,8 +36,7 @@
       "TR", "AM", "AZ", "BY", "KG", "KZ", 
       "MD", "UA", "TJ", "RU"], ["http://bongacams.com/track?c=332288"]],
       
-    [["BA", "BG", "HR", "GR", "HU", "MK", 
-      "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
+    [["BA", "BG", "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
       
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     
@@ -46,7 +45,7 @@
                                       "http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w",
                                       "http://join.hellofbdsm.com/track/MjAwMjAwLjMuNTcuMTgzLjAuMC4wLjAuMA"
                                       ]],
-    
+    [["AT"], ["http://thumbcon.mydirtyhobby.com/?queueId=40041&customImageSize=1&itemCount=36&shuffleResults=0&cacheBuster=1446200721&naff=3WzdAbsU"]],
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExOS4wLjAuMC4wLjA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjY4LjAuMC4wLjAuMA"]],
     [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
