@@ -40,8 +40,7 @@
       
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     
-    [["US", "MX", "AR", "ES", "GB"], ["http://join.sislovesme.com/track/MjM4MjIuMi43NC4xNjMyLjAuMC4wLjAuMA", 
-                                      "http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w",
+    [["US", "MX", "AR", "ES", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w",
                                       "http://join.hellofbdsm.com/track/MjAwMjAwLjMuNTcuMTgzLjAuMC4wLjAuMA"
                                       ]],
     [["AT"], ["http://thumbcon.mydirtyhobby.com/?queueId=40041&customImageSize=1&itemCount=36&shuffleResults=0&cacheBuster=1446200721&naff=3WzdAbsU"]],
@@ -50,8 +49,7 @@
     [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
     [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
     [["ZZ"], ["http://join.sislovesme.com/track/MjM4MjIuMi43NC4xNjMyLjAuMC4wLjAuMA", 
-              "http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w",
-              "http://join.hellofbdsm.com/track/MjAwMjAwLjMuNTcuMTgzLjAuMC4wLjAuMA"
+              "http://join.familystrokes.com/track/MjM4MjIuMi43Mi4xMjAyLjAuMC4wLjAuMA"
              ]]
    
    
