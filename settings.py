@@ -41,7 +41,7 @@
     [["US", "MX", "AR", "ES", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjAwLjMuNC4xMjkuMC4wLjAuMC4w",
                                       "http://join.hellofbdsm.com/track/MjAwMjAwLjMuNTcuMTgzLjAuMC4wLjAuMA"
                                       ]],
-    [["ID", "TH", "MY", "SG"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEyMC4wLjAuMC4wLjA"]],
+    [["ID", "TH", "MY", "SG", "KR"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEyMC4wLjAuMC4wLjA"]],
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExOS4wLjAuMC4wLjA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEwOC4wLjAuMC4wLjA"]],
     [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
