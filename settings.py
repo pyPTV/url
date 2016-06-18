@@ -32,9 +32,11 @@
     
     [["EE", "LT", "LV", "CZ", "SI", "SK", 
       "TR", "AM", "AZ", "BY", "KG", "KZ", 
-      "MD", "UA", "TJ", "RU"], ["http://bongacams.com/track?c=332288"]],
+      "MD", "UA", "TJ", "RU", "BA", "BG", 
+      "HR", "GR", "HU", "MK", "PL", "RO", 
+      "RS"], ["http://bongacams.com/track?c=332288"]],
       
-    [["BA", "BG", "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://ads.itmcash.com/a/14820"]],
+    
       
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     
