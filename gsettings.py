@@ -11,10 +11,8 @@
 
 
 
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA",
-              "http://join.groupsexgays.com/track/MjAwMjYyLjEuNDkuNTAuMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA",
-              "http://join.groupsexgays.com/track/MjAwMjYyLjEuNDkuNTAuMC4wLjAuMC4w"]]
+    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]]
 
 
 ]
