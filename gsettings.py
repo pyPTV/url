@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjMuMy4xMjguMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=8229&at=2"]]
+    [["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&gay=1&source_type=redirect"]]
 
 ],
  
