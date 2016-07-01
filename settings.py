@@ -52,6 +52,7 @@
     [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
     [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
     [["ZZ"], ["http://join.sislovesme.com/track/MjM4MjIuMi43NC4xNjMyLjAuMC4wLjAuMA", 
+              "http://www.wirelesstube.mobi/?data1=Track1&data2=Track2&sl=324102-d0969",
               "http://join.familystrokes.com/track/MjM4MjIuMi43Mi4xMjAyLjAuMC4wLjAuMA"
              ]]
    
