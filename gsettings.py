@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/tiny/Czg"]],
-    [["ZZ"], ["http://1empiredirect.com/tiny/Czg"]]
+    [["US"], ["http://1empiredirect.com/tiny/C1Y"]],
+    [["ZZ"], ["http://1empiredirect.com/tiny/C1Y"]]
 
 ],
  
