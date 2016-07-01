@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjMuMy4xMjguMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjMuMy4xMjguMC4wLjAuMC4w"]]
+    [["US"], ["http://1empiredirect.com/tiny/Czg"]],
+    [["ZZ"], ["http://1empiredirect.com/tiny/Czg"]]
 
 ],
  
