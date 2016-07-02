@@ -22,7 +22,9 @@
     [["NL", "AN", "AU", "BE", "CA", "IT",
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
-      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz",
+                                            "http://join.hellofbdsm.com/track/MjAwMjYyLjEuNTcuNTguMC4wLjAuMC4w"
+                                            ]],
     
     [["DE"], ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
               "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
@@ -44,8 +46,7 @@
       
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     
-    [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA",
-                    "http://join.hellofbdsm.com/track/MjAwMjYyLjEuNTcuNTguMC4wLjAuMC4w"]],
+    [["US", "GB"], ["http://join.hellofbdsm.com/track/MjAwMjYyLjEuNTcuNTguMC4wLjAuMC4w"]],
     [["ID", "TH", "MY", "SG", "KR"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEyMC4wLjAuMC4wLjA"]],
     [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExOS4wLjAuMC4wLjA"]],
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEwOC4wLjAuMC4wLjA"]],
