@@ -9,7 +9,7 @@
       "DK", "NO", "TH", "TR"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]],
       
       
-    [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
+    [["ZZ"], ["http://t0pm0b1l3.com/?id=170", "http://go2boobs.net/go/2231/1"]]
 
 ],
  
@@ -22,9 +22,7 @@
     [["NL", "AN", "AU", "BE", "CA", "IT",
       "CH", "DK", "FI", "FK", "FO", "FR",
       "GG", "GI", "GL", "IE", "IS", "JE",
-      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz",
-                                            "http://join.hellofbdsm.com/track/MjAwMjYyLjEuNTcuNTguMC4wLjAuMC4w"
-                                            ]],
+      "LI", "LU", "NO", "NZ", "SE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
     
     [["DE"], ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
               "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
