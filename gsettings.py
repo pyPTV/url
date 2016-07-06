@@ -11,8 +11,8 @@
 
 
 
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.allgaysitespass.com/track/MjAwMjQzLjEuMy40LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMjQzLjEuMy40LjAuMC4wLjAuMA"]]
 
 
 ]
