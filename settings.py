@@ -51,15 +51,7 @@
     [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEwOC4wLjAuMC4wLjA"]],
     [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
     [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
-    [["ZZ"], ["http://join.sislovesme.com/track/MjM4MjIuMi43NC4xNjMyLjAuMC4wLjAuMA", 
-              "http://join.familystrokes.com/track/MjM4MjIuMi43Mi4xMjAyLjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA",
-              "http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA"
-             ]]
+    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA"]]
    
    
    
