@@ -45,7 +45,7 @@
     [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
     
     
-    [["US", "GB", "CA", "AU", "NZ"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "NZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEyMC4wLjAuMC4wLjA"]],
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
