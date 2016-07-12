@@ -37,12 +37,12 @@
       "TR", "AM", "AZ", "BY", "KG", "KZ", 
       "MD", "UA", "TJ", "RU", "BA", "BG", 
       "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://bongacams.com/track?c=332288"]],
+
     [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
-    [["ID", "TH", "MY", "SG", "KR"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEyMC4wLjAuMC4wLjA"]],
-    [["JP"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExOS4wLjAuMC4wLjA"]],
-    [["CN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEwOC4wLjAuMC4wLjA"]],
-    [["TW"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjExNy4wLjAuMC4wLjA"]],
-    [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
+    
+    [["ID", "TH", "MY", "SG", "KR", "JP",
+      "CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEzMC4wLjAuMC4wLjA"]],
+
     
     
     [["US", "GB", "CA", "AU", "NZ"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
