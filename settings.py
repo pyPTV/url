@@ -45,7 +45,7 @@
     [["VN"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjE0NC4wLjAuMC4wLjA"]],
     
     
-    [["US", "GB", "CA", "AU", "NZ"], ["http://enter.javhd.com/track/MjIwOTIuMi4yLjEyMC4wLjAuMC4wLjA"]],
+    [["US", "GB", "CA", "AU", "NZ"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://join.sislovesme.com/track/MjM4MjIuNy43NC4xNjMyLjAuMC4wLjAuMA"]]
    
    
