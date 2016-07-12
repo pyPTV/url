@@ -6,7 +6,7 @@
     [["DE", "IN", "IT", "GB", "FR", "CH", 
       "AU", "NL", "AT", "MX", "BR", "ES", 
       "GR", "PT", "JP", "BE", "SE", "AR", 
-      "DK", "NO", "TH", "TR"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]],
+      "DK", "NO", "TH", "TR"], ["http://t0pm0b1l3.com/?id=170"]],
       
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
