@@ -45,7 +45,7 @@
 
     
     
-    [["US", "GB", "CA", "AU", "NZ"], ["http://join.sislovesme.com/track/MjM4MjIuNy43NC4xNjMyLjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "NZ"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEzMC4wLjAuMC4wLjA"]],
     [["ZZ"], ["http://join.sislovesme.com/track/MjM4MjIuNy43NC4xNjMyLjAuMC4wLjAuMA",
               "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
