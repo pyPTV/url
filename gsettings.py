@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://1empiredirect.com/redirect?aff_id=1621&at=2"]],
-    [["ZZ"], ["http://1empiredirect.com/redirect?aff_id=1621&at=2"]]
+    [["US"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA"]],
+    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA"]]
 
 ],
  
@@ -17,7 +17,7 @@
       "AU", "NZ", "CH"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
       
       
-    [["ZZ"], ["http://gay.com"]]
+    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w"]]
 
 
 ]
