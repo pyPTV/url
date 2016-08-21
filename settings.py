@@ -45,7 +45,7 @@
 
     
     
-    [["US", "GB", "CA", "AU", "NZ", "CH"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "NZ", "CH"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
