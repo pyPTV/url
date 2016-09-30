@@ -35,7 +35,6 @@
       "MD", "UA", "TJ", "RU", "BA", "BG", 
       "HR", "GR", "HU", "MK", "PL", "RO", "RS"], ["http://bongacams.com/track?c=332288"]],
 
-    [["IN", "PK", "PH", "EG", "MA", "IR"], ["http://tracking.payoneer.com/SH9T"]],
     
     [["ID", "TH", "MY", "SG", "KR", "JP",
       "CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
