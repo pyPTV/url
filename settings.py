@@ -21,7 +21,7 @@
     [["NL", "AN", "BE", "IT", "DK", "FI", 
       "FK", "FO", "FR", "GG", "GI", "GL", 
       "IE", "IS", "JE", "LI", "LU", "NO", 
-      "SE", "SM"], ["http://join.hellofbdsm.com/track/MjAwMzc0LjEuNTcuNTguMC4wLjAuMC4w", "http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
+      "SE", "SM"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
     
     [["DE"],      ["http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2348762&ts=deeplink&wm=19035&pr=angelika&prm=ppl&tsd=atcrm113&fsk=18",
                    "http://www.amateurseite.com/index.php?main=userprofile&page=profile&user_id=2364468&ts=deeplink&wm=19035&pr=alisha&prm=ppl&tsd=atcrm113&fsk=18",
@@ -41,7 +41,7 @@
 
     
     
-    [["US", "GB", "CA", "AU", "NZ", "CH"], ["http://join.hellofbdsm.com/track/MjAwMzc0LjEuNTcuNTguMC4wLjAuMC4w", "http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "NZ", "CH"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
