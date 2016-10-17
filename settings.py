@@ -28,7 +28,7 @@
       "TR", "AM", "AZ", "BY", "KG", "KZ", 
       "MD", "UA", "TJ", "RU", "BA", "BG", 
       "HR", "GR", "HU", "MK", "PL", "RO", 
-      "RS"], ["http://ads.itmcash.com/a/15236"]],
+      "RS"], ["http://bongacams.com/track?c=332288"]],
 
     
     [["ID", "TH", "MY", "SG", "KR", "JP",
