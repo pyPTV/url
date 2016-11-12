@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA"]],
-    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA"]]
+    [["ZZ"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNC42OC42OC4wLjAuMC4wLjA"]]
 
 ],
  
