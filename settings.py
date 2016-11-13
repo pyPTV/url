@@ -17,18 +17,20 @@
 
   "desktop":
 [
+    [["AT", "BE", "CH", "DE", "DK", "FI", 
+      "FR", "IS", "LI", "LU", "MT", "NL", 
+      "NO", "NZ", "SE", "SI", "AD", "CZ", 
+      "EE", "ES", "HK", "HU", "IE", "IT", 
+      "LT", "LV", "PL", "PR", "RU", "SK", 
+      "ZA"], ["http://www.sexgangsters.com/?pid=3687"]],
     
-    [["NL", "AN", "BE", "IT", "DK", "FI", 
-      "FK", "FO", "FR", "GG", "GI", "GL", 
-      "IE", "IS", "JE", "LI", "LU", "NO", 
-      "SE", "SM", "CH", "AT", "DE", "NZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+    [["AN", "FK", "FO", "GG", "GI", "GL", 
+      "JE", "SM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
     
     
-    [["EE", "LT", "LV", "CZ", "SI", "SK", 
-      "TR", "AM", "AZ", "BY", "KG", "KZ", 
-      "MD", "UA", "TJ", "RU", "BA", "BG", 
-      "HR", "GR", "HU", "MK", "PL", "RO", 
-      "RS"], ["http://bongacams.com/track?c=332288"]],
+    [["TR", "AM", "AZ", "BY", "KG", "KZ", 
+      "MD", "UA", "TJ", "BA", "BG", "HR", 
+      "GR", "MK", "RO", "RS"], ["http://bongacams.com/track?c=332288"]],
 
     
     [["ID", "TH", "MY", "SG", "KR", "JP",
