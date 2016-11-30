@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://delivery.bb2022.info/16223"]], 
+    [["US"], ["http://google.com"]], 
     
     [["DE", "IN", "IT", "GB", "FR", "CH", 
       "AU", "NL", "AT", "MX", "BR", "ES", 
@@ -36,7 +36,7 @@
 
     
     
-    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjQzLjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
