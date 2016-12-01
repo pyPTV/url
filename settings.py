@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://google.com"]], 
+    [["US"], ["http://delivery.bb2022.info/16223"]], 
     
     [["DE", "IN", "IT", "GB", "FR", "CH", 
       "AU", "NL", "AT", "MX", "BR", "ES", 
