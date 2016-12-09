@@ -28,7 +28,7 @@
       "TR", "AM", "AZ", "BY", "KG", "KZ", 
       "MD", "UA", "TJ", "RU", "BA", "BG", 
       "HR", "GR", "HU", "MK", "PL", "RO", 
-      "RS"], ["http://bongacams.com/track?c=332288"]],
+      "RS", "ES"], ["http://bongacams.com/track?c=332288"]],
 
     
     [["ID", "TH", "MY", "SG", "KR", "JP",
@@ -41,7 +41,7 @@
     
     [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
     
-    [["MX", "ES"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
+    
 
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
