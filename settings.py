@@ -41,7 +41,8 @@
       "KN", "AW", "AI", "MS", "MF", "BL",
       "BS", "QA", "MV", "MT", "MH", "NR",
       "SC", "SB", "FJ", "PF", "BH", "HN",
-      "DJ", "KW", "OM", "BM", "MO", ], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+      "DJ", "KW", "OM", "BM", "MO", "LI",
+      "AD", "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
         
     
     
