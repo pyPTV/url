@@ -40,7 +40,8 @@
       "BB", "VC", "VG", "VI", "GD", "KY",
       "KN", "AW", "AI", "MS", "MF", "BL",
       "BS", "QA", "MV", "MT", "MH", "NR",
-      "SC", "SB", "FJ", "PF", "BH"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+      "SC", "SB", "FJ", "PF", "BH", "HN",
+      "DJ", "KW", "OM"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
         
     
     
