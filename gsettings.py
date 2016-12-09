@@ -1,7 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNS42OC42OC4wLjAuMC4wLjA"]],
+    [["US", "CA", "GB", "AU"], ["http://join.allgaysitespass.com/track/MjAwMjk4LjEuMy40LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://join.bukkakeboysmobile.com/track/MTAwNjA1LjIxNC42OC42OC4wLjAuMC4wLjA"]]
 
 ],
@@ -10,13 +10,8 @@
 [
 
 
-    [["NL", "AN", "BE", "IT", "DK", "DE",
-      "FI", "FK", "FO", "FR", "GG", "GI", 
-      "GL", "IE", "IS", "JE", "LI", "LU", 
-      "NO", "SE", "SM", "US", "GB", "CA", 
-      "AU", "NZ", "CH"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w"]],
       
-      
+    [["US", "CA", "GB", "AU"], ["http://join.allgaysitespass.com/track/MjAwMjk4LjEuMy40LjAuMC4wLjAuMA"]],  
     [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w"]]
 
 
