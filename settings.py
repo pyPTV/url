@@ -38,7 +38,9 @@
       "GL", "JE", "MX", "NZ", "HT", "JM",
       "TT", "DM", "DO", "LC", "CW", "AG",
       "BB", "VC", "VG", "VI", "GD", "KY",
-      "KN", "AW", "AI", "MS", "MF", "BL"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+      "KN", "AW", "AI", "MS", "MF", "BL",
+      "BS", "QA", "MV", "MT", "MH", "NR",
+      "SC", "SB", "FJ", "PF", "BH"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
         
     
     
