@@ -21,7 +21,7 @@
      [["NL", "AN", "BE", "IT", "DK", "FI", 
        "FK", "FO", "FR", "GG", "GI", "GL", 
        "IE", "IS", "JE", "LI", "LU", "NO", 
-       "SE", "SM", "CH", "AT", "DE", "NZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+       "SE", "SM", "CH", "AT", "NZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
         
     
     [["EE", "LT", "LV", "CZ", "SI", "SK", 
@@ -35,8 +35,12 @@
       "CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
 
     
+    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
+              "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],
     
     [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
+    
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
