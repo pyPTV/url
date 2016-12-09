@@ -17,30 +17,37 @@
 
   "desktop":
 [
+    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
     
-     [["NL", "AN", "BE", "IT", "DK", "FI", 
-       "FK", "FO", "FR", "GG", "GI", "GL", 
-       "IE", "IS", "JE", "LI", "LU", "NO", 
-       "SE", "SM", "CH", "AT", "NZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+    
+    
+     [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
+    
+     [["NO", "CH", "SE", "DK", "CZ", "AT",
+       "BE", "EE", "FR", "FI", "IL", "NL",
+       "IT", "SK", "RU", "JP", "IE", "SI",
+       "PL", "IS", "LT", "GR", "ES", "LV", 
+       "LU", "AE", "RO", "HU", "TR", "CY", 
+       "BG", "HR", "PT", "MK", "SG", "ZA",
+       "KZ", "BA", "JO", "RS", "AR", "UA",
+       "BY", "MD", "BA", "BR", "EG", "NZ"], ["http://bongacams.com/track?c=332288"]],
+       
+    
+    
+    
+     [["AN", "FK", "FO", "GG", "GI", "GL", 
+       "JE", "MX", ], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
         
     
-    [["EE", "LT", "LV", "CZ", "SI", "SK", 
-      "TR", "AM", "AZ", "BY", "KG", "KZ", 
-      "MD", "UA", "TJ", "RU", "BA", "BG", 
-      "HR", "GR", "HU", "MK", "PL", "RO", 
-      "RS", "ES"], ["http://bongacams.com/track?c=332288"]],
+    
 
     
-    [["ID", "TH", "MY", "SG", "KR", "JP",
-      "CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
+    [["ID", "TH", "MY", "KR","CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
 
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],
-    
-    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
-    
+              "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],   
     
 
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
