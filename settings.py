@@ -43,7 +43,7 @@
     
     [["MX", "ES"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
 
-    [["ZZ"], ["http://bongacams.com/track?c=332288"]]
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
    
