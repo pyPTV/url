@@ -39,7 +39,7 @@
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
       "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
 
-    [["ID", "TH", "MY", "KR","CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
+    [["ID", "TH", "MY", "KR", "CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
 
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
