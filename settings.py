@@ -30,13 +30,16 @@
        "LU", "AE", "RO", "HU", "TR", "CY", 
        "BG", "HR", "PT", "MK", "SG", "ZA",
        "KZ", "BA", "JO", "RS", "AR", "UA",
-       "BY", "MD", "BA", "BR", "EG", "NZ"], ["http://bongacams.com/track?c=332288"]],
+       "BY", "MD", "BA", "BR", "EG"], ["http://bongacams.com/track?c=332288"]],
        
     
     
     
-     [["AN", "FK", "FO", "GG", "GI", "GL", 
-       "JE", "MX", ], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+     [["PR", "AN", "FK", "FO", "GG", "GI", 
+       "GL", "JE", "MX", "NZ", "HT", "JM",
+       "TT", "DM", "DO", "LC", "CW", "AG",
+       "BB", "VC", "VG", "VI", "GD", "KY",
+       "KN", "AW", "AI", "MS", "MF", "BL"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
         
     
     
