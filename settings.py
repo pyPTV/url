@@ -22,24 +22,23 @@
     
     [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
     
-    [["NO", "CH", "SE", "DK", "CZ", "AT",
-      "BE", "EE", "FR", "FI", "IL", "NL",
-      "IT", "SK", "RU", "JP", "IE", "SI",
-      "PL", "IS", "LT", "GR", "ES", "LV", 
-      "LU", "AE", "RO", "HU", "TR", "CY", 
-      "BG", "HR", "PT", "MK", "SG", "ZA",
-      "KZ", "BA", "JO", "RS", "AR", "UA",
+    [["NO", "CH", "SE", "DK", "CZ", "AT", "BE", 
+      "EE", "FR", "FI", "IL", "NL", "IT", "SK", 
+      "RU", "JP", "IE", "SI", "PL", "IS", "LT", 
+      "GR", "ES", "LV", "LU", "AE", "RO", "HU", 
+      "TR", "CY", "BG", "HR", "PT", "MK", "SG", 
+      "ZA", "KZ", "BA", "JO", "RS", "AR", "UA",
       "BY", "MD", "BA", "BR", "EG"], ["http://bongacams.com/track?c=332288"]],
        
-    
-    
-    
+    [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
+      "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
+      "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
+      "VI", "GD", "KY", "KN", "AW", "AI", "MS", 
+      "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
+      "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
+      "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
+      "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
 
-        
-    
-    
-
-    
     [["ID", "TH", "MY", "KR","CN", "TW", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
 
     
