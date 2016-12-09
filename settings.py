@@ -17,13 +17,12 @@
 
   "desktop":
 [
-    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],   
     
     
+    [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
     
-     [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
-    
-     [["NO", "CH", "SE", "DK", "CZ", "AT",
+    [["NO", "CH", "SE", "DK", "CZ", "AT",
        "BE", "EE", "FR", "FI", "IL", "NL",
        "IT", "SK", "RU", "JP", "IE", "SI",
        "PL", "IS", "LT", "GR", "ES", "LV", 
@@ -35,7 +34,7 @@
     
     
     
-     [["PR", "AN", "FK", "FO", "GG", "GI", 
+    [["PR", "AN", "FK", "FO", "GG", "GI", 
        "GL", "JE", "MX", "NZ", "HT", "JM",
        "TT", "DM", "DO", "LC", "CW", "AG",
        "BB", "VC", "VG", "VI", "GD", "KY",
