@@ -36,7 +36,7 @@
 
     
     
-    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU"], ["http://google.com"]],
     [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
