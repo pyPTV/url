@@ -28,7 +28,7 @@
       "GR", "ES", "LV", "LU", "AE", "RO", "HU", 
       "TR", "CY", "BG", "HR", "PT", "MK", "SG", 
       "ZA", "KZ", "BA", "JO", "RS", "AR", "UA",
-      "BY", "MD", "BA", "BR", "EG"], ["http://bongacams.com/track?c=332289"]],
+      "BY", "MD", "BA", "BR", "EG"], ["http://t.frtyi.com/aff_c?offer_id=2934&aff_id=40075&bo=2779,2777,2776,2775"]],
        
     [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
