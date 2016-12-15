@@ -28,7 +28,7 @@
       "GR", "ES", "LV", "LU", "AE", "RO", "HU", 
       "TR", "CY", "BG", "HR", "PT", "MK", "SG", 
       "ZA", "KZ", "BA", "JO", "RS", "AR", "UA",
-      "BY", "MD", "BA", "BR", "EG"], ["http://bongacams.com/track?c=332288"]],
+      "BY", "MD", "BA", "BR", "EG"], ["http://bongacams.com/track?c=332289"]],
        
     [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
