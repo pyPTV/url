@@ -12,7 +12,7 @@
 
       
     [["US", "CA", "GB", "AU"], ["http://join.allgaysitespass.com/track/MjAwMjk4LjEuMy40LjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://join.bukkakeboys.com/track/MTAwNjA1LjIxMS42Mi42MTIuMC4wLjAuMC4w"]]
+    [["ZZ"], ["http://t.frtyi.com/aff_c?offer_id=3006&aff_id=40075&bo=2779,2777,2776,2775"]]
 
 
 ]
