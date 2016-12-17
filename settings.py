@@ -17,7 +17,7 @@
 
   "desktop":
 [
-    [["US", "GB", "CA", "AU"], ["http://porn.com"]],   
+    [["US", "GB", "CA", "AU"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],   
     
     
     [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
