@@ -17,7 +17,7 @@
 
   "desktop":
 [
-    [["US", "GB", "CA", "AU"], ["http://google.com]],   
+    [["US", "GB", "CA", "AU"], ["http://google.com"]],   
     
     
     [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
