@@ -17,17 +17,14 @@
 
   "desktop":
 [
-    [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],   
+    [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],    
     
-    
-    [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
-    
-    [["CZ", "EE", "IL", "SK",
-      "RU", "JP", "SI", "PL", "LT", "EG",
-      "GR", "ES", "LV", "AE", "RO", "HU", 
-      "TR", "CY", "BG", "HR", "PT", "MK", "SG", 
-      "ZA", "KZ", "BA", "JO", "RS", "AR", "UA",
-      "BY", "MD", "BA", "BR"], ["http://bongacams.com/track?c=332289"]],
+    [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],    
+    [["CZ", "EE", "IL", "SK", "RU", "SI", "PL", 
+      "LT", "EG", "GR", "ES", "LV", "AE", "RO", 
+      "HU", "TR", "CY", "BG", "HR", "PT", "MK", 
+      "SG", "ZA", "KZ", "BA", "JO", "RS", "AR", 
+      "UA", "BY", "MD", "BA", "BR"], ["http://bongacams.com/track?c=332289"]],
     
     [["DK"], ["http://t.frtyh.com/aff_c?offer_id=623&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["SE"], ["http://t.frtyh.com/aff_c?offer_id=483&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
@@ -57,9 +54,7 @@
               "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],   
     
 
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
-              "http://t.frtyi.com/aff_c?offer_id=3344&aff_id=40075&nopop=1&bo=2779,2777,2776,2775",
-              "http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&bo=2779,2777,2776,2775"]]
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
    
    
    
