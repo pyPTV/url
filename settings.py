@@ -22,14 +22,24 @@
     
     [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],
     
-    [["CZ", "AT", "BE", "EE", "FI", "IL", "SK",
-      "RU", "JP", "SI", "PL", "IS", "LT", "EG",
-      "GR", "ES", "LV", "LU", "AE", "RO", "HU", 
+    [["CZ", "EE", "IL", "SK",
+      "RU", "JP", "SI", "PL", "LT", "EG",
+      "GR", "ES", "LV", "AE", "RO", "HU", 
       "TR", "CY", "BG", "HR", "PT", "MK", "SG", 
       "ZA", "KZ", "BA", "JO", "RS", "AR", "UA",
       "BY", "MD", "BA", "BR"], ["http://bongacams.com/track?c=332289"]],
     
-    [["NO", "CH", "SE", "DK", "FR", "NL", "IT", "IE", "AU",
+    [["DK"], ["http://t.frtyh.com/aff_c?offer_id=623&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["SE"], ["http://t.frtyh.com/aff_c?offer_id=483&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["CH"], ["http://t.frtyi.com/aff_c?offer_id=645&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
+    [["AT"], ["http://t.frtyi.com/aff_c?offer_id=645&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
+    [["AU"], ["http://t.frtyh.com/aff_c?offer_id=495&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["BE"], ["http://t.frtyh.com/aff_c?offer_id=353&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["NL"], ["http://t.grtyh.com/aff_c?offer_id=347&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["IT"], ["http://t.frtyh.com/aff_c?offer_id=473&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["NZ", "FI", "IS", "IE", "LU", "JP", "NO"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
+              
+    [["FR",
       "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
       "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
