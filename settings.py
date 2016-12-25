@@ -47,7 +47,9 @@
               "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],   
     
 
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA",
+              "http://t.frtyi.com/aff_c?offer_id=3344&aff_id=40075&nopop=1&bo=2779,2777,2776,2775",
+              "http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&bo=2779,2777,2776,2775"]]
    
    
    
