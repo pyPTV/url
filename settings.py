@@ -23,7 +23,7 @@
     [["CZ", "EE", "IL", "SK", "RU", "SI", "PL", 
       "LT", "EG", "GR", "ES", "LV", "AE", "RO", 
       "HU", "TR", "CY", "BG", "HR", "PT", "MK", 
-      "SG", "ZA", "KZ", "BA", "JO", "RS", "AR", 
+      "ZA", "KZ", "BA", "JO", "RS", "AR", 
       "UA", "BY", "MD", "BA", "BR"], ["http://bongacams.com/track?c=332289"]],
     
     [["DK"], ["http://t.frtyh.com/aff_c?offer_id=623&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
@@ -34,7 +34,7 @@
     [["BE"], ["http://t.frtyh.com/aff_c?offer_id=353&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["NL"], ["http://t.grtyh.com/aff_c?offer_id=347&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["IT"], ["http://t.frtyh.com/aff_c?offer_id=473&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["NZ", "FI", "IS", "IE", "LU", "JP", "NO"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
+    [["NZ", "FI", "IS", "IE", "LU", "NO"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
               
     [["FR",
       "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
@@ -44,9 +44,10 @@
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN", "TW", "KR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
+      "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
 
-    [["ID", "TH", "MY", "CN", "VN"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
+    [["ID", "TH", "MY", "CN", "VN", "JP", "SG", 
+      "KR", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjEyOS4wLjAuMC4wLjA"]],
 
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
