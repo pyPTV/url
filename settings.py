@@ -26,7 +26,7 @@
       "KZ", "BA", "JO", "RS", "AR", 
       "UA", "BY", "MD", "BA"], ["http://bongacams.com/track?c=332289"]],
     
-    [["DK"], ["http://t.frtyh.com/aff_c?offer_id=623&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    
     [["SE"], ["http://t.frtyh.com/aff_c?offer_id=483&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["CH"], ["http://t.frtyi.com/aff_c?offer_id=645&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
     [["AT"], ["http://t.frtyi.com/aff_c?offer_id=645&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
@@ -34,9 +34,9 @@
     [["BE"], ["http://t.frtyh.com/aff_c?offer_id=353&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["NL"], ["http://t.grtyh.com/aff_c?offer_id=347&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["IT"], ["http://t.frtyh.com/aff_c?offer_id=473&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["ZA"], ["http://t.frtyh.com/gwwo54opmo?offer_id=65&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["BR"], ["http://t.frtyi.com/cg2e5xg60w?offer_id=3354&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
-    [["NZ", "FI", "IS", "IE", "LU", "NO"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
+    [["DK", "IE", "NZ", "NO", "ZA"], ["http://t.frtyh.com/gwwo54opmo?offer_id=65&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["FI", "IS", "LU"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
     
     
     
