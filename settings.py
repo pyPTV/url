@@ -23,7 +23,7 @@
     [["CZ", "EE", "IL", "SK", "RU", "SI", "PL", 
       "LT", "EG", "GR", "LV", "AE", "RO", 
       "HU", "TR", "CY", "BG", "HR", "PT", "MK", 
-      "ZA", "KZ", "BA", "JO", "RS", "AR", 
+      "KZ", "BA", "JO", "RS", "AR", 
       "UA", "BY", "MD", "BA", "BR"], ["http://bongacams.com/track?c=332289"]],
     
     [["DK"], ["http://t.frtyh.com/aff_c?offer_id=623&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
