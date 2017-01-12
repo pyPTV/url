@@ -35,12 +35,12 @@
     [["NL"], ["http://t.grtyh.com/aff_c?offer_id=347&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["IT"], ["http://t.frtyh.com/aff_c?offer_id=473&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["BR"], ["http://t.frtyi.com/cg2e5xg60w?offer_id=3354&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
-    [["DK", "IE", "NZ", "NO", "ZA"], ["http://t.frtyh.com/gwwo54opmo?offer_id=65&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
+    [["ZA"], ["http://t.frtyh.com/gwwo54opmo?offer_id=65&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
     [["FI", "IS", "LU"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
     
     
     
-    [["FR",
+    [["FR", "DK", "IE", "NZ", "NO",
       "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
       "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
