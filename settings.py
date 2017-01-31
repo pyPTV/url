@@ -27,16 +27,16 @@
       "UA", "BY", "MD", "BA"], ["http://bongacams.com/track?c=332289"]],
     
     
-    [["SE"], ["http://t.frtyh.com/aff_c?offer_id=483&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["CH"], ["http://t.frtyi.com/aff_c?offer_id=645&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
-    [["AT"], ["http://t.frtyi.com/aff_c?offer_id=645&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
-    [["AU"], ["http://t.frtyh.com/aff_c?offer_id=495&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["BE"], ["http://t.frtyh.com/aff_c?offer_id=353&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["NL"], ["http://t.grtyh.com/aff_c?offer_id=347&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["IT"], ["http://t.frtyh.com/aff_c?offer_id=473&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["BR"], ["http://t.frtyi.com/cg2e5xg60w?offer_id=3354&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
-    [["ZA"], ["http://t.frtyh.com/gwwo54opmo?offer_id=65&aff_id=40075&nopop=1&bo=2753,2754,2755,2756"]],
-    [["FI", "IS", "LU"], ["http://t.frtyi.com/aff_c?offer_id=765&aff_id=40075&nopop=1&bo=2779,2777,2776,2775"]],
+    [["SE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["CH"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["AT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["AU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["BE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["NL"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["IT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["BR"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["ZA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["FI", "IS", "LU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     
     
     
