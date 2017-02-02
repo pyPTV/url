@@ -23,11 +23,11 @@
     [["AU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["NL"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["IT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["LU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["ZA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     
     
     
-    [["FR", "IE", "KR", "TW", "ZA",
+    [["FR", "KR", "TW", 
       "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
       "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
@@ -44,9 +44,9 @@
       "FI", "IL",
       "SK",
       "RU", "JP",
-      "SI", "PL", "IS", "LV",
+      "IE", "SI", "PL", "IS", "LV",
       "GR", "ES",
-      "LT", "AE",
+      "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
       "AR", "SG", "UA", "BY", "MD", "BA", "AM", 
