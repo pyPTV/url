@@ -21,7 +21,7 @@
 
     [["NZ"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["AU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["NL"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["NL"], ["http://t.frtyh.com/1c4nw7xn28?offer_id=347&aff_id=43372&aff_sub=XClub&nopop=1&bo=2753,2754,2755,2756F"]],
     [["IT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["ZA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     
