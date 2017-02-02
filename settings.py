@@ -19,13 +19,6 @@
 [
     [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],    
 
-    [["NZ"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["AU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["NL"], ["http://t.frtyh.com/1c4nw7xn28?offer_id=347&aff_id=43372&aff_sub=XClub&nopop=1&bo=2753,2754,2755,2756F"]],
-    [["IT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["ZA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    
-    
     
     [["FR", "KR", "TW", 
       "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
@@ -37,10 +30,10 @@
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
       "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
 
-    [["NO", "CH",
+    [["NO",
       "SE",
       "DK",
-      "CZ", "AT", "BE",
+      "CZ", "BE",
       "FI", "IL",
       "SK",
       "RU", "JP",
@@ -50,16 +43,21 @@
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
       "AR", "SG", "UA", "BY", "MD", "BA", "AM", 
-      "AZ", "KG", "TJ", "GE", "UZ", "TM"
-      
-      ], ["http://bongacams.com/track?c=332289"]],
+      "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]],
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],   
     
 
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]]
+
+    [["NZ"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
+    [["AU"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
+    [["NL"], ["http://t.frtyh.com/1c4nw7xn28?offer_id=347&aff_id=43372&aff_sub=XClub&nopop=1&bo=2753,2754,2755,2756F"]],
+    [["CH", "AT"], ["http://t.frtyi.com/g5wtkc8ao0?offer_id=645&aff_id=43372&aff_sub=VisitX&nopop=1&bo=2779,2777,2778,2776,2775"]],
+        
+    
+    [["ZZ"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]]
    
    
    
