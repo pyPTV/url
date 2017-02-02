@@ -18,29 +18,16 @@
   "desktop":
 [
     [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],    
-    
-    [["AM", "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332288"]],    
-    [["CZ", "EE", "IL", "SK", "RU", "SI", "PL", 
-      "LT", "EG", "GR", "LV", "AE", "RO", "ES",
-      "HU", "TR", "CY", "BG", "HR", "PT", "MK", 
-      "KZ", "BA", "JO", "RS", "AR", "JP", "SG",
-      "UA", "BY", "MD", "BA"], ["http://bongacams.com/track?c=332289"]],
-    
-    
-    [["SE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["CH"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["AT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+
+    [["NZ"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["AU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["BE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["NL"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     [["IT"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["BR"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["ZA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["FI", "IS", "LU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["LU"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
     
     
     
-    [["FR", "DK", "IE", "NZ", "NO", "KR", "TW",
+    [["FR", "IE", "KR", "TW", "ZA",
       "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
       "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
@@ -50,7 +37,22 @@
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
       "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
 
-
+    [["NO", "CH",
+      "SE",
+      "DK",
+      "CZ", "AT", "BE",
+      "FI", "IL",
+      "SK",
+      "RU", "JP",
+      "SI", "PL", "IS", "LV",
+      "GR", "ES",
+      "LT", "AE",
+      "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
+      "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
+      "AR", "SG", "UA", "BY", "MD", "BA", "AM", 
+      "AZ", "KG", "TJ", "GE", "UZ", "TM"
+      
+      ], ["http://bongacams.com/track?c=332289"]],
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
