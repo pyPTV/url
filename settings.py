@@ -38,7 +38,7 @@
       "SK",
       "RU", "JP",
       "IE", "SI", "PL", "IS", "LV",
-      "GR", "ES",
+      "GR",
       "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
