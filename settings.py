@@ -17,7 +17,7 @@
 
   "desktop":
 [
-    [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],    
+    [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],    
 
     
     [["FR", "KR", "TW", 
