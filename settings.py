@@ -17,7 +17,7 @@
 
   "desktop":
 [
-    [["US", "GB", "CA"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],    
+    [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],    
 
     
     [["FR", "KR", "TW", 
@@ -50,7 +50,7 @@
               "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],   
     
 
-
+    [["CA"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
     [["NZ"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
     [["AU"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
     [["NL"], ["http://t.frtyh.com/1c4nw7xn28?offer_id=347&aff_id=43372&aff_sub=XClub&nopop=1&bo=2753,2754,2755,2756F"]],
