@@ -54,6 +54,7 @@
     [["NZ"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
     [["AU"], ["http://t.frtyq.com/slmqnevibk?offer_id=765&aff_id=43372&aff_sub=MyFreeCams&nopop=1&bo=2779,2777,2778,2776,2775"]],
     [["NL"], ["http://t.frtyh.com/1c4nw7xn28?offer_id=347&aff_id=43372&aff_sub=XClub&nopop=1&bo=2753,2754,2755,2756F"]],
+    [["IT"], ["http://t.frtyh.com/e544544m9s?offer_id=3404&aff_id=43372&nopop=1&bo=2753,2754,2755,2756"]],
     [["CH", "AT"], ["http://t.frtyi.com/g5wtkc8ao0?offer_id=645&aff_id=43372&aff_sub=VisitX&nopop=1&bo=2779,2777,2778,2776,2775"]],
         
     
