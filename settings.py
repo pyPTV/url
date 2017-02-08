@@ -20,15 +20,16 @@
     [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],    
 
     
-    [["FR", "KR", "TW", 
-      "PR", "AN", "FK", "FO", "GG", "GI", "GL", 
+    [["FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+    
+    [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
       "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
       "VI", "GD", "KY", "KN", "AW", "AI", "MS", 
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
+      "BN", "KR", "TW"], ["http://t.frtyn.com/hi0p94ea68?offer_id=223&aff_id=43372&aff_sub=exposed&nopop=1&bo=2779,2777,2778,2776,2775"]],    
 
     [["NO",
       "SE",
