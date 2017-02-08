@@ -43,7 +43,7 @@
       "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
-      "AR", "SG", "UA", "BY", "MD", "BA", "AM", 
+      "AR", "UA", "BY", "MD", "BA", "AM", 
       "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]],
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
