@@ -6,9 +6,9 @@
     [["DE", "IN", "IT", "GB", "FR", "CH", 
       "AU", "NL", "AT", "MX", "BR", "ES", 
       "GR", "PT", "JP", "BE", "SE", "AR", 
-      "DK", "NO", "TH", "TR"], ["http://t0pm0b1l3.com/?id=170", "http://delivery.bb2022.info/16223"]],
+      "DK", "NO", "TH", "TR"], ["http://delivery.bb2022.info/16223"]],
       
-    [["ZZ"], ["http://t.frtyn.com/as88ea51z4?offer_id=275&aff_id=43372&aff_sub=exposed&nopop=1&bo=2779,2777,2778,2776,2775"]]
+    [["ZZ"], ["http://t0pm0b1l3.com/?id=170", "http://t.frtyn.com/as88ea51z4?offer_id=275&aff_id=43372&aff_sub=exposed&nopop=1&bo=2779,2777,2778,2776,2775"]]
 
 ],
  
