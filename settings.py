@@ -17,7 +17,7 @@
 
   "desktop":
 [
-    [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMjk4LjEuNC41LjAuMC4wLjAuMA"]],    
+    [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMzUwLjEuNC41LjAuMC4wLjAuMA"]],    
 
     
     [["FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
