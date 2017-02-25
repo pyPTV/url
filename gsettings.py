@@ -11,7 +11,7 @@
 
 
       
-    [["US", "GB"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],  
+    [["US", "GB"], ["http://join.allgaysitespass.com/track/MjAwMzc0LjEuMy40LjAuMC4wLjAuMA"]],  
     [["ZZ"], ["http://t.frtyi.com/jzflfc6neo?offer_id=171&aff_id=43372&nopop=1&bo=2772,2771,2770,2769,2768"]]
 
 
