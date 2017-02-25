@@ -29,7 +29,7 @@
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN", "KR", "TW"], ["http://t.frtyn.com/hi0p94ea68?offer_id=223&aff_id=43372&aff_sub=exposed&nopop=1&bo=2779,2777,2778,2776,2775"]],    
+      "BN", "KR", "TW"], ["http://bongacams.com/track?c=332289"]],    
 
     [["NO",
       "SE",
@@ -52,14 +52,13 @@
               "http://join.milfsultra.com/track/MjAwMzc0LjEuNzcuNzguMC4wLjAuMC4w"]],   
     
 
-    [["AU", "CA", "NZ", "SG"], ["http://t.frtyn.com/hi0p94ea68?offer_id=223&aff_id=43372&aff_sub=exposed&nopop=1&bo=2779,2777,2778,2776,2775"]],
+    [["AU", "CA", "NZ", "SG"], ["http://bongacams.com/track?c=332289"]],
     
-    [["NL"], ["http://t.frtyh.com/1c4nw7xn28?offer_id=347&aff_id=43372&aff_sub=XClub&nopop=1&bo=2753,2754,2755,2756F"]],
-    [["IT"], ["http://t.frtyh.com/q1jxiuh7b4?offer_id=3404&aff_id=43372&aff_sub=imnaughty&nopop=1&bo=2753,2754,2755,2756"]],
-    [["CH", "AT"], ["http://t.frtyi.com/g5wtkc8ao0?offer_id=645&aff_id=43372&aff_sub=VisitX&nopop=1&bo=2779,2777,2778,2776,2775"]],
+    [["NL"], ["http://bongacams.com/track?c=332289"]],
+    [["IT"], ["http://bongacams.com/track?c=332289"]],
+    [["CH", "AT"], ["http://bongacams.com/track?c=332289"]],
         
-    
-    [["ZZ"], ["http://t.frtyn.com/hi0p94ea68?offer_id=223&aff_id=43372&aff_sub=exposed&nopop=1&bo=2779,2777,2778,2776,2775"]]
+    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]]
    
    
    
