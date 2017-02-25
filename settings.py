@@ -17,19 +17,9 @@
 
   "desktop":
 [
-    [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],    
-
+    [["US", "GB"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]], 
     
     [["FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
-    
-    [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
-      "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
-      "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
-      "VI", "GD", "KY", "KN", "AW", "AI", "MS", 
-      "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
-      "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
-      "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN", "KR", "TW"], ["http://bongacams.com/track?c=332289"]],    
 
     [["NO",
       "SE",
@@ -52,11 +42,24 @@
               "http://join.milfsultra.com/track/MjAwMzc0LjEuNzcuNzguMC4wLjAuMC4w"]],   
     
 
-    [["AU", "CA", "NZ", "SG"], ["http://bongacams.com/track?c=332289"]],
-    
-    [["NL"], ["http://bongacams.com/track?c=332289"]],
-    [["IT"], ["http://bongacams.com/track?c=332289"]],
-    [["CH", "AT"], ["http://bongacams.com/track?c=332289"]],
+    [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
+      "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
+      "DO", "LC", "CW", "AG", "BB", "VC", "VG", 
+      "VI", "GD", "KY", "KN", "AW", "AI", "MS", 
+      "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
+      "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
+      "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
+      "BN", "KR", 
+      "TW"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],    
+
+    [["AU", 
+      "CA", 
+      "NZ", 
+      "SG"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]], 
+    [["NL"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
+    [["IT"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
+    [["CH"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
+    [["AT"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
         
     [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]]
    
