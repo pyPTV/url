@@ -21,10 +21,7 @@
     
     [["FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
 
-    [["NO",
-      "SE",
-      "DK",
-      "CZ", "BE",
+    [["CZ", "BE",
       "FI", "IL",
       "SK",
       "RU", "JP",
@@ -60,7 +57,9 @@
     [["IT"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
     [["CH"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
     [["AT"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
-        
+    [["NO",
+      "SE",
+      "DK"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]]
    
    
