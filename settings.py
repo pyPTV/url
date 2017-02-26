@@ -8,7 +8,7 @@
       "GR", "PT", "JP", "BE", "SE", "AR", 
       "DK", "NO", "TH", "TR"], ["http://delivery.bb2022.info/16223"]],
       
-    [["ZZ"], ["http://delivery.bb2022.info/16223"]]
+    [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
  
