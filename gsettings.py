@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwMzc0LjEuMy40LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMzc0LjEuMy40LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://gay.com"]]
                
 ],
  
@@ -11,8 +11,8 @@
 
 
       
-    [["US", "GB"], ["http://join.allgaysitespass.com/track/MjAwMzc0LjEuMy40LjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMzc0LjEuMy40LjAuMC4wLjAuMA"]]
+    [["US", "GB"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],  
+    [["ZZ"], ["http://gay.com"]]
 
 
 ]
