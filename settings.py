@@ -19,7 +19,7 @@
 [
 
     [["US", "GB", "AU", "FR",
-      "CA", "NZ", "BE",
+      "CA", "NZ", "BE", 
       "NL", "CH", "AT", "IE",
       "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
     
@@ -33,8 +33,8 @@
       "FI", "IL",
       "SK",
       "RU", 
-      "SI", "PL", "IS", "LV",
-      "GR",
+      "SI", "PL", "LV", "IS",
+      "GR", 
       "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
