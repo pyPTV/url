@@ -17,27 +17,34 @@
 
   "desktop":
 [
-    
-    
-    [["FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
 
-    [["CZ", "BE",
+    [["US", "GB", "AU", 
+      "CA", "NZ", "SG", "BE"
+      "NL", "CH", "AT", "IE",
+      "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
+    
+    [["JP", "SG", "TW"], ["http://join.sinfuljapan.com/track/MjAwNDQyLjEuMTU2LjM2Mi4wLjAuMC4wLjA"]],
+    
+
+    
+    
+
+    [["CZ", 
       "FI", "IL",
       "SK",
-      "RU", "JP",
+      "RU", 
       "IE", "SI", "PL", "IS", "LV",
       "GR",
       "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
       "AR", "UA", "BY", "MD", "BA", "AM", 
-      "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]],
+      "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]],    
     
     [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
               "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035",
-              "http://join.milfsultra.com/track/MjAwMzc0LjEuNzcuNzguMC4wLjAuMC4w"]],   
-    
+              "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],      
+   
 
     [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
       "JE", "MX", "NZ", "HT", "JM", "TT", "DM", 
@@ -46,19 +53,7 @@
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN", "KR", 
-      "TW"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
-
-    [["US", "GB", "AU", 
-      "CA", 
-      "NZ", 
-      "SG", 
-      "NL",      
-      "CH",
-      "AT",
-      "NO",
-      "SE",
-      "DK"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
+      "BN", "KR", "FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]], 
     [["ZZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
    
    
