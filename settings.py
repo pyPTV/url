@@ -18,7 +18,7 @@
   "desktop":
 [
 
-    [["US", "GB", "AU", 
+    [["US", "GB", "AU", "FR",
       "CA", "NZ", "SG", "BE"
       "NL", "CH", "AT", "IE",
       "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
@@ -33,7 +33,7 @@
       "FI", "IL",
       "SK",
       "RU", 
-      "IE", "SI", "PL", "IS", "LV",
+      "SI", "PL", "IS", "LV",
       "GR",
       "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
@@ -53,8 +53,8 @@
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
       "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN", "KR", "FR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]], 
-    [["ZZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
+      "BN", "KR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]], 
+    [["ZZ"],       ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
    
    
    
