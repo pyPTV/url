@@ -23,7 +23,7 @@
       "NL", "CH", "AT", "IE",
       "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
     
-    [["JP", "SG", "TW"], ["http://join.sinfuljapan.com/track/MjAwNDQyLjEuMTU2LjM2Mi4wLjAuMC4wLjA"]],
+    [["JP", "SG", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
     
 
     
