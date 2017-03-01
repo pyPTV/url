@@ -21,7 +21,7 @@
     [["US", "GB", "AU", "FR",
       "CA", "NZ", "BE", "IT",
       "NL", "CH", "AT", "IE",
-      "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
+      "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNTgyLjEuNC41LjAuMC4wLjAuMA"]],
     
     [["JP", "SG", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
     
