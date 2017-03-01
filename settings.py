@@ -21,7 +21,8 @@
     [["US", "GB", "AU", "FR",
       "CA", "NZ", "BE", "IT",
       "NL", "CH", "AT", "IE",
-      "NO", "SE", "DK", "NZ"], ["http://join.allpornsitespass.com/track/MjAwNTgyLjEuNC41LjAuMC4wLjAuMA"]],
+      "NO", "SE", "DK", "NZ",
+      "FI", "IS", "LI", "LU"], ["http://join.allpornsitespass.com/track/MjAwNTgyLjEuNC41LjAuMC4wLjAuMA"]],
     
     [["JP", "SG", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
     
@@ -30,10 +31,10 @@
     
 
     [["CZ", 
-      "FI", "IL",
+      "IL",
       "SK",
       "RU", 
-      "SI", "PL", "LV", "IS",
+      "SI", "PL", "LV", 
       "GR", 
       "LT", "LU", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
@@ -52,9 +53,9 @@
       "VI", "GD", "KY", "KN", "AW", "AI", "MS", 
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
-      "DJ", "KW", "OM", "BM", "MO", "LI", "AD", 
-      "BN", "KR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]], 
-    [["ZZ"],       ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
+      "DJ", "KW", "OM", "BM", "MO", "AD", "BN", 
+      "KR"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]], 
+    [["ZZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
    
    
    
