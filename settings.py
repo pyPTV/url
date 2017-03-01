@@ -36,7 +36,7 @@
       "RU", 
       "SI", "PL", "LV", 
       "GR", 
-      "LT", "LU", "AE",
+      "LT", "AE",
       "EE", "EG", "RO", "HU", "TR", "CY", "BG", 
       "HR", "PT", "MK", "KZ", "BA", "JO", "RS", 
       "AR", "UA", "BY", "MD", "BA", "AM", 
