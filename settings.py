@@ -22,7 +22,7 @@
       "CA", "NZ", "BE", "IT",
       "NL", "CH", "AT", "IE",
       "NO", "SE", "DK", "NZ",
-      "FI", "IS", "LI", "LU"], ["http://join.allpornsitespass.com/track/MjAwNTgyLjEuNC41LjAuMC4wLjAuMA"]],
+      "FI", "IS", "LI", "LU", "DE"], ["http://join.allpornsitespass.com/track/MjAwNTgyLjEuNC41LjAuMC4wLjAuMA"]],
     
     [["JP", "SG", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
     
@@ -42,9 +42,7 @@
       "AR", "UA", "BY", "MD", "BA", "AM", 
       "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]],    
     
-    [["DE"], ["http://landing.amateurseite.com/?ag=768&fsk=18&pr=tubechannel&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=1526&pr=milf&prm=ppl&ts=&wm=19035",
-              "http://landing.amateurseite.com/?ag=1524&pr=bdsm&prm=ppl&ts=&wm=19035"]],      
+     
    
 
     [["PR", "AN", "FK", "FO", "GG", "GI", "GL", 
