@@ -22,9 +22,9 @@
       "CA", "NZ", "BE", "IT",
       "NL", "CH", "AT", "IE",
       "NO", "SE", "DK", "NZ",
-      "FI", "IS", "LI", "LU", "DE"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
+      "FI", "IS", "LI", "LU", "DE"], ["http://join.allpornsitespass.com/track/MjAwMzUwLjEuNC41LjAuMC4wLjAuMA"]],
     
-    [["JP", "SG", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
+    [["JP", "SG", "TW"], ["http://join.sinfuljapan.com/track/MjAwMzUwLjEuMTU2LjM2Mi4wLjAuMC4wLjA"]],
     
 
     
@@ -52,7 +52,7 @@
       "MF", "BL", "BS", "QA", "MV", "MT", "MH", 
       "NR", "SC", "SB", "FJ", "PF", "BH", "HN",
       "DJ", "KW", "OM", "BM", "MO", "AD", "BN", 
-      "KR"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]], 
+      "KR"], ["http://join.allpornsitespass.com/track/MjAwMzUwLjEuNC41LjAuMC4wLjAuMA"]], 
     [["ZZ"], ["http://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
    
    
