@@ -24,7 +24,8 @@
       "NO", "SE", "DK", "NZ",
       "FI", "IS", "LI", "LU", "DE"], ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],
     
-    [["JP", "SG", "TW"], ["http://join.sinfuljapan.com/track/MjAwMzc0LjEuMTU2LjM2Mi4wLjAuMC4wLjA"]],
+    [["JP"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w/ja"]], 
+    [["SG", "TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
     
 
     
