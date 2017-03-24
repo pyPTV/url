@@ -3,8 +3,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]]
+    [["US"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]]
                
 ],
  
@@ -13,8 +13,8 @@
 
 
       
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]]
+    [["US"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],  
+    [["ZZ"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]]
 
 
 ]
