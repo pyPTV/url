@@ -2,8 +2,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]],
+    [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]]
                
 ],
  
@@ -12,8 +12,8 @@
 
 
       
-    [["US"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]],  
+    [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]]
 
 
 ]
