@@ -2,8 +2,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]],
-    [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]]
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
                
 ],
  
@@ -12,8 +12,8 @@
 
 
       
-    [["US"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]],  
-    [["ZZ"], ["http://join.hellofbdsm.com/track/MjAwNDQyLjEuNTcuNTguMC4wLjAuMC4w"]]
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],  
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
 
 
 ]
