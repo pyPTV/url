@@ -2,8 +2,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
                
 ],
  
@@ -12,8 +12,8 @@
 
 
       
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],  
+    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
 
 
 ]
