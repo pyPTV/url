@@ -21,7 +21,7 @@
     [["US", "GB", "AU", "FR", "CA", "NZ", 
       "BE", "IT", "NL", "CH", "AT", "IE", 
       "NO", "SE", "DK", "NZ", "FI", "IS", 
-      "LI", "LU", "DE"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],
+      "LI", "LU", "DE"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],
 
 
     [["CZ", "IL", "SK", "RU", "SI", "PL", 
