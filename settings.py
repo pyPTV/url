@@ -35,7 +35,7 @@
     [["JP"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w/ja"]], 
     [["SG"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
     [["TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
+    [["ZZ"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]]
    
    
    
