@@ -2,8 +2,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
+    [["US"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]],
+    [["ZZ"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]]
                
 ],
  
@@ -12,8 +12,8 @@
 
 
       
-    [["US"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://join.fetishnetwork.com/track/MTAwMDAwMjkxOC40LjEwLjEwLjAuMC4wLjAuMA"]]
+    [["US"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]],  
+    [["ZZ"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]]
 
 
 ]
