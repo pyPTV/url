@@ -18,10 +18,11 @@
   "desktop":
 [
 
-    [["US", "GB", "AU", "FR", "CA", "NZ", 
-      "BE", "IT", "NL", "CH", "AT", "IE", 
-      "NO", "SE", "DK", "NZ", "FI", "IS", 
-      "LI", "LU", "DE"], ["http://join.allpornsitespass.com/track/MjAwNjg0LjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "FR", 
+      "DE", "NO", "SE", "DK", "CH"], ["http://join.allpornsitespass.com/track/MjAwNjg0LjEuNC41LjAuMC4wLjAuMA"]],
+    
+    [["BE", "IT", "NL", "AT", "FI", "IS", 
+      "LI", "LU", "SG", "NZ", "IE"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]],
 
 
     [["CZ", "IL", "SK", "RU", "SI", "PL", 
@@ -33,7 +34,6 @@
    
 
     [["JP"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w/ja"]], 
-    [["SG"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
     [["TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]]
    
