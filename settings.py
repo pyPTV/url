@@ -22,7 +22,7 @@
       "DE", "NO", "SE", "DK", "CH"], ["http://join.allpornsitespass.com/track/MjAwNjg0LjEuNC41LjAuMC4wLjAuMA"]],
     
     [["BE", "IT", "NL", "AT", "FI", "IS", 
-      "LI", "LU", "SG", "NZ", "IE"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]],
+      "LI", "LU", "SG", "NZ", "IE"], ["http://bongacams.com/track?c=332289"]],
 
 
     [["CZ", "IL", "SK", "RU", "SI", "PL", 
