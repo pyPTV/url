@@ -2,11 +2,6 @@
     "mobile":
 [
     [["US"], ["http://delivery.bb2022.info/16223"]], 
-    
-    [["DE", "IN", "IT", "GB", "FR", "CH", 
-      "AU", "NL", "AT", "MX", "BR", "ES", 
-      "GR", "PT", "JP", "BE", "SE", "AR", 
-      "DK", "NO", "TH", "TR"], ["http://t0pm0b1l3.com/?id=170"]],
       
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
