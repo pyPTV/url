@@ -21,8 +21,9 @@
     [["US", "GB", "CA", "AU", "FR", 
       "DE", "NO", "SE", "DK", "CH"], ["http://join.allpornsitespass.com/track/MjAwNjg0LjEuNC41LjAuMC4wLjAuMA"]],
     
-    [["BE", "IT", "NL", "AT", "FI", "IS", 
-      "LI", "LU", "SG", "NZ", "IE"], ["http://bongacams.com/track?c=332289"]],
+    [["BE", "IT", "NL", "AT", "FI", 
+      "IS", "LI", "LU", "SG", "NZ", 
+      "IE"], ["http://bongacams.com/track?c=332289"]],
 
 
     [["CZ", "IL", "SK", "RU", "SI", "PL", 
@@ -33,8 +34,6 @@
       "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]], 
    
 
-    [["JP"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w/ja"]], 
-    [["TW"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]]
    
    
