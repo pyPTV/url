@@ -29,7 +29,7 @@
       "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]], 
    
 
-    [["ZZ"], ["http://t.irtya.com/wzbm9r4u8?offer_id=3788&aff_id=40075"]]
+    [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
    
    
    
