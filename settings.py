@@ -1,8 +1,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://delivery.bb2022.info/16223"]], 
-      
+    [["US"], ["http://delivery.bb2022.info/16223"]],       
     [["ZZ"], ["http://t0pm0b1l3.com/?id=170"]]
 
 ],
