@@ -13,7 +13,7 @@
 [
 
     [["US", "GB", "CA", "AU", "FR", 
-      "DE", "NO", "SE", "DK", "CH"], ["http://join.allpornsitespass.com/track/MjAwNjk4LjEuNC41LjAuMC4wLjAuMA"]],
+      "DE", "NO", "SE", "DK", "CH"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]],
     
     [["BE", "IT", "NL", "AT", "FI", 
       "IS", "LI", "LU", "SG", "NZ", "IE"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]],
