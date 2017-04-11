@@ -12,7 +12,7 @@
   "desktop":
 [
 
-    [["US", "GB", "CA", "AU", "FR", "CH"], ["http://join.allpornsitespass.com/track/MjAwNzAyLjIuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "FR", "CH"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]],
     
     [["BE", "IT", "NL", "AT", "FI", "DK",
       "IS", "LI", "LU", "SG", "NZ", "IE",
