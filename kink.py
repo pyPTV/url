@@ -12,8 +12,8 @@
 
 
       
-    [["US"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]],    
-    [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
+    [["US"], ["http://t.frtyr.com/9atvuu50ao?offer_id=3&aff_id=43372&nopop=1&bo=2745,2746,2748,2749,2750"]],    
+    [["ZZ"], ["http://t.frtyr.com/9atvuu50ao?offer_id=3&aff_id=43372&nopop=1&bo=2745,2746,2748,2749,2750"]]
 
 
 ]
