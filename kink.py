@@ -12,7 +12,7 @@
 
 
       
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwNzAyLjIuNC41LjAuMC4wLjAuMA"]],    
+    [["US"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]],    
     [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
 
 
