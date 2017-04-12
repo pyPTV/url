@@ -24,7 +24,7 @@
       "RO", "HU", "TR", "CY", "BG", "HR", 
       "PT", "MK", "KZ", "BA", "JO", "RS", 
       "AR", "UA", "BY", "MD", "BA", "AM", 
-      "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://bongacams.com/track?c=332289"]], 
+      "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]], 
    
 
     [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
