@@ -12,20 +12,7 @@
   "desktop":
 [
 
-    [["US", "GB", "CA", "AU", "FR", "CH"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
-    
-    [["BE", "IT", "NL", "AT", "FI", "DK",
-      "IS", "LI", "LU", "SG", "NZ", "IE",
-      "NO", "SE", "DE"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]],
-
-
-    [["CZ", "IL", "SK", "RU", "SI", "PL", 
-      "LV", "GR", "LT", "AE", "EE", "EG", 
-      "RO", "HU", "TR", "CY", "BG", "HR", 
-      "PT", "MK", "KZ", "BA", "JO", "RS", 
-      "AR", "UA", "BY", "MD", "BA", "AM", 
-      "AZ", "KG", "TJ", "GE", "UZ", "TM"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]], 
-   
+    [["US", "GB", "CA", "AU", "FR", "CH", "DE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
 
     [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
    
