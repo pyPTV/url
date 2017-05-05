@@ -3,8 +3,8 @@
 {
     "mobile":
 [
-    [["US"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],
-    [["ZZ"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]]
+    [["US"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
                
 ],
  
@@ -13,8 +13,8 @@
 
 
       
-    [["US"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]],  
-    [["ZZ"], ["http://enter.javhd.com/track/MjI1NjguMi4yLjg0LjAuMC4wLjAuMA"]]
+    [["US", "GB", "CA", "AU", "FR", "CH", "DE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
 
 
 ]
