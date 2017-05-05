@@ -2,7 +2,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],    
+    [["US"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],    
     [["ZZ"], ["http://t.frtyr.com/9atvuu50ao?offer_id=3&aff_id=43372&nopop=1&bo=2745,2746,2748,2749,2750"]]
                
 ],
@@ -12,7 +12,7 @@
 
 
       
-    [["US", "GB", "CA", "AU", "FR", "CH", "DE"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]],    
+    [["US", "GB", "CA", "AU", "FR", "CH", "DE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],    
     [["ZZ"], ["http://t.frtyr.com/9atvuu50ao?offer_id=3&aff_id=43372&nopop=1&bo=2745,2746,2748,2749,2750"]]
 
 
