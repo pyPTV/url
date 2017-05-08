@@ -3,7 +3,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["US"], ["http://join.allpornsitespass.com/track/MjAwMzUwLjEuNC41LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
                
 ],
@@ -13,7 +13,7 @@
 
 
       
-    [["US", "GB", "CA", "AU", "FR", "CH", "DE"], ["http://join.allpornsitespass.com/track/MjAwMjYyLjEuNC41LjAuMC4wLjAuMA"]],
+    [["US", "GB", "CA", "AU", "FR", "CH", "DE"], ["http://join.allpornsitespass.com/track/MjAwMzUwLjEuNC41LjAuMC4wLjAuMA"]],
     [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
 
 
