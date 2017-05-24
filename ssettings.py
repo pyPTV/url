@@ -2,22 +2,22 @@
 {
     "mobile":
 [
-    [["US"], ["http://join.punishshemale.com/track/NjU4LjE1LjE2LjI4LjAuMC4wLjAuMA", 
-              "http://join.trans500.com/track/NjU4LjIuMy4xOS4wLjAuMC4wLjA"]],
+    [["US"], ["http://www.ourshemales.com/", 
+              "http://www.ourshemales.com/"]],
     
-    [["ZZ"], ["http://join.punishshemale.com/track/NjU4LjE1LjE2LjI4LjAuMC4wLjAuMA", 
-              "http://join.trans500.com/track/NjU4LjIuMy4xOS4wLjAuMC4wLjA"]]
+    [["ZZ"], ["http://www.ourshemales.com/", 
+              "http://www.ourshemales.com/"]]
                
 ],
  
     "desktop":
 [
       
-    [["US"], ["http://join.punishshemale.com/track/NjU4LjE1LjE2LjI4LjAuMC4wLjAuMA", 
-              "http://join.trans500.com/track/NjU4LjIuMy4xOS4wLjAuMC4wLjA"]],  
+    [["US"], ["http://www.ourshemales.com/", 
+              "http://www.ourshemales.com/"]],  
     
-    [["ZZ"], ["http://join.punishshemale.com/track/NjU4LjE1LjE2LjI4LjAuMC4wLjAuMA", 
-              "http://join.trans500.com/track/NjU4LjIuMy4xOS4wLjAuMC4wLjA"]]              
+    [["ZZ"], ["http://www.ourshemales.com/", 
+              "http://www.ourshemales.com/"]]              
 
 ]
 }
