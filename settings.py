@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://delivery.bb2022.info/16223"]],       
-    [["ZZ"], ["http://delivery.bb2022.info/16223"]]
+    [["ZZ"], ["http://delivery.bb2022.info/16223", "http://b3st0ff3rs.com/?id=23835"]]
 
 ],
  
