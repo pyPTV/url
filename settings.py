@@ -2,7 +2,9 @@
     "mobile":
 [
     [["US"], ["http://delivery.bb2022.info/16223"]],       
-    [["ZZ"], ["http://delivery.bb2022.info/16223", "http://b3st0ff3rs.com/?id=23835"]]
+    [["ZZ"], ["http://delivery.bb2022.info/16223", 
+              "http://b3st0ff3rs.com/?id=23835", 
+              "http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
 
 ],
  
