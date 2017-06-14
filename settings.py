@@ -2,7 +2,7 @@
     "mobile":
 [
     [["US"], ["http://delivery.bb2022.info/16223"]],       
-    [["ZZ"], ["http://delivery.bb2022.info/16223"]]
+    [["ZZ"], ["http://t.irtya.com/n0u3mhinnk?offer_id=3788&aff_id=43372"]]
 
 ],
  
