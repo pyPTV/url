@@ -1,16 +1,16 @@
 {
     "mobile":
 [
-    [["US"], ["http://gay.com"]],
-    [["ZZ"], ["http://gay.com"]]
+    [["US"], ["https://t.frtyj.com/vqcdchvv9c?offer_id=3343&aff_id=50870&nopop=1"]],
+    [["ZZ"], ["https://t.frtyj.com/vqcdchvv9c?offer_id=3343&aff_id=50870&nopop=1"]]
                
 ],
  
     "desktop":
 [
       
-    [["US"], ["http://gay.com"]],    
-    [["ZZ"], ["http://gay.com"]]              
+    [["US"], ["https://t.frtyj.com/vqcdchvv9c?offer_id=3343&aff_id=50870&nopop=1"]],    
+    [["ZZ"], ["https://t.frtyj.com/vqcdchvv9c?offer_id=3343&aff_id=50870&nopop=1"]]              
 
 ]
 }
