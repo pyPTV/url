@@ -1,16 +1,16 @@
 {
     "mobile":
 [
-    [["US"], ["https://t.frtyj.com/bhx714x1vk?offer_id=3343&aff_id=51626&nopop=1"]],
-    [["ZZ"], ["https://t.frtyj.com/bhx714x1vk?offer_id=3343&aff_id=51626&nopop=1"]]
+    [["US"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],
+    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]]
                
 ],
  
     "desktop":
 [
       
-    [["US"], ["https://t.frtyj.com/bhx714x1vk?offer_id=3343&aff_id=51626&nopop=1"]],    
-    [["ZZ"], ["https://t.frtyj.com/bhx714x1vk?offer_id=3343&aff_id=51626&nopop=1"]]              
+    [["US"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],    
+    [["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]]              
 
 ]
 }
