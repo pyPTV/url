@@ -3,7 +3,7 @@
 {
     "mobile":
 [
-    [["US"], ["http://delivery.bb2021.info/16223"]],
+    [["US"], ["https://t.irtya.com/ewkh0ihh8g?offer_id=3788&aff_id=53280"]],
     [["ZZ"], ["https://t.irtya.com/ewkh0ihh8g?offer_id=3788&aff_id=53280"]]
                
 ],
