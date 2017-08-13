@@ -11,8 +11,7 @@
 [
 
 [["CA", "US", "AU", "NZ", "GB", "DE", 
-  "CH", "NL", "SE", "IT", "BE",  
-  "AT", "IE", "DK", "NO", "FI", "IS"], ["https://t.frtyr.com/fwjhzjaxmo?offer_id=3&aff_id=54557&nopop=1"]],
+  "CH", "NL", "SE", "AT", "DK", "NO"], ["https://t.frtyr.com/fwjhzjaxmo?offer_id=3&aff_id=54557&nopop=1"]],
 
 [["FR"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],  
 [["ZZ"], ["https://t.irtya.com/banlyczidc?offer_id=3788&aff_id=54557"]]             
