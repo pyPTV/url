@@ -3,24 +3,16 @@
     "mobile":
 [
     
-[["CA", "AU", "NZ", "GB", "DE", 
-  "CH", "NL", "SE", "IT", "FR", 
-  "ES", "BE", "AT", "IE", "DK", 
-  "NO", "FI", "IS", "US", "BR"],  ["https://t.frtyj.com/9k05kuurwg?offer_id=3341&aff_id=50870&nopop=1"]],
- 
-[["ZZ"], ["http://www.youtrannytube.com/"]]
+[["US"], ["https://t.frtyj.com/6544e32yyo?offer_id=3341&aff_id=54636&nopop=1"]], 
+[["ZZ"], ["https://t.frtyj.com/6544e32yyo?offer_id=3341&aff_id=54636&nopop=1"]]
                
 ],
  
     "desktop":
 [
       
-[["CA", "AU", "NZ", "GB", "DE", 
-  "CH", "NL", "SE", "IT", "FR", 
-  "ES", "BE", "AT", "IE", "DK", 
-  "NO", "FI", "IS", "US", "BR"],  ["https://t.frtyj.com/9k05kuurwg?offer_id=3341&aff_id=50870&nopop=1"]], 
-
- [["ZZ"], ["http://www.youtrannytube.com/"]]        
+[["US"], ["https://t.frtyj.com/6544e32yyo?offer_id=3341&aff_id=54636&nopop=1"]],
+[["ZZ"], ["https://t.frtyj.com/6544e32yyo?offer_id=3341&aff_id=54636&nopop=1"]]        
 
 ]
 }
