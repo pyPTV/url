@@ -7,7 +7,7 @@
   "AT", "PT", "HU", "SK", "IE", "DK", 
   "NO", "FI", "SI", "LU", "CY", "IS"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
     
-[["ZZ"], ["https://t.irtya.com/pyxw1smlxc?offer_id=4080&aff_id=51626"]]
+[["ZZ"], ["https://t.frtyj.com/bhx714x1vk?offer_id=3343&aff_id=51626&nopop=1"]]
                
 ],
  
@@ -20,7 +20,7 @@
   "AT", "PT", "HU", "SK", "IE", "DK", 
   "NO", "FI", "SI", "LU", "CY", "IS"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],    
     
-[["ZZ"], ["https://t.irtya.com/pyxw1smlxc?offer_id=4080&aff_id=51626"]]              
+[["ZZ"], ["https://t.frtyj.com/bhx714x1vk?offer_id=3343&aff_id=51626&nopop=1"]]              
 
 ]
 }
