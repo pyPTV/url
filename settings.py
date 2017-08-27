@@ -3,7 +3,7 @@
 [
 
 [["US"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
-[["ZZ"], ["http://traffic.tc-clicks.com/?p=2478&media_type=adult&source_type=redirect"]]
+[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
                
 ],
  
