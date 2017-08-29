@@ -5,9 +5,9 @@
   "CH", "NL", "LI", "SE", "RO", "IT", 
   "FR", "ES", "PL", "BE", "GR", "CZ", 
   "AT", "PT", "HU", "SK", "IE", "DK", 
-  "NO", "FI", "SI", "LU", "CY", "IS"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
+  "NO", "FI", "SI", "LU", "CY", "IS"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
     
-[["ZZ"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]]
+[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
                
 ],
  
@@ -18,9 +18,9 @@
   "CH", "NL", "LI", "SE", "RO", "IT", 
   "FR", "ES", "PL", "BE", "GR", "CZ", 
   "AT", "PT", "HU", "SK", "IE", "DK", 
-  "NO", "FI", "SI", "LU", "CY", "IS"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],    
+  "NO", "FI", "SI", "LU", "CY", "IS"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
     
-[["ZZ"], ["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]]              
+[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]              
 
 ]
 }
