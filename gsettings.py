@@ -5,9 +5,9 @@
   "CH", "NL", "LI", "SE", "RO", "IT", 
   "FR", "ES", "PL", "BE", "GR", "CZ", 
   "AT", "PT", "HU", "SK", "IE", "DK", 
-  "NO", "FI", "SI", "LU", "CY", "IS"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],
+  "NO", "FI", "SI", "LU", "CY", "IS"], ["https://t.frtyj.com/i2jh13c6yo?offer_id=3343&aff_id=55688&nopop=1"]],
     
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]
+[["ZZ"], ["https://t.frtyj.com/i2jh13c6yo?offer_id=3343&aff_id=55688&nopop=1"]]
                
 ],
  
@@ -18,9 +18,9 @@
   "CH", "NL", "LI", "SE", "RO", "IT", 
   "FR", "ES", "PL", "BE", "GR", "CZ", 
   "AT", "PT", "HU", "SK", "IE", "DK", 
-  "NO", "FI", "SI", "LU", "CY", "IS"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]],    
+  "NO", "FI", "SI", "LU", "CY", "IS"], ["https://t.frtyj.com/i2jh13c6yo?offer_id=3343&aff_id=55688&nopop=1"]],    
     
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=default&tour=hr8m&campaign=AQTqz"]]              
+[["ZZ"], ["https://t.frtyj.com/i2jh13c6yo?offer_id=3343&aff_id=55688&nopop=1"]]              
 
 ]
 }
