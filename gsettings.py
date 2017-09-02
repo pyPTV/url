@@ -6,7 +6,7 @@
      
          ["https://t.frtyj.com/u60htlpl34?offer_id=3343&aff_id=40075&nopop=1"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz"]]  
+[["ZZ"], ["https://t.frtyj.com/u60htlpl34?offer_id=3343&aff_id=40075&nopop=1"]]  
                
 ],
  
@@ -17,7 +17,7 @@
      
          ["https://t.frtyj.com/u60htlpl34?offer_id=3343&aff_id=40075&nopop=1"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz"]]             
+[["ZZ"], ["https://t.frtyj.com/u60htlpl34?offer_id=3343&aff_id=40075&nopop=1"]]             
 
 ]
 }
