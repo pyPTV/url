@@ -6,7 +6,7 @@
      
          ["https://t.frtyj.com/t6bckqbm0w?offer_id=3341&aff_id=40075&nopop=1"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz"]]  
+[["ZZ"], ["https://t.frtyj.com/t6bckqbm0w?offer_id=3341&aff_id=40075&nopop=1"]]  
                
 ],
  
@@ -17,7 +17,7 @@
      
          ["https://t.frtyj.com/t6bckqbm0w?offer_id=3341&aff_id=40075&nopop=1"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz"]]             
+[["ZZ"], ["https://t.frtyj.com/t6bckqbm0w?offer_id=3341&aff_id=40075&nopop=1"]]             
 
 ]
 }
