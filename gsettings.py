@@ -4,9 +4,9 @@
 
 [["IE","CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR"], 
      
-         ["https://t.frtyj.com/v3pyeqma9s?offer_id=3343&aff_id=56817&nopop=1"]],
+         ["https://t.frtyj.com/1r3m1k52io?offer_id=3343&aff_id=54636&nopop=1"]],
  
-[["ZZ"], ["https://t.frtyj.com/v3pyeqma9s?offer_id=3343&aff_id=56817&nopop=1"]]  
+[["ZZ"], ["https://t.frtyj.com/1r3m1k52io?offer_id=3343&aff_id=54636&nopop=1"]]  
                
 ],
  
@@ -15,9 +15,9 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR"], 
      
-         ["https://t.frtyj.com/v3pyeqma9s?offer_id=3343&aff_id=56817&nopop=1"]],
+         ["https://t.frtyj.com/1r3m1k52io?offer_id=3343&aff_id=54636&nopop=1"]],
  
-[["ZZ"], ["https://t.frtyj.com/v3pyeqma9s?offer_id=3343&aff_id=56817&nopop=1"]]             
+[["ZZ"], ["https://t.frtyj.com/1r3m1k52io?offer_id=3343&aff_id=54636&nopop=1"]]             
 
 ]
 }
