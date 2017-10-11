@@ -4,9 +4,9 @@
 
 [["IE","CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR"], 
      
-         ["http://gay.com"]],
+         ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],
  
-[["ZZ"], ["http://gay.com"]]  
+[["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]]  
                
 ],
  
@@ -15,9 +15,9 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR"], 
      
-         ["http://gay.com"]],
+         ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],
  
-[["ZZ"], ["http://gay.com"]]             
+[["ZZ"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]]             
 
 ]
 }
