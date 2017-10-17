@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI"], 
+[["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
          ["https://chaturbate.com/affiliates/in/?track=default&tour=sxJR&campaign=AQTqz"]],
  
@@ -13,7 +13,7 @@
     "desktop":
 [
 
-[["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI"], 
+[["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
          ["https://chaturbate.com/affiliates/in/?track=default&tour=sxJR&campaign=AQTqz"]],
  
