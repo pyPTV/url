@@ -4,7 +4,7 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
-         ["http://join.allgaysitespass.com/track/MjAwNjk4LjEuMy40LjAuMC4wLjAuMA"]],
+         ["http://join.allgaysitespass.com/track/MjAwNjk1LjEuMy40LjAuMC4wLjAuMA"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz"]]  
                
@@ -15,7 +15,7 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
-         ["http://join.allgaysitespass.com/track/MjAwNjk4LjEuMy40LjAuMC4wLjAuMA"]],
+         ["http://join.allgaysitespass.com/track/MjAwNjk1LjEuMy40LjAuMC4wLjAuMA"]],
            
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz"]]             
 
