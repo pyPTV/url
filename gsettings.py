@@ -6,7 +6,7 @@
      
          ["http://join.allgaysitespass.com/track/MjAwNjg0LjEuMy40LjAuMC4wLjAuMA"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz"]]  
+[["ZZ"], ["https://join.megagayporn.com/track/MjAzLjEuMi4yLjAuMC4wLjAuMA"]]  
                
 ],
  
@@ -17,7 +17,7 @@
      
          ["http://join.allgaysitespass.com/track/MjAwNjg0LjEuMy40LjAuMC4wLjAuMA"]],
            
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz"]]             
+[["ZZ"], ["https://join.megagayporn.com/track/MjAzLjEuMi4yLjAuMC4wLjAuMA"]]             
 
 ]
 }
