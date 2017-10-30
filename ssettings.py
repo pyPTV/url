@@ -6,7 +6,8 @@
      
          ["http://join.shemalefuckfest.com/track/MTAwNjA1LjI2OC4zMy4zMy4wLjAuMC4wLjA"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz"]]  
+[["ZZ"], ["http://join.ladyboyglamour.com/track/MTA2MDMuMi4xOC4xMTIuMC4wLjAuMC4w",
+          "http://premium.ladyboytube.com/track/MTA2MDMuMi4xNi4xNi4wLjAuMC4wLjA"]]  
                
 ],
  
@@ -17,7 +18,8 @@
      
          ["http://join.shemalefuckfest.com/track/MTAwNjA1LjI2OC4zMy4zMy4wLjAuMC4wLjA"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz"]]             
+[["ZZ"], ["http://join.ladyboyglamour.com/track/MTA2MDMuMi4xOC4xMTIuMC4wLjAuMC4w", 
+          "http://premium.ladyboytube.com/track/MTA2MDMuMi4xNi4xNi4wLjAuMC4wLjA"]]             
 
 ]
 }
