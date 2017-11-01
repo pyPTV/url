@@ -4,7 +4,7 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
-         ["http://join.shemalefuckfest.com/track/MTAwNjA1LjI2OC4zMy4zMy4wLjAuMC4wLjA"]],
+         ["https://t.frtyj.com/b88leg2igw?offer_id=3341&aff_id=40075&nopop=1"]],
  
 [["ZZ"], ["http://join.ladyboyglamour.com/track/MTA2MDMuMi4xOC4xMTIuMC4wLjAuMC4w",
           "http://premium.ladyboytube.com/track/MTA2MDMuMi4xNi4xNi4wLjAuMC4wLjA",
@@ -17,7 +17,7 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
-         ["http://join.shemalefuckfest.com/track/MTAwNjA1LjI2OC4zMy4zMy4wLjAuMC4wLjA"]],
+         ["https://t.frtyj.com/b88leg2igw?offer_id=3341&aff_id=40075&nopop=1"]],
  
 [["ZZ"], ["http://join.ladyboyglamour.com/track/MTA2MDMuMi4xOC4xMTIuMC4wLjAuMC4w", 
           "http://premium.ladyboytube.com/track/MTA2MDMuMi4xNi4xNi4wLjAuMC4wLjA",
