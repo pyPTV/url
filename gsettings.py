@@ -4,7 +4,7 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
-         ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA",
+         ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA",
           "https://t.frtyj.com/mqtptg3gzk?offer_id=3343&aff_id=59764&nopop=1"]],
  
 [["ZZ"], ["https://join.megagayporn.com/track/MjAzLjEuMi4yLjAuMC4wLjAuMA",  
@@ -19,7 +19,7 @@
 
 [["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
-         ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA",
+         ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA",
           "https://t.frtyj.com/mqtptg3gzk?offer_id=3343&aff_id=59764&nopop=1"]],
            
 [["ZZ"], ["https://join.megagayporn.com/track/MjAzLjEuMi4yLjAuMC4wLjAuMA", 
