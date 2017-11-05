@@ -15,7 +15,8 @@
 
 [["CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO"], 
      
-         ["https://t.frtyr.com/2mx70hc2m8?offer_id=3&aff_id=55931&nopop=1"]],
+         ["https://t.frtyr.com/2mx70hc2m8?offer_id=3&aff_id=55931&nopop=1", 
+          "http://join.fetishnetwork.com/track/MTAwMDAwMjIzOS40LjEwLjEwLjAuMC4wLjAuMA"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=straight&tour=hr8m&campaign=AQTqz"]]             
 
