@@ -17,7 +17,7 @@
      
          ["https://t.frtyr.com/mht8kgpigw?offer_id=3&aff_id=54557&nopop=1"]],
  
-[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=straight&tour=hr8m&campaign=AQTqz"]]             
+[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=strainht&tour=hr8m&campaign=AQTqz&disable_sound=True"]]             
 
 ]
 }
