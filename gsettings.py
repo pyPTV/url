@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
+[["IS", "IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
          ["https://t.frtyj.com/9he9vihohs?offer_id=3343&aff_id=53837&nopop=1"]],
  
@@ -13,7 +13,7 @@
     "desktop":
 [
 
-[["IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
+[["IS", "IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT"], 
      
          ["https://t.frtyj.com/9he9vihohs?offer_id=3343&aff_id=53837&nopop=1",
           "http://join.allgaysitespass.com/track/MjAwNjk4LjEuMy40LjAuMC4wLjAuMA"]],
