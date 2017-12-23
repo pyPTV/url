@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["IS", "IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT", "HK", "JP", "KR", "IL"], 
+[["IS", "IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT", "HK", "JP", "KR", "IL", "SG"], 
      
          ["https://t.frtyr.com/5gw7rs5uio?offer_id=3&aff_id=43372&nopop=1"]],
  
@@ -13,7 +13,7 @@
     "desktop":
 [
 
-[["IS", "IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT", "HK", "JP", "KR", "IL"], 
+[["IS", "IE", "CA", "US", "AU", "NZ", "GB", "DE", "CH", "NL", "SE", "AT", "DK", "NO", "FR", "BE", "FI", "IT", "HK", "JP", "KR", "IL", "SG"], 
      
          ["https://t.frtyr.com/5gw7rs5uio?offer_id=3&aff_id=43372&nopop=1"]],
  
