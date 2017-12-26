@@ -8,7 +8,7 @@
   "HK", "JP", "KR", "IL", "SG", "ES",
   "KW", "BH", "QA", "LI", "LU", "MC",
   "CY", "AE", "SI", "SK", "CZ", "PT",
-  "UY", "CL", "AR", "HU", "HR", "BR"], ["http://join.allgaysitespass.com/track/MjAwNjk4LjEuMy40LjAuMC4wLjAuMA"]],
+  "UY", "CL", "AR", "HU", "HR", "BR"], ["https://t.frtyj.com/dnksdw7n7k?offer_id=3343&aff_id=43372&nopop=1"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz&disable_sound=True"]]  
                
@@ -23,7 +23,7 @@
   "HK", "JP", "KR", "IL", "SG", "ES",
   "KW", "BH", "QA", "LI", "LU", "MC",
   "CY", "AE", "SI", "SK", "CZ", "PT",
-  "UY", "CL", "AR", "HU", "HR", "BR"], ["http://join.allgaysitespass.com/track/MjAwNjk4LjEuMy40LjAuMC4wLjAuMA"]],
+  "UY", "CL", "AR", "HU", "HR", "BR"], ["https://t.frtyj.com/dnksdw7n7k?offer_id=3343&aff_id=43372&nopop=1"]],
            
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz&disable_sound=True"]]             
 
