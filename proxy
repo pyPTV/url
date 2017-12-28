@@ -1,0 +1,59 @@
+#!/bin/bash
+
+
+apt-get update 
+apt-get install build-essential libevent-dev libssl-dev nload -y
+
+
+wget --no-check-certificate https://github.com/z3APA3A/3proxy/archive/3proxy-0.8.6.tar.gz 
+tar -xvzf 3proxy-0.8.6.tar.gz 
+cd 3proxy-3proxy-0.8.6/
+
+sed -i "s/#define MAXUSERNAME 128/#define ANONYMOUS 1\n#define MAXUSERNAME 128/" src/proxy.h
+
+
+make -f Makefile.Linux
+mkdir /usr/local/etc/3proxy 
+mkdir /usr/local/etc/3proxy/logs
+mkdir /usr/local/etc/3proxy/stat
+mkdir /usr/local/etc/3proxy/bin
+cp src/3proxy /usr/local/etc/3proxy/bin/
+cp scripts/rc.d/proxy.sh /etc/init.d/3proxy
+chmod +x /etc/init.d/3proxy
+update-rc.d 3proxy defaults
+chown -R 65534:65534  /usr/local/etc/3proxy/
+
+
+
+
+ip=$(ifconfig eth0 | grep "inet addr" | cut -d ':' -f 2 | cut -d ' ' -f 1)
+
+
+cat <<EOF > /usr/local/etc/3proxy/3proxy.cfg
+nserver 8.8.8.8
+nserver 8.8.4.4
+nscache 65536
+external $ip
+internal $ip
+timeouts 1 5 30 60 180 1800 15 60
+pidfile /usr/local/etc/3proxy/3proxy.pid
+daemon
+maxconn 32
+setgid 65534
+setuid 65534
+users user:CL:pass
+auth strong
+allow user
+proxy -n -p2358
+socks -p7835
+auth strong
+flush
+maxconn 32
+
+EOF
+
+
+/etc/init.d/3proxy start
+echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
+sysctl -p
+
