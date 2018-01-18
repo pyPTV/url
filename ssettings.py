@@ -7,7 +7,7 @@
   "DK", "NO", "FR", "BE", "FI", "IT", 
   "HK", "JP", "KR", "IL", "SG", "ES",
   "LI", "LU", "MC", "CY", "AE", "SI", 
-  "SK", "CZ", "PT", "HU", "HR", "BR"], ["https://t.frtyj.com/ppf7jrpbsw?offer_id=3341&aff_id=53280&nopop=1"]],
+  "SK", "CZ", "PT", "HU", "HR", "BR"], ["https://t.frtyj.com/xiz51n8hj4?offer_id=3341&aff_id=54455&nopop=1"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz&disable_sound=True"]]  
                
@@ -21,7 +21,7 @@
   "DK", "NO", "FR", "BE", "FI", "IT", 
   "HK", "JP", "KR", "IL", "SG", "ES",
   "LI", "LU", "MC", "CY", "AE", "SI", 
-  "SK", "CZ", "PT", "HU", "HR", "BR"], ["https://t.frtyj.com/ppf7jrpbsw?offer_id=3341&aff_id=53280&nopop=1"]],
+  "SK", "CZ", "PT", "HU", "HR", "BR"], ["https://t.frtyj.com/xiz51n8hj4?offer_id=3341&aff_id=54455&nopop=1"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz&disable_sound=True"]]             
 
