@@ -1,0 +1,65 @@
+map $geoip_country_code $allowed_country {
+  default no;
+  RU yes;
+  UA yes;
+  IS yes;
+  IE yes;
+  CA yes;
+  US yes;
+  AU yes;
+  NZ yes;
+  GB yes;
+  DE yes;
+  CH yes;
+  NL yes;
+  SE yes;
+  AT yes;
+  DK yes;
+  NO yes;
+  FR yes; 
+  BE yes;
+  FI yes; 
+  IT yes;
+  }
+
+proxy_cache_path /tmp/mycache keys_zone=mycache:10m;
+server {
+        listen       80;
+        server_name  144.217.99.2;        
+        proxy_http_version 1.1;
+        proxy_cache mycache;
+        slice              1m;
+        proxy_cache_key    $host$uri$is_args$args$slice_range;
+        proxy_set_header   Range $slice_range;
+        proxy_cache_valid  200 206 1h;
+        proxy_pass_request_headers      on;        
+        #proxy_set_header Host $http_host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header X-NginX-Proxy true;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_max_temp_file_size 0;
+        proxy_read_timeout 120s;
+        proxy_set_header If-Range $http_if_range;
+        proxy_no_cache $http_range $http_if_range;
+#       proxy_buffering on;		
+
+
+        location / {
+              proxy_pass  http://95.141.32.191/gay/;}
+        location /static/ {
+              proxy_pass  http://95.141.32.191/gay/static/;}
+        location /static/media/videos/ {
+              if ($allowed_country = no) {return 404;}
+              proxy_pass  http://95.141.32.191/gay/static/media/videos/;}
+        }
+
+
+
+
+
+
+
+
+
