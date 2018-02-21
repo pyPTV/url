@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd /etc/nginx
+wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+gunzip GeoIP.dat.gz
+echo "geoip_country /etc/nginx/GeoIP.dat;" > /etc/nginx/conf.d/geoip.conf
+
+wget https://raw.githubusercontent.com/mbs-affiliate/url/master/reverse_nginx /etc/nginx/sites-available/
+rm -f /etc/nginx/sites-available/default
+
+
