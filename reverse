@@ -25,4 +25,4 @@ echo "geoip_country /etc/nginx/GeoIP.dat;" > /etc/nginx/conf.d/geoip.conf
 wget https://raw.githubusercontent.com/mbs-affiliate/url/master/reverse_nginx /etc/nginx/sites-available/
 rm -f /etc/nginx/sites-available/default
 
-
+apt install bind9 dnsutils
