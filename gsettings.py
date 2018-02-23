@@ -9,7 +9,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/w2eczseqf4?offer_id=3343&aff_id=54557&nopop=1"]],
  
-[["ZZ"], ["http://www.gaytube4k.com"]]  
+[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz&disable_sound=True"]]  
                
 ],
  
@@ -23,7 +23,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/w2eczseqf4?offer_id=3343&aff_id=54557&nopop=1"]],
            
-[["ZZ"], ["http://www.gaytube4k.com"]]             
+[["ZZ"], ["https://chaturbate.com/affiliates/in/?track=gay&tour=9rL0&campaign=AQTqz&disable_sound=True"]]             
 
 ]
 }
