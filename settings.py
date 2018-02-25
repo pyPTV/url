@@ -10,7 +10,7 @@
     "desktop":
 [
 
-[["US", "CA", "AU", "NZ", "GB", "DE"], ["https://chaturbate.com/affiliates/in/?track=straight&tour=hr8m&campaign=AQTqz&disable_sound=True"]],
+[["US"], ["https://chaturbate.com/affiliates/in/?track=straight&tour=hr8m&campaign=AQTqz&disable_sound=True"]],
 [["JP", "KR", "TW", "SG", "HK", "ID", "MY", "VN", "TH", "CN"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjE4Ny4wLjAuMC4wLjA"]],     
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=straight&tour=hr8m&campaign=AQTqz&disable_sound=True"]]             
 
