@@ -71,5 +71,5 @@ apt  install -y yasm
 apt  install -y phantomjs
 apt  install -y python-pip
 apt  install -y python-opencv
-apt install psmisc  # killall install
+apt  install -y psmisc  # killall install
 
