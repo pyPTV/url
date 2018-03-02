@@ -85,4 +85,7 @@ python setup.py install
 cd
 pip3 install uwsgi 
 apt install uwsgi-plugin-python3 -y
+echo "net.core.rmem_max = 4194304" >> /etc/sysctl.conf
+echo "net.core.wmem_max = 1048576" >> /etc/sysctl.conf
+sysctl -p
 
