@@ -77,6 +77,7 @@ apt install python-pip
 pip install lxml psycopg2
 apt install python3-pip 
 pip3 install lxml psycopg2 django
+pip3 install psycopg2-binary
 apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
 cd /tmp
 git clone git://github.com/requests/requests.git
