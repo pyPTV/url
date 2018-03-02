@@ -1,0 +1,75 @@
+#!/bin/bash 
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+apt  install -y
+apt  install -y htop 
+apt  install -y nload 
+apt  install -y autoconf 
+apt  install -y libtool 
+apt  install -y build-essential 
+apt  install -y git 
+apt  install -y pkg-config 
+apt  install -y transmission-cli
+apt  install -y python-dev 
+apt  install -y libffi-dev 
+apt  install -y libssl-dev 
+apt  install -y libevent-dev 
+apt  install -y python-setuptools 
+apt  install -y swig
+apt  install -y python-imaging	# Python Imaging Library
+apt  install -y libatlas-base-dev	# Automatically Tuned Linear Algebra Software
+apt  install -y frei0r-plugins-dev	# minimalistic plugin API for video effects, header files
+apt  install -y libavdevice-extra-53	# Libav device handling library
+apt  install -y libavifile-0.7-dev 	# Shared libraries for AVI read/writing
+apt  install -y libbz2-dev		# high-quality block-sorting file compressor library
+apt  install -y libdirac-dev	# Dirac video codec
+apt  install -y libdirectfb-dev	# direct frame buffer graphics library
+apt  install -y  libdrm-dev
+apt  install -y libdts-dev		# backward compatibility place-holder for libdca + decoding library for DTS Coherent Acoustics streams 
+apt  install -y libdv4-dev		# Library for DV format digital video
+apt  install -y libdvbpsi-dev	# Library for MPEG TS and DVB PSI tables decoding and generating
+apt  install -y libfaac-dev		# AAC audio encoder
+apt  install -y libfaad-dev		# Advanced Audio Decoder
+apt  install -y libflac++-dev	# Free Lossless Audio Codec
+apt  install -y libgpac-dev		# GPAC - an implementation of the MPEG-4 Systems standard
+apt  install -y libmad0-dev		# MPEG audio decoder
+apt  install -y libmatroska-dev	# MKV audio/video container
+apt  install -y libmimic-dev	# A video codec for Mimic V2.x content
+apt  install -y libmms-dev					# MMS stream protocol library
+apt  install -y libmp4v2-dev				# Library to read, create, and modify mp4 files 
+apt  install -y libmpcdec-dev				# MusePack decoder
+apt  install -y libmpeg2-4-dev				# MPEG1 and MPEG2 video decoder library
+apt  install -y libmpeg3-dev				# MPEG streams decoding library	
+apt  install -y libmp3lame-dev 				# MP3 encoding library
+apt  install -y libreadline-dev
+apt  install -y libshout3-dev				# MP3/Ogg Vorbis broadcast streaming library 			
+apt  install -y libslv2-dev					# SLV2 library
+apt  install -y libsoundtouch-dev			# Sound stretching library
+apt  install -y libswscale2					# Libav video scaling library 
+apt  install -y libtwolame-dev				# MPEG Audio Layer 2 encoder
+apt  install -y libv4l-dev					# Collection of video4linux support libraries
+apt  install -y libwavpack-dev				# Audio codec (lossy and lossless)
+apt  install -y libdvdread-dev				# Library for reading DVDs
+apt  install -y libzvbi-dev					# Vertical Blanking Interval decoder
+apt  install -y libpulse-dev				# PulseAudio client libraries
+apt  install -y libschroedinger-dev			# library for encoding/decoding of Dirac video streams 
+apt  install -y libvpx-dev					# VP8 video codec
+apt  install -y libxvidcore-dev				# Open source MPEG-4 video codec
+apt  install -y libvo-aacenc-dev			# VisualOn AAC encoder library
+apt  install -y libvo-amrwbenc-dev			# VisualOn AMR-WB encoder library
+apt  install -y libva-dev					# Video Acceleration (VA) API for Linux
+apt  install -y libvdpau-dev				# Video Decode and Presentation API for Unix 
+apt  install -y nload htop					# stat utilities
+apt  install -y libxml2-dev libxslt-dev
+apt  install -y mercurial
+apt  install -y automake1.9
+apt  install -y libc-ares-dev
+apt  install -y curl
+apt  install -y python-numpy
+apt  install -y libx264-dev 
+apt  install -y yasm
+apt  install -y phantomjs
+apt  install -y python-pip
+apt  install -y python-opencv
+apt install psmisc  # killall install
+
