@@ -7,7 +7,7 @@
   "DK", "NO", "FR", "BE", "FI", "IT", 
   "HK", "JP", "KR", "IL", "SG", "ES",
   "LI", "LU", "MC", "CY", "AE", "SI", 
-  "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/w2eczseqf4?offer_id=3343&aff_id=54557&nopop=1"]],
+  "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/2coatqzou8?offer_id=3343&aff_id=56817&nopop=1"]],
  
 [["ZZ"], ["http://gaytube4k.com"]]  
                
@@ -21,7 +21,7 @@
   "DK", "NO", "FR", "BE", "FI", "IT", 
   "HK", "JP", "KR", "IL", "SG", "ES",
   "LI", "LU", "MC", "CY", "AE", "SI", 
-  "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/w2eczseqf4?offer_id=3343&aff_id=54557&nopop=1"]],
+  "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/2coatqzou8?offer_id=3343&aff_id=56817&nopop=1"]],
            
 [["ZZ"], ["http://gaytube4k.com"]]             
 
