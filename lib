@@ -69,8 +69,6 @@ apt  install -y curl
 apt  install -y python-numpy
 apt  install -y libx264-dev 
 apt  install -y yasm
-apt  install -y phantomjs
-apt  install -y python-pip
 apt  install -y python-opencv
 apt  install -y psmisc  # killall install
 apt install python-pip  
