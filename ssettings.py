@@ -3,7 +3,7 @@
 [
 
 [["US", "CA", "AU", "NZ", "GB", "DE", "FR", 
-   "IT", "DK", "SE", "NO", "CH"], ["https://t.frtyj.com/6crbzaqh4w?offer_id=3341&aff_id=54455&nopop=1"]],
+   "IT", "DK", "SE", "NO", "CH"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz&disable_sound=True"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz&disable_sound=True"]]  
                
@@ -13,7 +13,7 @@
 [
 
 [["US", "CA", "AU", "NZ", "GB", "DE", "FR", 
-  "IT", "DK", "SE", "NO", "CH"], ["https://t.frtyj.com/6crbzaqh4w?offer_id=3341&aff_id=54455&nopop=1"]],
+  "IT", "DK", "SE", "NO", "CH"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz&disable_sound=True"]],
  
 [["ZZ"], ["https://chaturbate.com/affiliates/in/?track=trans&tour=sxJR&campaign=AQTqz&disable_sound=True"]]             
 
