@@ -9,7 +9,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
  
-[["ZZ"], ["https://chaturbate.com/in/?track=gay&tour=R2Xc&campaign=AQTqz&disable_sound=True"]]  
+[["ZZ"], ["https://cnhv.co/1weqf"]]  
                
 ],
  
@@ -23,7 +23,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
            
-[["ZZ"], ["https://chaturbate.com/in/?track=gay&tour=R2Xc&campaign=AQTqz&disable_sound=True"]]             
+[["ZZ"], ["https://cnhv.co/1weqf"]]             
 
 ]
 }
