@@ -7,7 +7,7 @@
   "DK", "NO", "FR", "BE", "FI", "IT", 
   "HK", "JP", "KR", "IL", "SG", "ES",
   "LI", "LU", "MC", "CY", "AE", "SI", 
-  "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],
+  "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
  
 [["ZZ"], ["https://chaturbate.com/in/?track=gay&tour=R2Xc&campaign=AQTqz&disable_sound=True"]]  
                
@@ -21,7 +21,7 @@
   "DK", "NO", "FR", "BE", "FI", "IT", 
   "HK", "JP", "KR", "IL", "SG", "ES",
   "LI", "LU", "MC", "CY", "AE", "SI", 
-  "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjEuMy40LjAuMC4wLjAuMA"]],
+  "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
            
 [["ZZ"], ["https://chaturbate.com/in/?track=gay&tour=R2Xc&campaign=AQTqz&disable_sound=True"]]             
 
