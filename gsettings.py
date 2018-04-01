@@ -9,7 +9,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/ho8seb49mo?offer_id=3343&aff_id=55688&nopop=1"]],
  
-[["ZZ"], ["https://t.irtye.com/j9gfnx97wg?offer_id=4080&aff_id=55931&nopop=1"]]  
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=9rL0&campaign=vCirA&disable_sound=True"]]  
                
 ],
  
@@ -23,7 +23,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/ho8seb49mo?offer_id=3343&aff_id=55688&nopop=1"]],
            
-[["ZZ"], ["https://t.irtye.com/j9gfnx97wg?offer_id=4080&aff_id=55931&nopop=1"]]             
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=9rL0&campaign=vCirA&disable_sound=True"]]             
 
 ]
 }
