@@ -4,8 +4,8 @@
 
 [["IS", "IE", "CA", "US", "AU", "NZ", 
   "GB", "DE", "CH", "NL", "SE", "AT", 
-  "DK", "NO", "FR", "BE", "FI", "IT"],  ["https://t.irtye.com/26nioknvpc?offer_id=3788&aff_id=50870&nopop=1"]],
-[["ZZ"], ["https://t.irtye.com/m9o82u72rk?offer_id=3788&aff_id=55931&nopop=1"]]  
+  "DK", "NO", "FR", "BE", "FI", "IT"],  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]],
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]]  
                
 ],
  
@@ -14,8 +14,8 @@
 
 [["IS", "IE", "CA", "US", "AU", "NZ", 
   "GB", "DE", "CH", "NL", "SE", "AT", 
-  "DK", "NO", "FR", "BE", "FI", "IT"],  ["https://t.irtye.com/26nioknvpc?offer_id=3788&aff_id=50870&nopop=1"]],  
-[["ZZ"], ["https://t.irtye.com/m9o82u72rk?offer_id=3788&aff_id=55931&nopop=1"]]             
+  "DK", "NO", "FR", "BE", "FI", "IT"],  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]],  
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]]             
 
 ]
 }
