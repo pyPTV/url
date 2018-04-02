@@ -5,7 +5,8 @@
 [["IS", "IE", "CA", "AU", "NZ", "ES",
   "GB", "DE", "CH", "NL", "SE", "AT", 
   "DK", "NO", "FR", "BE", "FI", "IT",
-  "JP", "SG", "HK", "SI", "SK", "CZ"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],
+  "JP", "SG", "HK", "SI", "SK", "CZ",
+  "GR", "LT", "LV", "EE", "PT", "ZA"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],
 [["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]]  
                
 ],
@@ -16,7 +17,8 @@
 [["IS", "IE", "CA", "AU", "NZ", "ES",
   "GB", "DE", "CH", "NL", "SE", "AT", 
   "DK", "NO", "FR", "BE", "FI", "IT",
-  "JP", "SG", "HK", "SI", "SK", "CZ"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],  
+  "JP", "SG", "HK", "SI", "SK", "CZ",
+  "GR", "LT", "LV", "EE", "PT", "ZA"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],  
 [["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]]             
 
 ]
