@@ -6,7 +6,7 @@
   "GB", "DE", "CH", "NL", "SE", "AT", 
   "DK", "NO", "FR", "BE", "FI", "IT",
   "JP", "SG", "HK", "SI", "SK", "CZ",
-  "IL", "ZA"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],
+  "IL", "ZA", "US"],  ["https://t.grtyi.com/gx34elsedc?offer_id=4632&aff_id=50870&nopop=1"]],
 [["ZZ"], ["https://chaturbate.com"]]  
                
 ],
@@ -18,7 +18,7 @@
   "GB", "DE", "CH", "NL", "SE", "AT", 
   "DK", "NO", "FR", "BE", "FI", "IT",
   "JP", "SG", "HK", "SI", "SK", "CZ",
-  "IL", "ZA"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],  
+  "IL", "ZA", "US"],  ["https://t.grtyi.com/gx34elsedc?offer_id=4632&aff_id=50870&nopop=1"]],  
 [["ZZ"], ["https://chaturbate.com"]]             
 
 ]
