@@ -8,7 +8,7 @@
   "JP", "SG", "HK", "SI", "SK", "CZ",
   "GR", "LT", "LV", "EE", "PT", "ZA",
   "IL"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]]  
+[["ZZ"], ["https://chaturbate.com"]]  
                
 ],
  
@@ -21,7 +21,7 @@
   "JP", "SG", "HK", "SI", "SK", "CZ",
   "GR", "LT", "LV", "EE", "PT", "ZA",
   "IL"],  ["https://t.irtye.com/96bqkiaips?offer_id=3788&aff_id=50870&nopop=1"]],  
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=vCirA&disable_sound=True"]]             
+[["ZZ"], ["https://chaturbate.com"]]             
 
 ]
 }
