@@ -3,9 +3,9 @@
 [
 
 [["US", "CA", "AU", "NZ", "GB", "DE", "FR", 
-  "IT", "DK", "SE", "NO", "CH"], ["https://chaturbate.com"]],
+  "IT", "DK", "SE", "NO", "CH"], ["http://www.trannytube.tv"]],
  
-[["ZZ"], ["https://chaturbate.com"]]  
+[["ZZ"], ["http://www.trannytube.tv"]]  
                
 ],
  
@@ -13,9 +13,9 @@
 [
 
 [["US", "CA", "AU", "NZ", "GB", "DE", "FR", 
-  "IT", "DK", "SE", "NO", "CH"], ["https://chaturbate.com"]],
+  "IT", "DK", "SE", "NO", "CH"], ["http://www.trannytube.tv"]],
  
-[["ZZ"], ["https://chaturbate.com"]]             
+[["ZZ"], ["http://www.trannytube.tv"]]             
 
 ]
 }
