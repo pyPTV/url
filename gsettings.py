@@ -9,7 +9,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/h3oohvr54w?offer_id=3343&aff_id=53837&nopop=1"]],
  
-[["ZZ"], ["https://chaturbate.com"]]  
+[["ZZ"], ["http://www.me-gay.com"]]  
                
 ],
  
@@ -23,7 +23,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["https://t.frtyj.com/h3oohvr54w?offer_id=3343&aff_id=53837&nopop=1"]],
            
-[["ZZ"], ["https://chaturbate.com"]]             
+[["ZZ"], ["http://www.me-gay.com"]]             
 
 ]
 }
