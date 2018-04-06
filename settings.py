@@ -7,7 +7,8 @@
   "DK", "NO", "FR", "BE", "FI", "IT",
   "JP", "SG", "HK", "SI", "SK", "CZ",
   "IL", "ZA", "US", "PT", "SG", "HK"],  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=zKhCt&disable_sound=True"]],
-[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4xMzEuMC4wLjAuMC4w"]]  
+[["JP"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4xMzEuMC4wLjAuMC4w"]],
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=zKhCt&disable_sound=True"]]  
                
 ],
  
@@ -19,7 +20,8 @@
   "DK", "NO", "FR", "BE", "FI", "IT",
   "JP", "SG", "HK", "SI", "SK", "CZ",
   "IL", "ZA", "US", "PT", "SG", "HK"],  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=zKhCt&disable_sound=True"]],  
-[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4xMzEuMC4wLjAuMC4w"]]             
+[["JP"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4xMzEuMC4wLjAuMC4w"]],
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=zKhCt&disable_sound=True"]]             
 
 ]
 }
