@@ -9,7 +9,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwNjg0LjEuMy40LjAuMC4wLjAuMA", "https://t.frtyj.com/2ydx8bxao0?offer_id=3343&aff_id=53837&nopop=1"]],
  
-[["ZZ"], ["http://www.me-gay.com"]]  
+[["ZZ"], ["http://www.freegaypornaccess.com/?t=405173,11,15,0"]]  
                
 ],
  
@@ -23,7 +23,7 @@
   "LI", "LU", "MC", "CY", "AE", "SI", 
   "SK", "CZ", "PT", "AR", "HU", "HR"], ["http://join.allgaysitespass.com/track/MjAwNjg0LjEuMy40LjAuMC4wLjAuMA", "https://t.frtyj.com/2ydx8bxao0?offer_id=3343&aff_id=53837&nopop=1"]],
            
-[["ZZ"], ["http://www.me-gay.com"]]             
+[["ZZ"], ["http://www.freegaypornaccess.com/?t=405173,11,15,0"]]             
 
 ]
 }
