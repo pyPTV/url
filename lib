@@ -5,6 +5,7 @@ apt  update
 echo "LC_ALL=en_US.UTF-8" >> /etc/environment
 echo "LANG=en_US.UTF-8" >> /etc/environment
 apt  install -y htop 
+apt  install -y nano
 apt  install -y nload 
 apt  install -y autoconf 
 apt  install -y libtool 
@@ -61,7 +62,6 @@ apt  install -y libvo-aacenc-dev			# VisualOn AAC encoder library
 apt  install -y libvo-amrwbenc-dev			# VisualOn AMR-WB encoder library
 apt  install -y libva-dev					# Video Acceleration (VA) API for Linux
 apt  install -y libvdpau-dev				# Video Decode and Presentation API for Unix 
-apt  install -y nload htop					# stat utilities
 apt  install -y libxml2-dev libxslt-dev
 apt  install -y mercurial
 apt  install -y automake1.9
@@ -75,7 +75,7 @@ apt  install -y psmisc  # killall install
 apt  install -y python-pip 
 apt  install -y gpac
 pip  install lxml psycopg2
-apt  install python3-pip 
+apt  install -y python3-pip 
 pip3 install lxml psycopg2 django
 pip3 install psycopg2-binary
 apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
