@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["US"], ["http://www.trannytube.tv"]],
+[["US"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=mHsP9&disable_sound=True"]],
 [["FR", "DE", "AT", "BE", 
   "IT", "NL", "CH", "IS", 
   "IE", "NO", "SE", "DK", 
@@ -14,7 +14,7 @@
     "desktop":
 [
 
-[["US"], ["http://www.trannytube.tv"]],
+[["US"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=mHsP9&disable_sound=True"]],
 [["FR", "DE", "AT", "BE", 
   "IT", "NL", "CH", "IS", 
   "IE", "NO", "SE", "DK", 
