@@ -2,7 +2,8 @@
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
 apt  update
-
+echo "LC_ALL=en_US.UTF-8" >> /etc/environment
+echo "LANG=en_US.UTF-8" >> /etc/environment
 apt  install -y htop 
 apt  install -y nload 
 apt  install -y autoconf 
