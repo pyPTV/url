@@ -2,8 +2,7 @@
     "mobile":
 [
 
-[["FR", "AT", "BE", "IT", "CH", "IS", 
-  "IE", "NO", "SE", "DK", "FI", "NZ"], 
+[["FR", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "NZ"], 
 ["https://t.frtyj.com/pra2u2662o?offer_id=2902&aff_id=40075&nopop=1"]],    
     
     
@@ -17,8 +16,7 @@
     "desktop":
 [
 
-[["FR", "AT", "BE", "IT", "CH", "IS", 
-  "IE", "NO", "SE", "DK", "FI", "NZ"], 
+[["FR", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "NZ"], 
 ["https://t.frtyj.com/pra2u2662o?offer_id=2902&aff_id=40075&nopop=1"]],    
     
     
