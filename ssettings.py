@@ -3,7 +3,7 @@
 [
 
 [["FR", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "NZ"], 
-["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoxMX0="]],    
+["https://t.frtyj.com/vyk9f0n3nk?offer_id=2902&aff_id=56817&nopop=1"]],    
     
     
 [["DE", "NL", "UK", "AU", "ZA", "SG", "TW", "ES", "PT", "CZ", "SK", "SI", "HU", "LI", "LU"], 
@@ -17,7 +17,7 @@
 [
 
 [["FR", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "NZ"], 
-["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoxMX0="]],    
+["https://t.frtyj.com/vyk9f0n3nk?offer_id=2902&aff_id=56817&nopop=1"]],    
     
     
 [["DE", "NL", "UK", "AU", "ZA", "SG", "TW", "ES", "PT", "CZ", "SK", "SI", "HU", "LI", "LU"], 
