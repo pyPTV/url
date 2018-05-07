@@ -3,7 +3,7 @@
 [
 
 [["FR", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "NZ"], 
-["https://t.frtyj.com/vyk9f0n3nk?offer_id=2902&aff_id=56817&nopop=1", "https://t.frtyj.com/yyg68b2740?offer_id=3341&aff_id=56817&nopop=1"]],    
+["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]],    
     
     
 [["DE", "NL", "UK", "AU", "ZA", "SG", "TW", "ES", "PT", "CZ", "SK", "SI", "HU", "LI", "LU"], 
@@ -17,7 +17,7 @@
 [
 
 [["FR", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "NZ"], 
-["https://t.frtyj.com/vyk9f0n3nk?offer_id=2902&aff_id=56817&nopop=1", "https://t.frtyj.com/yyg68b2740?offer_id=3341&aff_id=56817&nopop=1"]],    
+["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]],    
     
     
 [["DE", "NL", "UK", "AU", "ZA", "SG", "TW", "ES", "PT", "CZ", "SK", "SI", "HU", "LI", "LU"], 
