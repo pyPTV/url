@@ -74,6 +74,7 @@ apt  install -y python-opencv
 apt  install -y psmisc  # killall install
 apt  install -y python-pip 
 apt  install -y gpac
+apt  install -y python-paramiko
 pip  install lxml psycopg2
 apt  install -y python3-pip 
 pip3 install lxml psycopg2 django
