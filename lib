@@ -72,11 +72,14 @@ apt  install -y libx264-dev
 apt  install -y yasm
 apt  install -y python-opencv
 apt  install -y psmisc  # killall install
-apt  install -y python-pip 
 apt  install -y gpac
-apt  install -y python-paramiko
-pip  install lxml psycopg2
-apt  install -y python3-pip 
+
+apt  install -y python-pip 
+pip  install lxml 
+pip install  psycopg2
+pip  install paramiko
+
+apt  install -y python3-pip
 pip3 install lxml psycopg2 django
 pip3 install psycopg2-binary
 apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
