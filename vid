@@ -2,8 +2,7 @@
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
 apt  update
-echo "LC_ALL=en_US.UTF-8" >> /etc/environment
-echo "LANG=en_US.UTF-8" >> /etc/environment
+localectl set-locale LANG=en_US.UTF-8 LANGUAGE="en_US:en"
 echo "net.core.rmem_max = 4194304" >> /etc/sysctl.conf
 echo "net.core.wmem_max = 1048576" >> /etc/sysctl.conf
 sysctl -p
