@@ -13,6 +13,7 @@ apt update
 apt  install -y cron 
 apt  install -y htop 
 apt  install -y nload 
+apt  install -y nano
 apt  install -y systemd-services 
 apt  install -y autoconf 
 apt  install -y libtool 
@@ -99,22 +100,14 @@ apt  install -y firefox
 cd
 
 # Transmission config
-apt-get install -y python-transmissionrpc
-apt-get install -y transmission-daemon
+apt install -y python-transmissionrpc
+apt install -y transmission-daemon
 service transmission-daemon stop
 cd /var/lib/transmission-daemon/info/
 mkdir vid svid gvid vid-ready gvid-ready svid-ready incomplete
 chown -R debian-transmission:debian-transmission /var/lib/transmission-daemon
 chmod -R 775 /var/lib/transmission-daemon
 cd
-
-cat << 'EOF' > nano /etc/default/transmission-daemon
-ENABLE_DAEMON=1
-CONFIG_DIR="/var/lib/transmission-daemon/info"
-OPTIONS="--config-dir $CONFIG_DIR -e /var/log/transmission-daemon.log"
-
-EOF
-
 
 chown    debian-transmission:debian-transmission /etc/default/transmission-daemon
 chmod    644 /etc/transmission-daemon/settings.json
@@ -139,7 +132,7 @@ cat << 'EOF' > /etc/transmission-daemon/settings.json
     "blocklist-url": "http://john.bitsurge.net/public/biglist.p2p.gz", 
     "cache-size-mb": 4, 
     "dht-enabled": true, 
-    "download-dir": "/home/tube/transmission/downloads", 
+    "download-dir": "/var/lib/transmission-daemon/downloads", 
     "download-limit": 7000, 
     "download-limit-enabled": 0, 
     "download-queue-enabled": true, 
@@ -175,7 +168,7 @@ cat << 'EOF' > /etc/transmission-daemon/settings.json
     "rpc-enabled": true, 
     "rpc-host-whitelist": "", 
     "rpc-host-whitelist-enabled": true, 
-    "rpc-password": "{23f777e5143379445de0d897a38c681dcc034827WiEjz2Ny", 
+    "rpc-password": "23f777e5143379445de0d897a38c681dcc034827WiEjz2Ny", 
     "rpc-port": 9091, 
     "rpc-url": "/transmission/", 
     "rpc-username": "transmission", 
@@ -198,7 +191,7 @@ cat << 'EOF' > /etc/transmission-daemon/settings.json
     "upload-slots-per-torrent": 14, 
     "utp-enabled": true, 
     "watch-dir": "/home/tube/transmission/torrents", 
-    "watch-dir-enabled": true
+    "watch-dir-enabled": False
 }
 
 EOF
