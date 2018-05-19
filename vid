@@ -223,6 +223,7 @@ git clone https://torton@bitbucket.org/torton/gvid.git
 git clone https://torton@bitbucket.org/torton/svid.git
 
 cd /home/vid
+chmod 755 killproc.sh
 mkdir convert log transmission upload video
 cd upload
 mkdir alotporn eporner gotporn mofosex pornoxo redtube temp tubous vporn youjizz
@@ -230,12 +231,14 @@ mkdir analdin extremetube iceporn nuvid pornwhite spankbang tnaflix vikiporn wan
 mkdir drtuber fetishpapa keezmovies pornicom pornxs spankwire tube8 viptube xozilla
 
 cd /home/gvid
+chmod 755 killproc.sh
 mkdir convert log transmission upload video
 cd upload
 mkdir boyfriendtv  eporner      gotgayporn  iceporn  nuvid    pornhub  spankwire  tube8    vporn      youjizz
 mkdir drtuber      extremetube  gotporn     mofosex  porncom  pornxs   temp       viptube  yeswegays  youporn
 
 cd /home/svid
+chmod 755 killproc.sh
 mkdir convert log transmission upload video
 cd upload
 mkdir ashemaletube  drtuber  extremetube  iceporn  nuvid    pornxs   shemaletubevideos  spankbang  temp       tube8    vporn    youporn
