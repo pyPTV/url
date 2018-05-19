@@ -102,7 +102,7 @@ cd
 # Transmission config
 apt install -y python-transmissionrpc
 apt install -y transmission-daemon
-service transmission-daemon stop
+systemctl stop transmission-daemon
 cd /var/lib/transmission-daemon/info/
 mkdir vid svid gvid vid-ready gvid-ready svid-ready incomplete
 chown -R debian-transmission:debian-transmission /var/lib/transmission-daemon
@@ -191,11 +191,11 @@ cat << 'EOF' > /etc/transmission-daemon/settings.json
     "upload-slots-per-torrent": 14, 
     "utp-enabled": true, 
     "watch-dir": "/home/tube/transmission/torrents", 
-    "watch-dir-enabled": False
+    "watch-dir-enabled": false
 }
 
 EOF
-service transmission-daemon start
+systemctl start transmission-daemon
 
 # avconv compile
 cd
@@ -214,7 +214,7 @@ cd
 ldconfig
 cat /etc/transmission-daemon/settings.json
 cat /var/log/transmission-daemon.log
-service transmission-daemon status
+systemctl status transmission-daemon
 avconv
 
 
