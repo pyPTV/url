@@ -1,0 +1,251 @@
+#!/bin/bash 
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+apt  update
+echo "LC_ALL=en_US.UTF-8" >> /etc/environment
+echo "LANG=en_US.UTF-8" >> /etc/environment
+echo "net.core.rmem_max = 4194304" >> /etc/sysctl.conf
+echo "net.core.wmem_max = 1048576" >> /etc/sysctl.conf
+sysctl -p
+apt install -y python-software-properties
+add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc) main universe restricted multiverse"
+apt update  
+apt  install -y cron 
+apt  install -y htop 
+apt  install -y nload 
+apt  install -y systemd-services 
+apt  install -y autoconf 
+apt  install -y libtool 
+apt  install -y build-essential
+apt  install -y git 
+apt  install -y pkg-config
+apt  install -y python-dev libffi-dev libssl-dev libevent-dev python-setuptools swig
+apt  install -y python-imaging				# Python Imaging Library
+apt  install -y libatlas-base-dev			# Automatically Tuned Linear Algebra Software
+apt  install -y frei0r-plugins-dev			# minimalistic plugin API for video effects, header files
+apt  install -y libavdevice-extra-53		# Libav device handling library
+apt  install -y libavifile-0.7-dev 			# Shared libraries for AVI read/writing
+apt  install -y libbz2-dev					# high-quality block-sorting file compressor library
+apt  install -y libdirac-dev				# Dirac video codec
+apt  install -y libdirectfb-dev				# direct frame buffer graphics library
+apt  install -y libdrm-dev
+apt  install -y libdts-dev					# backward compatibility place-holder for libdca + decoding library for DTS Coherent Acoustics streams 
+apt  install -y libdv4-dev					# Library for DV format digital video
+apt  install -y libdvbpsi-dev				# Library for MPEG TS and DVB PSI tables decoding and generating
+apt  install -y libfaac-dev					# AAC audio encoder
+apt  install -y libfaad-dev					# Advanced Audio Decoder
+apt  install -y libflac++-dev				# Free Lossless Audio Codec
+apt  install -y libgpac-dev					# GPAC - an implementation of the MPEG-4 Systems standard
+apt  install -y libmad0-dev					# MPEG audio decoder
+apt  install -y libmatroska-dev				# MKV audio/video container
+apt  install -y libmimic-dev				# A video codec for Mimic V2.x content
+apt  install -y libmms-dev					# MMS stream protocol library
+apt  install -y libmp4v2-dev				# Library to read, create, and modify mp4 files 
+apt  install -y libmpcdec-dev				# MusePack decoder
+apt  install -y libmpeg2-4-dev				# MPEG1 and MPEG2 video decoder library
+apt  install -y libmpeg3-dev				# MPEG streams decoding library	
+apt  install -y libmp3lame-dev 				# MP3 encoding library
+apt  install -y libreadline-dev
+apt  install -y libshout3-dev				# MP3/Ogg Vorbis broadcast streaming library 			
+apt  install -y libslv2-dev					# SLV2 library
+apt  install -y libsoundtouch-dev			# Sound stretching library
+apt  install -y libswscale2					# Libav video scaling library 
+apt  install -y libtwolame-dev				# MPEG Audio Layer 2 encoder
+apt  install -y libv4l-dev					# Collection of video4linux support libraries
+apt  install -y libwavpack-dev				# Audio codec (lossy and lossless)
+apt  install -y libdvdread-dev				# Library for reading DVDs
+apt  install -y libzvbi-dev					# Vertical Blanking Interval decoder
+apt  install -y libpulse-dev				# PulseAudio client libraries
+apt  install -y libschroedinger-dev			# library for encoding/decoding of Dirac video streams 
+apt  install -y libvpx-dev					# VP8 video codec
+apt  install -y libxvidcore-dev				# Open source MPEG-4 video codec
+apt  install -y libvo-aacenc-dev			# VisualOn AAC encoder library
+apt  install -y libvo-amrwbenc-dev			# VisualOn AMR-WB encoder library
+apt  install -y libva-dev					# Video Acceleration (VA) API for Linux
+apt  install -y libvdpau-dev				# Video Decode and Presentation API for Unix 
+apt  install -y nload htop					# stat utilities
+apt  install -y libxml2-dev 
+apt  install -y libxslt-dev
+apt  install -y mercurial
+apt  install -y automake1.9
+apt  install -y libc-ares-dev
+apt  install -y curl
+apt  install -y python-numpy
+apt  install -y libx264-dev 
+apt  install -y yasm
+apt  install -y phantomjs
+apt  install -y python-pip
+apt  install -y python-opencv
+apt  install -y psmisc
+apt  install -y xvfb
+apt  install -y libffi-dev libdbus-glib-1-dev libfontconfig1-dev libxrender-dev libxcomposite-dev libasound2-dev 
+apt  install -y libgtk2.0-0
+pip install lxml pycurl antigate gevent certifi
+pip install pyOpenSSL ndg-httpsclient pyasn1
+pip install cffi
+pip install selenium
+pip install pyvirtualdisplay
+pip install paramiko
+cd
+git clone git://github.com/requests/requests.git
+cd requests
+python setup.py install
+cd
+wget https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-linux64.tar.gz
+tar -xvzf geckodriver-v0.19.1-linux64.tar.gz
+chmod +x geckodriver
+cp geckodriver /usr/local/bin/
+apt  install -y firefox
+cd
+
+# Transmission config
+apt-get install -y python-transmissionrpc
+apt-get install -y transmission-daemon
+service transmission-daemon stop
+cd /var/lib/transmission-daemon/info/
+mkdir vid svid gvid vid-ready gvid-ready svid-ready incomplete
+chown -R debian-transmission:debian-transmission /var/lib/transmission-daemon
+chmod -R 775 /var/lib/transmission-daemon
+cd
+
+cat << 'EOF' > nano /etc/default/transmission-daemon
+ENABLE_DAEMON=1
+CONFIG_DIR="/var/lib/transmission-daemon/info"
+OPTIONS="--config-dir $CONFIG_DIR -e /var/log/transmission-daemon.log"
+
+EOF
+
+
+chown    debian-transmission:debian-transmission /etc/default/transmission-daemon
+chmod    644 /etc/transmission-daemon/settings.json
+touch /var/log/transmission-daemon.log
+chown debian-transmission:debian-transmission /var/log/transmission-daemon.log
+
+
+
+
+cat << 'EOF' > /etc/transmission-daemon/settings.json
+{
+    "alt-speed-down": 50, 
+    "alt-speed-enabled": false, 
+    "alt-speed-time-begin": 540, 
+    "alt-speed-time-day": 127, 
+    "alt-speed-time-enabled": false, 
+    "alt-speed-time-end": 1020, 
+    "alt-speed-up": 50, 
+    "bind-address-ipv4": "0.0.0.0", 
+    "bind-address-ipv6": "::", 
+    "blocklist-enabled": false, 
+    "blocklist-url": "http://john.bitsurge.net/public/biglist.p2p.gz", 
+    "cache-size-mb": 4, 
+    "dht-enabled": true, 
+    "download-dir": "/home/tube/transmission/downloads", 
+    "download-limit": 7000, 
+    "download-limit-enabled": 0, 
+    "download-queue-enabled": true, 
+    "download-queue-size": 100, 
+    "encryption": 1, 
+    "idle-seeding-limit": 30, 
+    "idle-seeding-limit-enabled": false, 
+    "incomplete-dir": "/var/lib/transmission-daemon/info/incomplete", 
+    "incomplete-dir-enabled": true, 
+    "lpd-enabled": false, 
+    "max-peers-global": 200, 
+    "message-level": 1, 
+    "peer-congestion-algorithm": "", 
+    "peer-id-ttl-hours": 6, 
+    "peer-limit-global": 200, 
+    "peer-limit-per-torrent": 50, 
+    "peer-port": 51413, 
+    "peer-port-random-high": 65535, 
+    "peer-port-random-low": 49152, 
+    "peer-port-random-on-start": false, 
+    "peer-socket-tos": "default", 
+    "pex-enabled": true, 
+    "port-forwarding-enabled": false, 
+    "preallocation": 1, 
+    "prefetch-enabled": 1, 
+    "queue-stalled-enabled": true, 
+    "queue-stalled-minutes": 1200, 
+    "ratio-limit": 1, 
+    "ratio-limit-enabled": true, 
+    "rename-partial-files": true, 
+    "rpc-authentication-required": false, 
+    "rpc-bind-address": "0.0.0.0", 
+    "rpc-enabled": true, 
+    "rpc-host-whitelist": "", 
+    "rpc-host-whitelist-enabled": true, 
+    "rpc-password": "{23f777e5143379445de0d897a38c681dcc034827WiEjz2Ny", 
+    "rpc-port": 9091, 
+    "rpc-url": "/transmission/", 
+    "rpc-username": "transmission", 
+    "rpc-whitelist": "127.0.0.1", 
+    "rpc-whitelist-enabled": true, 
+    "scrape-paused-torrents-enabled": true, 
+    "script-torrent-done-enabled": false, 
+    "script-torrent-done-filename": "", 
+    "seed-queue-enabled": false, 
+    "seed-queue-size": 10, 
+    "speed-limit-down": 100, 
+    "speed-limit-down-enabled": false, 
+    "speed-limit-up": 100, 
+    "speed-limit-up-enabled": false, 
+    "start-added-torrents": true, 
+    "trash-original-torrent-files": false, 
+    "umask": 18, 
+    "upload-limit": 100, 
+    "upload-limit-enabled": 1, 
+    "upload-slots-per-torrent": 14, 
+    "utp-enabled": true, 
+    "watch-dir": "/home/tube/transmission/torrents", 
+    "watch-dir-enabled": true
+}
+
+EOF
+service transmission-daemon start
+
+# avconv compile
+cd
+git clone https://github.com/libav/libav.git
+cd libav
+./configure  --enable-bzlib --enable-frei0r --enable-gpl --enable-libfaac --enable-libfreetype --enable-libmp3lame --enable-libpulse --enable-libspeex --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libx264 --enable-libxvid --enable-libschroedinger --enable-nonfree --enable-decoder=dirac --enable-demuxer=dirac --enable-version3 --enable-runtime-cpudetect --enable-vdpau --enable-shared 
+make
+make install
+cat << 'EOF' > /etc/ld.so.conf
+include ld.so.conf.d/*.conf
+/usr/lib
+/usr/local/lib
+
+EOF
+cd
+ldconfig
+cat /etc/transmission-daemon/settings.json
+cat /var/log/transmission-daemon.log
+service transmission-daemon status
+avconv
+
+
+cd /home
+git clone https://torton@bitbucket.org/torton/vid.git
+git clone https://torton@bitbucket.org/torton/gvid.git
+git clone https://torton@bitbucket.org/torton/svid.git
+
+cd /home/vid
+mkdir convert log transmission upload video
+cd upload
+mkdir alotporn eporner gotporn mofosex pornoxo redtube temp tubous vporn youjizz
+mkdir analdin extremetube iceporn nuvid pornwhite spankbang tnaflix vikiporn wankoz youporn
+mkdir drtuber fetishpapa keezmovies pornicom pornxs spankwire tube8 viptube xozilla
+
+cd /home/gvid
+mkdir convert log transmission upload video
+cd upload
+mkdir boyfriendtv  eporner      gotgayporn  iceporn  nuvid    pornhub  spankwire  tube8    vporn      youjizz
+mkdir drtuber      extremetube  gotporn     mofosex  porncom  pornxs   temp       viptube  yeswegays  youporn
+
+cd /home/svid
+mkdir convert log transmission upload video
+cd upload
+mkdir ashemaletube  drtuber  extremetube  iceporn  nuvid    pornxs   shemaletubevideos  spankbang  temp       tube8    vporn    youporn
+mkdir ashemaletv    eporner  gotporn      mofosex  porncom  shegods  sheshaft           spankwire  trannyone  viptube  youjizz
+
