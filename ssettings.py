@@ -9,7 +9,7 @@
 ["https://t.frtyj.com/bedhdndnpc?offer_id=3341&aff_id=55688&nopop=1"]],
 [["AT", "BE", "IT", "CH", "IS", 
   "IE", "NO", "SE", "DK", "FI",
-  "SG", "TW", "JP"],
+  "SG", "TW", "JP", "AR", "ZA"],
 ["https://t.frtyj.com/bedhdndnpc?offer_id=3341&aff_id=55688&nopop=1"]],    
 [["ZZ"], ["http://www.youtrannytube.com"]]  
                
@@ -25,9 +25,9 @@
 ["https://t.frtyj.com/bedhdndnpc?offer_id=3341&aff_id=55688&nopop=1"]],
 [["AT", "BE", "IT", "CH", "IS", 
   "IE", "NO", "SE", "DK", "FI",
-  "SG", "TW", "JP"], 
+  "SG", "TW", "JP", "AR", "ZA"], 
 ["https://t.frtyj.com/bedhdndnpc?offer_id=3341&aff_id=55688&nopop=1"]],   
-[["AR"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]],
+[["BG"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]],
 [["ZZ"], ["http://www.youtrannytube.com"]]           
 
 ]
