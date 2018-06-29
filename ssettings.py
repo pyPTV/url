@@ -8,7 +8,7 @@
   "DE", "NL", "AU", "CA", "UK", 
   "AT", "BE", "IT", "CH", "IS", 
   "IE", "NO", "SE", "DK", "FI",
-  "SG", "TW", "JP", "AR", "ZA"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]],    
+  "SG", "TW", "JP", "AR", "ZA"], ["https://t.frtyj.com/gtvw4j6l4w?offer_id=3341&aff_id=56817&nopop=1"]],    
 [["US"], ["http://www.youtrannytube.com"]],          
 [["ZZ"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]]
                
@@ -23,7 +23,7 @@
   "DE", "NL", "AU", "CA", "UK", 
   "AT", "BE", "IT", "CH", "IS", 
   "IE", "NO", "SE", "DK", "FI",
-  "SG", "TW", "JP", "AR", "ZA"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]],    
+  "SG", "TW", "JP", "AR", "ZA"], ["https://t.frtyj.com/gtvw4j6l4w?offer_id=3341&aff_id=56817&nopop=1"]],    
 [["US"], ["http://www.youtrannytube.com"]],          
 [["ZZ"], ["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=NOak5&disable_sound=True"]]
 ]
