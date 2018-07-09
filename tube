@@ -109,4 +109,5 @@ make install
 cd
 
 avconv
+MP4Box -version
 service postgresql status
