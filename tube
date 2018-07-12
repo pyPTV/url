@@ -72,14 +72,15 @@ apt  install -y libx264-dev
 apt  install -y yasm
 apt  install -y python-opencv
 apt  install -y psmisc  # killall install
-
-
-apt  install -y python-pip 
+export PATH=$PATH:/usr/local/bin
+cd
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
 pip  install lxml 
-pip install  psycopg2
+pip  install psycopg2
 pip  install paramiko
 
-apt  install -y python3-pip
+apt install install python3-pip
 pip3 install lxml psycopg2 django
 pip3 install psycopg2-binary
 apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
