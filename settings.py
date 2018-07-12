@@ -12,13 +12,15 @@
   "LT", "EE", "RS", "IL",
   "AE", "AM", "GE", "AZ",
   "RS", "MK", "BA", "ME",
-  "HR", "MT", "CY", "AD"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
+  "HR", "MT", "CY", "AD",
+  "AR", "MX", "BR", "CL",
+  "PE", "UY", "VE", "ZA"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
   "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]],
 
-[["ZZ"], ["https://chaturbate.com/in/?track=qum&tour=hr8m&campaign=zKhCt&disable_sound=True"]]  
+[["ZZ"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]]  
                
 ],
  
@@ -35,13 +37,15 @@
   "LT", "EE", "RS", "IL",
   "AE", "AM", "GE", "AZ",
   "RS", "MK", "BA", "ME",
-  "HR", "MT", "CY", "AD"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
+  "HR", "MT", "CY", "AD",
+  "AR", "MX", "BR", "CL",
+  "PE", "UY", "VE", "ZA"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
   "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]],
 
-[["ZZ"], ["https://chaturbate.com/in/?track=qum&tour=hr8m&campaign=zKhCt&disable_sound=True"]]      
+[["ZZ"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]]      
 
 ]
 }
