@@ -14,7 +14,9 @@
   "RS", "MK", "BA", "ME",
   "HR", "MT", "CY", "AD",
   "AR", "MX", "BR", "CL",
-  "PE", "UY", "VE", "ZA"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
+  "PE", "UY", "VE", "ZA",
+  "IT", "PT", "ES", "TR",
+  "EG", "BE", "FI", "PR"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
@@ -39,7 +41,9 @@
   "RS", "MK", "BA", "ME",
   "HR", "MT", "CY", "AD",
   "AR", "MX", "BR", "CL",
-  "PE", "UY", "VE", "ZA"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
+  "PE", "UY", "VE", "ZA",
+  "IT", "PT", "ES", "TR",
+  "EG", "BE", "FI", "PR"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female&pt=http"]],
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
