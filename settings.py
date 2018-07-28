@@ -4,7 +4,7 @@
 
 [["US", "CA", "GB", "IE",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]],
+  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -20,9 +20,9 @@
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]],
+  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]]  
+[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]]  
                
 ],
  
@@ -31,7 +31,7 @@
 
 [["US", "CA", "GB", "IE",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]],
+  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -47,9 +47,9 @@
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]],
+  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjIwOTIuMjAuMi4yLjAuMC4wLjAuMA"]]      
+[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]]      
 
 ]
 }
