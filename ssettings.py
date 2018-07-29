@@ -8,9 +8,9 @@
   "IE", "NO", "SE", "DK", "FI",
   "JP", "ZA", "MX", "ES", "PT", 
   "CZ", "SK", "SI", "HU", "LI", 
-  "LU", "BR", "AR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+  "LU", "BR", "AR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 [["US"], ["https://www.trannytube.tv/"]],
-[["ZZ"], ["https://premium.ladyboytube.com/track/MTA2MDMuMi4xNi4xNi4wLjAuMC4wLjA"]]
+[["ZZ"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]]
                
 ],
  
@@ -23,9 +23,9 @@
   "IE", "NO", "SE", "DK", "FI",
   "JP", "ZA", "MX", "ES", "PT", 
   "CZ", "SK", "SI", "HU", "LI", 
-  "LU", "BR", "AR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+  "LU", "BR", "AR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 [["US"], ["https://www.trannytube.tv/"]],
-[["ZZ"], ["https://premium.ladyboytube.com/track/MTA2MDMuMi4xNi4xNi4wLjAuMC4wLjA"]]
+[["ZZ"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]]
 
 ]
 }
