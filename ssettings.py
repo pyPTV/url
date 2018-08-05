@@ -10,7 +10,7 @@
   "CZ", "SK", "SI", "HU", "LI", 
   "LU", "BR", "AR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 [["US"], ["https://www.trannytube.tv/"]],
-[["ZZ"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]]
+[["ZZ"], ["https://www.trannytube.tv/"]]
                
 ],
  
@@ -25,7 +25,7 @@
   "CZ", "SK", "SI", "HU", "LI", 
   "LU", "BR", "AR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 [["US"], ["https://www.trannytube.tv/"]],
-[["ZZ"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]]
+[["ZZ"], ["https://www.trannytube.tv/"]]
 
 ]
 }
