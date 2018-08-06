@@ -4,7 +4,7 @@
 
 [["US", "CA", "GB", "IE",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=XalH3&disable_sound=True"]],
+  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -31,7 +31,7 @@
 
 [["US", "CA", "GB", "IE",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=XalH3&disable_sound=True"]],
+  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
