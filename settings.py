@@ -20,9 +20,9 @@
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]],
+  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]]  
+[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]]  
                
 ],
  
@@ -47,9 +47,9 @@
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]],
+  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMjAuMi4yLjAuMC4wLjAuMA"]]      
+[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]]      
 
 ]
 }
