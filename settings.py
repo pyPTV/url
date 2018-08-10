@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["US"], ["https://chaturbate.com"]],
+[["US"], ["https://www.321sexchat.com/"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -21,7 +21,7 @@
 
 [["US", "CA", "GB", "IE",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://chaturbate.com"]],
+  "NL", "CH", "NO", "SE"], ["https://www.321sexchat.com/"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -37,9 +37,9 @@
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://chaturbate.com"]],
+  "JP", "TW", "SG", "KR"], ["https://www.321sexchat.com/"]],
 
-[["ZZ"], ["https://chaturbate.com"]]      
+[["ZZ"], ["https://www.321sexchat.com/"]]      
 
 ]
 }
