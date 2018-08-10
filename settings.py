@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["US"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
+[["US"], ["https://chaturbate.com"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -21,7 +21,7 @@
 
 [["US", "CA", "GB", "IE",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
+  "NL", "CH", "NO", "SE"], ["https://chaturbate.com"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
