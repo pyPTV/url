@@ -37,9 +37,9 @@
 
 [["IN", "PH", "CN", "ID", 
   "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]],
+  "JP", "TW", "SG", "KR"], ["https://chaturbate.com"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjI1NjguMi4yLjIuMC4wLjAuMC4w"]]      
+[["ZZ"], ["https://chaturbate.com"]]      
 
 ]
 }
