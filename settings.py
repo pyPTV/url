@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
+[["US", "CA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -19,8 +19,8 @@
     "desktop":
 [
 
-[["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
-[["CA", "GB", "IE", "IT",
+[["US", "CA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
+[["GB", "IE", "IT",
   "FR", "AU", "NZ", "DE",
   "NL", "CH", "NO", "SE"], ["https://t.frtyt.com/1i6ez0rzwg?aff_id=55688&offer_id=4093&nopop=1"]],
 
