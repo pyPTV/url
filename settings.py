@@ -10,7 +10,7 @@
   "RO", "SK", "LV", "LT", 
   "EE", "RS", "AM", "GE", 
   "AZ", "RS", "MK", "BA", 
-  "ME", "HR", "MT", "CY"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female&pt=http"]],
+  "ME", "HR", "MT", "CY"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&pt=http"]],
 
 [["ZZ"], ["https://bu3m0b.com/?id=44632"]]  
                
@@ -37,7 +37,7 @@
   "PE", "UY", "VE", "ZA",
   "PT", "ES", "TR", "UA", 
   "BY", "KZ", "EG", "BE", 
-  "FI", "PR"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female&pt=http"]],
+  "FI", "PR"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&pt=http"]],
 
 [["HK", "JP", "TW", "SG", "KR"], ["https://t.frtyt.com/1i6ez0rzwg?aff_id=55688&offer_id=4093&nopop=1"]],
 
