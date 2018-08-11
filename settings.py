@@ -19,9 +19,10 @@
     "desktop":
 [
 
-[["US", "CA", "GB", "IE",
+[["US"], ["https://www.321sexchat.com/"]],
+[["CA", "GB", "IE", "IT",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://www.321sexchat.com/"]],
+  "NL", "CH", "NO", "SE"], ["https://t.frtyt.com/1i6ez0rzwg?aff_id=55688&offer_id=4093&nopop=1"]],
 
 [["RU", "UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
@@ -32,12 +33,10 @@
   "HR", "MT", "CY", "AD",
   "AR", "MX", "BR", "CL",
   "PE", "UY", "VE", "ZA",
-  "IT", "PT", "ES", "TR",
+  "PT", "ES", "TR",
   "EG", "BE", "FI", "PR"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female&pt=http"]],
 
-[["IN", "PH", "CN", "ID", 
-  "TH", "VN", "MY", "HK",
-  "JP", "TW", "SG", "KR"], ["https://www.321sexchat.com/"]],
+[["HK", "JP", "TW", "SG", "KR"], ["https://t.frtyt.com/1i6ez0rzwg?aff_id=55688&offer_id=4093&nopop=1"]],
 
 [["ZZ"], ["https://www.321sexchat.com/"]]      
 
