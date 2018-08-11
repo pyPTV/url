@@ -5,6 +5,7 @@
 [["US", "CA", "GB", "FR", "AU", "NZ", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjIuMy40LjAuMC4wLjAuMA",
+                                        "https://t.frtyj.com/sl76i17w5c?aff_id=54557&offer_id=3343&nopop=1",
                                         "https://t.frtyj.com/sl76i17w5c?aff_id=54557&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.me-gay.com"]],  
@@ -18,6 +19,7 @@
 [["US", "CA", "GB", "FR", "AU", "NZ", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjIuMy40LjAuMC4wLjAuMA",
+                                        "https://t.frtyj.com/sl76i17w5c?aff_id=54557&offer_id=3343&nopop=1",
                                         "https://t.frtyj.com/sl76i17w5c?aff_id=54557&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.me-gay.com"]],
