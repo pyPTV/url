@@ -4,7 +4,8 @@
 
 [["US", "CA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
 
-[["RU", "UA", "BY", "KZ",
+[["RU"], ["http://runetki2.com?c=533066"]],
+[["UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
   "BG", "RO", "SK", "LV",
   "LT", "EE", "RS", 
@@ -24,7 +25,8 @@
   "FR", "AU", "NZ", "DE",
   "NL", "CH", "NO", "SE"], ["https://t.frtyt.com/1i6ez0rzwg?aff_id=55688&offer_id=4093&nopop=1"]],
 
-[["RU", "UA", "BY", "KZ",
+[["RU"], ["http://runetki2.com?c=533066"]], 
+[["UA", "BY", "KZ",
   "PL", "HU", "SI", "CZ",
   "BG", "RO", "SK", "LV",
   "LT", "EE", "RS", "IL",
