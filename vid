@@ -186,7 +186,7 @@ cat << 'EOF' > /etc/transmission-daemon/settings.json
     "start-added-torrents": true, 
     "trash-original-torrent-files": false, 
     "umask": 18, 
-    "upload-limit": 10000, 
+    "upload-limit": 2000, 
     "upload-limit-enabled": true, 
     "upload-slots-per-torrent": 14, 
     "utp-enabled": true, 
