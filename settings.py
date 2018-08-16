@@ -19,9 +19,9 @@
     "desktop":
 [
 
-[["GB", "IE", "IT", "US", "CA",
+[["GB", "IE", "US", "CA",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://t.frtyt.com/1i6ez0rzwg?aff_id=55688&offer_id=4093&nopop=1"]],
+  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
@@ -30,16 +30,13 @@
   "LT", "EE", "RS", "IL",
   "AE", "AM", "GE", "AZ",
   "RS", "MK", "BA", "ME",
-  "HR", "MT", "CY", "AD",
-  "AR", "MX", "BR", "CL",
-  "PE", "UY", "VE", "ZA",
-  "PT", "ES", "TR", "UA", 
-  "BY", "KZ", "EG", "BE", 
-  "FI", "PR"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&pt=http"]],
+  "HR", "MT", "CY", "PT", 
+  "ES", "TR", "UA", "BY", 
+  "KZ", "EG"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&pt=http"]],
 
-[["HK", "JP", "TW", "SG", "KR"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
+[["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.sex.com"]],
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]]      
+[["ZZ"], ["https://t.irtyc.com/v7jty0fglc?aff_id=55688&offer_id=3788&nopop=1"]]      
 
 ]
 }
