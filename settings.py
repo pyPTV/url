@@ -36,7 +36,7 @@
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.sex.com"]],
 
-[["ZZ"], ["https://t.irtyc.com/v7jty0fglc?aff_id=55688&offer_id=3788&nopop=1"]]      
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]]      
 
 ]
 }
