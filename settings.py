@@ -2,7 +2,9 @@
     "mobile":
 [
 
-[["US", "CA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
+[["GB", "IE", "US", "CA",
+  "FR", "AU", "NZ", "DE",
+  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=QmETk&disable_sound=True"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]],
 [["UA", "BY", "KZ", "PL", 
