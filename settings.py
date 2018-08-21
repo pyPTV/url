@@ -4,7 +4,7 @@
 
 [["GB", "IE", "US", "CA",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["http://sex.com"]],
+  "NL", "CH", "NO", "SE"], ["https://www.ixxx.com/"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]],
 [["UA", "BY", "KZ", "PL", 
@@ -23,7 +23,7 @@
 
 [["GB", "IE", "US", "CA",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["http://sex.com"]],
+  "NL", "CH", "NO", "SE"], ["https://www.ixxx.com/"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
@@ -36,9 +36,9 @@
   "ES", "TR", "UA", "BY", 
   "KZ", "EG"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&pt=http"]],
 
-[["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.sex.com"]],
+[["IN", "PH", "CN", "ID", "TH", "VN"], ["https://www.ixxx.com/"]],
 
-[["ZZ"], ["http://sex.com"]]      
+[["ZZ"], ["https://www.ixxx.com/"]]      
 
 ]
 }
