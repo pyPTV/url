@@ -6,7 +6,9 @@
 
 [["GB", "IE", "CA", "IT",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
+  "NL", "CH", "NO", "SE",
+  "AT", "BE", "PT", "ES", 
+  "IS", "ZA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
     
 [["RU"], ["http://runetki2.com?c=533066"]],
 [["UA", "BY", "KZ", "PL", 
@@ -27,7 +29,9 @@
 
 [["GB", "IE", "CA", "IT",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
+  "NL", "CH", "NO", "SE",
+  "AT", "BE", "PT", "ES", 
+  "IS", "ZA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
