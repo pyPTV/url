@@ -2,13 +2,11 @@
     "mobile":
 [
 
-[["US"], ["https://www.ixxx.com/"]],
+[["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["GB", "IE", "CA", "IT",
   "FR", "AU", "NZ", "DE",
-  "NL", "CH", "NO", "SE",
-  "AT", "BE", "PT", "ES", 
-  "IS", "ZA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
+  "NL", "CH", "NO", "SE"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
     
 [["RU"], ["http://runetki2.com?c=533066"]],
 [["UA", "BY", "KZ", "PL", 
@@ -25,7 +23,7 @@
     "desktop":
 [
 
-[["US"], ["https://www.ixxx.com/"]],
+[["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["GB", "IE", "CA", "IT",
   "FR", "AU", "NZ", "DE",
