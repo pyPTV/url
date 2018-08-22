@@ -29,7 +29,7 @@
   "FR", "AU", "NZ", "DE",
   "NL", "CH", "NO", "SE",
   "AT", "BE", "PT", "ES", 
-  "IS", "ZA"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
+  "IS", "ZA", "LI", "LU"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
@@ -42,8 +42,8 @@
   "ES", "TR", "UA", "BY", 
   "KZ", "EG"], ["http://tools.bongacams.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&pt=http"]],
 
-[["IN", "PH", "CN", "ID", "TH", "VN"], ["https://www.ixxx.com/"]],
-
+[["IN", "PH", "ID", "TH", "VN"], ["https://www.ixxx.com/"]],
+[["TW", "SG", "KR", "CN", "MY"], ["https://www.ixxx.com/"]],
 [["ZZ"], ["https://www.ixxx.com/"]]      
 
 ]
