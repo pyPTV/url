@@ -2,13 +2,14 @@
     "mobile":
 [
 
-[["US", "CA", "AU", "NZ", "GB", "IE", "FR"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
+[["US", "CA", "AU", 
+  "NZ", "GB", "IE", 
+  "FR"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["IT", "DE", "NL", 
   "CH", "NO", "SE", 
   "AT", "BE", "IS", 
-  "ZA", "LI", "LU"], ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female",
-                      "https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=couples"]],
+  "ZA", "LI", "LU"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
@@ -28,13 +29,14 @@
     "desktop":
 [
 
-[["US", "CA", "AU", "NZ", "GB", "IE", "FR"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
+[["US", "CA", "AU", 
+  "NZ", "GB", "IE", 
+  "FR"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["IT", "DE", "NL", 
   "CH", "NO", "SE", 
   "AT", "BE", "IS", 
-  "ZA", "LI", "LU"], ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female",
-                      "https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=couples"]],
+  "ZA", "LI", "LU"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
@@ -48,7 +50,7 @@
   "KZ", "EG", "PT", "ES"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
 
 [["IN", "PH", "ID", "TH", "VN"], ["https://www.ixxx.com/"]],
-[["TW", "SG", "KR", "CN", "MY"], ["https://www.ixxx.com/"]],
+[["TW", "SG", "KR", "CN", "MY"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
 [["ZZ"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]]      
 
 ]
