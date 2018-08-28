@@ -9,7 +9,7 @@
 [["IT", "DE", "NL", 
   "CH", "NO", "SE", 
   "AT", "BE", "IS", 
-  "ZA", "LI", "LU"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
+  "ZA", "LI", "LU"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
@@ -36,7 +36,7 @@
 [["IT", "DE", "NL", 
   "CH", "NO", "SE", 
   "AT", "BE", "IS", 
-  "ZA", "LI", "LU"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
+  "ZA", "LI", "LU"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=cSFs7&disable_sound=True"]],
 
 [["RU"], ["http://runetki2.com?c=533066"]], 
  
