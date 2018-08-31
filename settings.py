@@ -50,7 +50,7 @@
   "KZ", "EG", "PT", "ES"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
 
 [["IN", "PH", "ID", "TH", "VN"], ["https://www.ixxx.com/"]],
-[["TW", "SG", "KR", "CN", "MY"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
+[["TW", "SG", "KR", "CN", "MY"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
 [["ZZ"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]]      
 
 ]
