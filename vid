@@ -80,7 +80,7 @@ apt  install -y psmisc
 apt  install -y xvfb
 apt  install -y libffi-dev libdbus-glib-1-dev libfontconfig1-dev libxrender-dev libxcomposite-dev libasound2-dev 
 apt  install -y libgtk2.0-0
-pip install google-cloud-translate
+
 pip install lxml pycurl antigate gevent certifi
 pip install pyOpenSSL ndg-httpsclient pyasn1
 pip install cffi
