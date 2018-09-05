@@ -4,7 +4,7 @@
 
 [["US", "CA", "GB", "FR", "AU", "NZ", 
   "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAxMDE4LjIuMy40LjAuMC4wLjAuMA",
+  "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjIuMy40LjAuMC4wLjAuMA",
                                         "https://t.frtyj.com/1nhsfudb5s?aff_id=56817&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.me-gay.com"]],  
@@ -17,7 +17,7 @@
 
 [["US", "CA", "GB", "FR", "AU", "NZ", 
   "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAxMDE4LjIuMy40LjAuMC4wLjAuMA",
+  "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjIuMy40LjAuMC4wLjAuMA",
                                         "https://t.frtyj.com/1nhsfudb5s?aff_id=56817&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["http://www.me-gay.com"]],
