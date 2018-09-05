@@ -87,6 +87,7 @@ pip install cffi
 pip install selenium
 pip install pyvirtualdisplay
 pip install paramiko
+pip install yandex.translate
 cd
 git clone git://github.com/requests/requests.git
 cd requests
