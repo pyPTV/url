@@ -22,7 +22,7 @@
   "ES", "TR", "UA", "BY", 
   "KZ", "EG", "PT", "ES"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
  
-[["ZZ"], ["https://bu3m0b.com/?id=44632"]]  
+[["ZZ"], ["https://t.grtyv.com/uwimn3c5og?aff_id=54455&offer_id=5368&nopop=1"]]  
                
 ],
  
@@ -49,9 +49,9 @@
   "ES", "TR", "UA", "BY", 
   "KZ", "EG", "PT", "ES"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
 
-[["IN", "PH", "ID", "TH", "VN"], ["https://www.ixxx.com/"]],
-[["TW", "SG", "KR", "CN", "MY"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
-[["ZZ"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]]      
+[["IN", "PH", "ID", "TH", "VN"], ["https://t.grtyv.com/uwimn3c5og?aff_id=54455&offer_id=5368&nopop=1"]],
+[["TW", "SG", "KR", "CN", "MY"], ["https://t.grtyv.com/uwimn3c5og?aff_id=54455&offer_id=5368&nopop=1"]],
+[["ZZ"], ["https://t.grtyv.com/uwimn3c5og?aff_id=54455&offer_id=5368&nopop=1"]]      
 
 ]
 }
