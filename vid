@@ -80,7 +80,20 @@ apt  install -y psmisc
 apt  install -y xvfb
 apt  install -y libffi-dev libdbus-glib-1-dev libfontconfig1-dev libxrender-dev libxcomposite-dev libasound2-dev 
 apt  install -y libgtk2.0-0
-
+apt install apt-transport-https
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
+sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+apt install apt-transport-https
+apt update 
+apt install google-chrome-stable
+# Install ChromeDriver.
+apt install zip unzip
+CHROME_DRIVER_VERSION=`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`
+wget -N http://chromedriver.storage.googleapis.com/$CHROME_DRIVER_VERSION/chromedriver_linux64.zip -P ~/
+unzip ~/chromedriver_linux64.zip -d ~/
+mv -f ~/chromedriver /usr/bin/chromedriver
+chown root:root /usr/bin/chromedriver
+chmod 0755 /usr/bin/chromedriver
 pip install lxml pycurl antigate gevent certifi
 pip install pyOpenSSL ndg-httpsclient pyasn1
 pip install cffi
