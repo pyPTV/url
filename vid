@@ -83,7 +83,6 @@ apt  install -y libgtk2.0-0
 apt install apt-transport-https
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
 sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
-apt install apt-transport-https
 apt update 
 apt install google-chrome-stable
 # Install ChromeDriver.
@@ -94,19 +93,29 @@ unzip ~/chromedriver_linux64.zip -d ~/
 mv -f ~/chromedriver /usr/bin/chromedriver
 chown root:root /usr/bin/chromedriver
 chmod 0755 /usr/bin/chromedriver
-pip install lxml pycurl antigate gevent certifi
-pip install pyOpenSSL ndg-httpsclient pyasn1
+pip install lxml 
+pip install pycurl 
+pip install antigate 
+pip install gevent 
+pip install certifi
+pip install pyOpenSSL 
+pip install ndg-httpsclient 
+pip install pyasn1
 pip install cffi
 pip install selenium
 pip install pyvirtualdisplay
 pip install paramiko
 pip install yandex.translate
 pip install timeout-decorator
+
+
 cd
 git clone git://github.com/requests/requests.git
 cd requests
 python setup.py install
 cd
+
+
 wget https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-linux64.tar.gz
 tar -xvzf geckodriver-v0.21.0-linux64.tar.gz
 chmod +x geckodriver
