@@ -14,16 +14,14 @@
     "desktop":
 [
 
-[["RU"], ["http://runetki2.com?c=533066"]], 
- 
 [["PL", "HU", "SI", "CZ",
   "BG", "RO", "SK", "LV",
   "LT", "EE", "RS", "IL",
-  "AE", "AM", "GE", "AZ",
-  "RS", "MK", "BA", "ME",
-  "HR", "MT", "CY", "PT", 
-  "ES", "TR", "UA", "BY", 
-  "KZ", "EG", "PT", "ES"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=popular_chat&g=female"]],
+  "AE", "AM", "GE", "AZ", "GR",
+  "RS", "MK", "BA", "ME", "MX",
+  "HR", "MT", "CY", "PT", "LU",
+  "ES", "TR", "UA", "BY", "LI",
+  "KZ", "EG", "PT", "ES", "RU"], ["https://promo-bc.com/promo.php?type=direct_link&c=533066&amute=1&page=random_model"]],
 
 [["IN", "PH", "ID", "TH", "VN",
   "TW", "SG", "KR", "CN", "MY"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
