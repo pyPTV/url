@@ -8,11 +8,11 @@
   "IE", "NO", "SE", "DK", "FI",
   "JP", "ZA", "MX", "ES", "PT", 
   "CZ", "SK", "SI", "HU", "LI", 
-  "LU", "HK", "ZA", "KR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+  "LU", "HK", "ZA", "KR"], ["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]],
 
 [["US", "IN", "PH", "CN", "ID", "TH", "VN"], ["https://www.trannytube.tv/"]],
 
-[["ZZ"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]]
+[["ZZ"], ["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]]
                
 ],
  
@@ -25,11 +25,11 @@
   "IE", "NO", "SE", "DK", "FI",
   "JP", "ZA", "MX", "ES", "PT", 
   "CZ", "SK", "SI", "HU", "LI", 
-  "LU", "HK", "ZA", "KR"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+  "LU", "HK", "ZA", "KR"], ["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]],
 
 [["US", "IN", "PH", "CN", "ID", "TH", "VN"], ["https://www.trannytube.tv/"]],
 
-[["ZZ"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]]
+[["ZZ"], ["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]]
 
 ]
 }
