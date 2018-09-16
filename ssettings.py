@@ -8,7 +8,7 @@
 
 		[
 			["JP", "MX", "ES", "HU", "SG", "HK", "KR", "CA", "TW", "GB"],
-			["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]
+			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
 		],
 
 		[
@@ -18,7 +18,7 @@
 
 		[
 			["ZZ"],
-			["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]
+			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
 		]
 
 	],
@@ -32,7 +32,7 @@
 
 		[
 			["JP", "MX", "ES", "HU", "SG", "HK", "KR", "CA", "TW", "GB"],
-			["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]
+			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
 		],
 
 		[
@@ -43,7 +43,7 @@
 
 		[
 			["ZZ"],
-			["https://t.frtyj.com/a33i55m79c?aff_id=55688&offer_id=3341&nopop=1"]
+			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
 		]
 
 	]
