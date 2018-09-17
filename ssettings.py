@@ -3,12 +3,12 @@
 
 		[
 			["FR", "NZ", "ZA", "DE", "NL", "AU", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "LI", "PT", "CZ", "SK", "SI", "LU"],
-			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjU2NTI5NzA3LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
+			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 		],
 
 		[
 			["JP", "MX", "ES", "HU", "SG", "HK", "KR", "CA", "TW", "GB"],
-			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
+			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 		],
 
 		[
@@ -18,7 +18,7 @@
 
 		[
 			["ZZ"],
-			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
+			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 		]
 
 	],
@@ -27,12 +27,12 @@
 
 		[
 			["FR", "NZ", "ZA", "DE", "NL", "AU", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "LI", "PT", "CZ", "SK", "SI", "LU"],
-			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjU2NTI5NzA3LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
+			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 		],
 
 		[
 			["JP", "MX", "ES", "HU", "SG", "HK", "KR", "CA", "TW", "GB"],
-			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
+			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 		],
 
 		[
@@ -43,7 +43,7 @@
 
 		[
 			["ZZ"],
-			["https://t.frtyj.com/4rda1rdjuo?aff_id=54455&offer_id=3341&nopop=1"]
+			["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 		]
 
 	]
