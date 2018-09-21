@@ -4,7 +4,7 @@
 
 [["US", "CA", "GB", "NZ", "AU", 
   "FR", "DE", "NL", "SE", "NO", 
-  "DK"], ["https://chaturbate.com"]],
+  "DK"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=swH07&disable_sound=True"]],
  
  
 [["ZZ"], ["https://bu3m0b.com/?id=44632"]]  
@@ -25,7 +25,7 @@
 
 [["IN", "PH", "ID", "TH", "VN",
   "TW", "SG", "KR", "CN", "MY"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
-[["ZZ"], ["https://chaturbate.com"]]      
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=swH07&disable_sound=True"]]      
 
 ]
 }
