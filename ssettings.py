@@ -2,8 +2,14 @@
 "mobile": [
 
 [
-["FR", "NZ", "ZA", "DE", "NL", "AU", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "PT", "CZ", "SK", "SI", "LU"],
+["AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "PT", "CZ", "SK", "SI", "LU", "LI"],
 ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
+],
+
+
+[
+["FR", "NZ", "ZA", "DE", "NL", "AU"],
+["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 ],
 
 
@@ -22,8 +28,14 @@
 "desktop": [
 
 [
-["FR", "NZ", "ZA", "DE", "NL", "AU", "AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "PT", "CZ", "SK", "SI", "LU"],
+["AT", "BE", "IT", "CH", "IS", "IE", "NO", "SE", "DK", "FI", "PT", "CZ", "SK", "SI", "LU", "LI"],
 ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
+],
+
+
+[
+["FR", "NZ", "ZA", "DE", "NL", "AU"],
+["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk0OTYsImMiOjU2NTQyNDM2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
 ],
 
 
