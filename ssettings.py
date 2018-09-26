@@ -20,7 +20,7 @@
 
 [
 ["ZZ"],
-["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
+["https://www.trannytube.tv/"]
 ]
 
 ],
@@ -47,7 +47,7 @@
 
 [
 ["ZZ"],
-["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]
+["https://www.trannytube.tv/"]
 ]
 
 ]
