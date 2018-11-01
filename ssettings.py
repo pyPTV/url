@@ -1,11 +1,13 @@
 {
 "mobile": [
- 
-[["AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "DE", "FR", 
-  "IT", "NL", "AU", "NZ", "GB", "CH", "JP", "SG", "TW", "KR"],
+
+[["CA", "GB", "DE", "NL", "AU", "NZ"], 
+["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+
+
+[["AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "FR", "IT", "CH", "JP", "SG", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
  
-
  
 [["PL", "HU", "SI", "CZ", "BG", "RO", "SK", "LV", "LT", "EE", 
   "RS", "IL", "AE", "AM", "GE", "AZ", "GR", "RS", "MK", "BA", 
@@ -22,11 +24,14 @@
 
 "desktop": [
 
-[["AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "DE", "FR", 
-  "IT", "NL", "AU", "NZ", "GB", "CH", "JP", "SG", "TW", "KR"],
+[["CA", "GB", "DE", "NL", "AU", "NZ"], 
+["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+
+
+[["AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "FR", "IT", "CH", "JP", "SG", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
  
-
+ 
 [["PL", "HU", "SI", "CZ", "BG", "RO", "SK", "LV", "LT", "EE", 
   "RS", "IL", "AE", "AM", "GE", "AZ", "GR", "RS", "MK", "BA", 
   "ME", "MX", "HR", "MT", "CY", "PT", "LU", "ES", "TR", "UA", 
@@ -35,6 +40,7 @@
 
 
 [["ZZ"],["https://www.trannytube.tv/"]]
+
 
 ]
 
