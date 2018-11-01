@@ -1,11 +1,11 @@
 {
 "mobile": [
 
-[["CA", "GB", "DE", "NL", "AU", "NZ"], 
+[["CA", "GB", "DE", "NL"], 
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 
-[["AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "FR", "IT", "CH", "JP", "SG", "TW", "KR"],
+[["AU", "NZ", "AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "FR", "IT", "CH", "JP", "SG", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
  
  
@@ -24,11 +24,11 @@
 
 "desktop": [
 
-[["CA", "GB", "DE", "NL", "AU", "NZ"], 
+[["CA", "GB", "DE", "NL"], 
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 
-[["AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "FR", "IT", "CH", "JP", "SG", "TW", "KR"],
+[["AU", "NZ", "AT", "BE", "IS", "IE", "NO", "SE", "DK", "FI", "FR", "IT", "CH", "JP", "SG", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
  
  
