@@ -16,7 +16,7 @@
 
 [["CA", "GB", "FR", "AU", "NZ", "US",
   "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAwMzUwLjIuMy40LjAuMC4wLjAuMA",
+  "IS", "IE", "NO", "SE", "DK", "FI"], ["http://join.allgaysitespass.com/track/MjAwMzc0LjIuMy40LjAuMC4wLjAuMA",
                                         "https://t.frtyj.com/j254ih7t6o?aff_id=50870&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
