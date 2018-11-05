@@ -16,7 +16,7 @@
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 
-[["ZZ"],["https://www.trannytube.tv/"]]
+[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
 
 ],
 
@@ -39,7 +39,7 @@
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 
-[["ZZ"],["https://www.trannytube.tv/"]]
+[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
 
 
 ]
