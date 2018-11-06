@@ -5,56 +5,38 @@
 apt install -y build-essential 
 apt install -y libevent-dev 
 apt install -y libssl-dev
+apt install -y git
 
 
-wget --no-check-certificate https://github.com/z3APA3A/3proxy/archive/3proxy-0.8.6.tar.gz 
-tar -xvzf 3proxy-0.8.6.tar.gz 
-cd 3proxy-3proxy-0.8.6/
-
-sed -i "s/#define MAXUSERNAME 128/#define ANONYMOUS 1\n#define MAXUSERNAME 128/" src/proxy.h
-
-
-make -f Makefile.Linux
-mkdir /usr/local/etc/3proxy 
-mkdir /usr/local/etc/3proxy/logs
-mkdir /usr/local/etc/3proxy/stat
-mkdir /usr/local/etc/3proxy/bin
-cp src/3proxy /usr/local/etc/3proxy/bin/
-cp scripts/rc.d/proxy.sh /etc/init.d/3proxy
-chmod +x /etc/init.d/3proxy
-update-rc.d 3proxy defaults
-chown -R 65534:65534  /usr/local/etc/3proxy/
+git clone https://github.com/z3APA3A/3proxy.git
+cd 3proxy
+ln -s Makefile.Linux Makefile
+make
+make install
 
 
-
-
-ip=$(ifconfig eth0 | grep "inet addr" | cut -d ':' -f 2 | cut -d ' ' -f 1)
-
-
-cat <<EOF > /usr/local/etc/3proxy/3proxy.cfg
+cat <<EOF > /etc/3proxy/conf/3proxy.cfg
+nscache 65536
 nserver 8.8.8.8
 nserver 8.8.4.4
-nscache 65536
 timeouts 1 5 30 60 180 1800 15 60
-pidfile /usr/local/etc/3proxy/3proxy.pid
 daemon
-users vasyaproxy:CL:12345
-setgid 65534
-setuid 65534
-allow * * * 80,8080-8088
+config /conf/3proxy.cfg
+monitor /conf/3proxy.cfg
+log /logs/3proxy-%y%m%d.log D
+rotate 60
+counter /count/3proxy.3cf
+include /conf/counters
+include /conf/bandlimiters
 auth iponly
 allow * 95.141.36.180
-allow * 95.141.36.9
+allow * 95.27.43.24
 allow * 95.141.36.99
 proxy -n -p2358 -a
-socks -p7835
-auth strong
-flush
-maxconn 32
 
 EOF
 
 
-/etc/init.d/3proxy start
+service 3proxy start
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
