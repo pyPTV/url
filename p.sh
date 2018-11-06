@@ -43,6 +43,7 @@ daemon
 maxconn 32
 setgid 65534
 setuid 65534
+allow * * * 80,8080-8088
 auth iponly
 allow * 95.141.36.180
 allow * 95.141.36.9
