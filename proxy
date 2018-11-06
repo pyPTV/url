@@ -38,7 +38,7 @@ internal $ip
 timeouts 1 5 30 60 180 1800 15 60
 pidfile /usr/local/etc/3proxy/3proxy.pid
 daemon
-maxconn 32
+
 setgid 65534
 setuid 65534
 auth iponly
@@ -49,7 +49,7 @@ proxy -n -p2358
 socks -p7835
 auth strong
 flush
-maxconn 32
+
 
 EOF
 
