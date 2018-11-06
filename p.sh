@@ -48,7 +48,7 @@ auth iponly
 allow * 95.141.36.180
 allow * 95.141.36.9
 allow * 95.141.36.99
-proxy -n -p2358
+proxy -n -p2358 -a
 socks -p7835
 auth strong
 flush
