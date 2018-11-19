@@ -3,7 +3,7 @@
 [
 
 [["IN", "PH", "ID", "TH", "VN", 
-  "TW", "SG", "KR", "CN", "MY"], 
+  "TW", "SG", "KR", "CN", "MY", "JP"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "UA", "KZ", "BY", "AM",
@@ -17,7 +17,7 @@
 [
 
 [["IN", "PH", "ID", "TH", "VN", 
-  "TW", "SG", "KR", "CN", "MY"], 
+  "TW", "SG", "KR", "CN", "MY", "JP"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "UA", "KZ", "BY", "AM",
