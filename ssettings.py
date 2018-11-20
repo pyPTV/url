@@ -32,7 +32,7 @@
   "AT", "BE", "IS", 
   "IE", "NO", "SE", 
   "DK", "FI", "SG",
-  "JP", "TW", "KR"],], 
+  "JP", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 [["PL", "HU", "SI", "CZ", "BG", "RO", "SK", "LV", "LT", "EE", 
