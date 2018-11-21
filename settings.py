@@ -9,7 +9,7 @@
 [["RU", "UA", "KZ", "BY", "AM",
   "AZ", "PL", "SK", "CZ"], ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=random_model&g=female"]],
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=OT2s&campaign=Q1hGG&disable_sound=True"]]   
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=LWfSH&disable_sound=True"]]   
                
 ],
  
@@ -23,7 +23,7 @@
 [["RU", "UA", "KZ", "BY", "AM",
   "AZ", "PL", "SK", "CZ"], ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=random_model&g=female"]],
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=OT2s&campaign=Q1hGG&disable_sound=True"]]     
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=LWfSH&disable_sound=True"]]     
 
 ]
 }
