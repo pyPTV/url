@@ -8,9 +8,6 @@
 
 [["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
 
- 
-[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
-
 ],
 
 
@@ -23,7 +20,6 @@
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 [["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
-
 
 ]
 
