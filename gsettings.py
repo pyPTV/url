@@ -13,8 +13,8 @@
  
     "desktop":
 [
-
-[["GB", "FR", "AU", "NZ", "US", "CA",
+[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjIuMy40LjAuMC4wLjAuMA"]],
+[["GB", "FR", "AU", "NZ", "CA",
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], ["https://t.frtyj.com/fk4kyntbgg?aff_id=55688&offer_id=3343&nopop=1"]],
                                         
