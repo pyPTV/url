@@ -1,8 +1,8 @@
 {
     "mobile":
 [
-[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjIuMy40LjAuMC4wLjAuMA"]],
-[["GB", "FR", "AU", "NZ", "CA",
+
+[["GB", "FR", "AU", "NZ", "CA", "US",
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], ["https://t.frtyj.com/raxg56fwow?aff_id=54636&offer_id=3343&nopop=1"]],
                                         
@@ -13,8 +13,8 @@
  
     "desktop":
 [
-[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjIuMy40LjAuMC4wLjAuMA"]],
-[["GB", "FR", "AU", "NZ", "CA",
+
+[["GB", "FR", "AU", "NZ", "CA", "US",
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], ["https://t.frtyj.com/raxg56fwow?aff_id=54636&offer_id=3343&nopop=1"]],
                                         
