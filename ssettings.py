@@ -6,7 +6,8 @@
   "SE", "DK", "FI", "SG", "JP", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
-[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
+[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=VGRDg&disable_sound=True",
+         "https://chaturbate.com/in/?track=default&tour=4auy&campaign=VGRDg&signup_notice=1&disable_sound=True"]]
 
 ],
 
@@ -19,7 +20,8 @@
   "SE", "DK", "FI", "SG", "JP", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
-[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=SIJqf&disable_sound=True"]]
+[["ZZ"],["https://chaturbate.com/in/?track=default&tour=sxJR&campaign=VGRDg&disable_sound=True", 
+         "https://chaturbate.com/in/?track=default&tour=4auy&campaign=VGRDg&signup_notice=1&disable_sound=True"]]
 
 ]
 
