@@ -6,7 +6,7 @@
   "SE", "DK", "FI", "SG", "JP", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
-[["ZZ"],["https://www.shemantube.com"]]
+[["ZZ"],["https://chaturbate.com/in/?track=default&tour=4auy&campaign=bwJAD&signup_notice=1&disable_sound=True"]]
 
 ],
 
@@ -19,7 +19,7 @@
   "SE", "DK", "FI", "SG", "JP", "TW", "KR"],
 ["https://www.transangels.com/landing/tgp/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
-[["ZZ"],["https://www.shemantube.com"]]
+[["ZZ"],["https://chaturbate.com/in/?track=default&tour=4auy&campaign=bwJAD&signup_notice=1&disable_sound=True"]]
 
 ]
 
