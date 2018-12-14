@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["US"], ["http://join.allgaysitespass.com/track/MjAxMDE4LjEuMy40LjAuMC4wLjAuMA"]],
+[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
 
 [["GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
@@ -17,7 +17,7 @@
     "desktop":
 [
 
-[["US"], ["http://join.allgaysitespass.com/track/MjAxMDE4LjEuMy40LjAuMC4wLjAuMA"]],
+[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
 
 [["GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
