@@ -18,7 +18,7 @@
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]],
 
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=7OAzn&disable_sound=True"]]   
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=xLVhH&disable_sound=True"]]   
                
 ],
  
@@ -41,7 +41,7 @@
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]],
 
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=7OAzn&disable_sound=True"]]      
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=xLVhH&disable_sound=True"]]      
 
 ]
 }
