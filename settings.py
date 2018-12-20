@@ -18,7 +18,7 @@
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]],
 
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=xLVhH&disable_sound=True"]]   
+[["ZZ"], ["https://vrporn.com"]]   
                
 ],
  
@@ -41,7 +41,7 @@
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]],
 
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=xLVhH&disable_sound=True"]]      
+[["ZZ"], ["https://vrporn.com"]]      
 
 ]
 }
