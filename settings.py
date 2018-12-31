@@ -8,9 +8,7 @@
  ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=random_model&g=female"]],
 
 
-[["GB", "FR", "AU", "NZ", "CA", "SG",
-  "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], 
+[["AU", "NZ", "SG", "DE", "AT", "BE", "IT", "NL", "CH", "IS", "IE", "NO", "SE", "DK", "FI"], 
  ["https://t.grtya.com/ej7e1lfqrk?aff_id=54455&offer_id=1081&nopop=1",
   "http://t.irtyf.com/4lf8ls8am9?campaign_id=2670&aff_id=54455&nopop=1",
   "https://t.frtyt.com/jjl8zy65q8?aff_id=54455&offer_id=5425&nopop=1",
@@ -31,9 +29,7 @@
  ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=random_model&g=female"]],
 
 
-[["GB", "FR", "AU", "NZ", "CA", "SG",
-  "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], 
+[["AU", "NZ", "SG", "DE", "AT", "BE", "IT", "NL", "CH", "IS", "IE", "NO", "SE", "DK", "FI"], 
  ["https://t.grtya.com/ej7e1lfqrk?aff_id=54455&offer_id=1081&nopop=1",
   "http://t.irtyf.com/4lf8ls8am9?campaign_id=2670&aff_id=54455&nopop=1",
   "https://t.frtyt.com/jjl8zy65q8?aff_id=54455&offer_id=5425&nopop=1",
