@@ -15,10 +15,14 @@
 [["GB", "FR", "AU", "NZ", "CA", "SG",
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]],
+ ["https://t.grtya.com/ej7e1lfqrk?aff_id=54455&offer_id=1081&nopop=1",
+  "http://t.irtyf.com/4lf8ls8am9?campaign_id=2670&aff_id=54455&nopop=1",
+  "https://t.frtyt.com/jjl8zy65q8?aff_id=54455&offer_id=5425&nopop=1",
+  "https://t.frtyj.com/tcu0tee2m8?aff_id=54455&offer_id=5&nopop=1",
+  "https://t.frtyt.com/45lf57llkw?aff_id=54455&offer_id=4093&nopop=1"]],
 
 
-[["ZZ"], ["https://vrporn.com"]]   
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]]   
                
 ],
  
@@ -38,10 +42,14 @@
 [["GB", "FR", "AU", "NZ", "CA", "SG",
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]],
+ ["https://t.grtya.com/ej7e1lfqrk?aff_id=54455&offer_id=1081&nopop=1",
+  "http://t.irtyf.com/4lf8ls8am9?campaign_id=2670&aff_id=54455&nopop=1",
+  "https://t.frtyt.com/jjl8zy65q8?aff_id=54455&offer_id=5425&nopop=1",
+  "https://t.frtyj.com/tcu0tee2m8?aff_id=54455&offer_id=5&nopop=1",
+  "https://t.frtyt.com/45lf57llkw?aff_id=54455&offer_id=4093&nopop=1"]],
 
 
-[["ZZ"], ["https://vrporn.com"]]      
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]]      
 
 ]
 }
