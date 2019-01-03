@@ -15,7 +15,7 @@
   "https://t.frtyt.com/45lf57llkw?aff_id=54455&offer_id=4093&nopop=1"]],
 
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]]   
+[["ZZ"], ["https://pornosalo.com"]]   
                
 ],
  
@@ -35,7 +35,7 @@
   "https://t.frtyt.com/45lf57llkw?aff_id=54455&offer_id=4093&nopop=1"]],
 
 
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=TjWB6&disable_sound=True"]]      
+[["ZZ"], ["https://pornosalo.com"]]      
 
 ]
 }
