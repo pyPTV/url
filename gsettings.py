@@ -5,7 +5,7 @@
 [["US", "GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://t.frtyj.com/o4zvoxqry8?aff_id=40075&offer_id=3343&nopop=1"]],
+ ["https://t.frtyj.com/ybs24xhow0?aff_id=55688&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],  
 [["ZZ"], ["https://t.frtyj.com/l727wnb2ps?aff_id=54455&offer_id=3343&nopop=1"]]  
@@ -18,7 +18,7 @@
 [["US", "GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://t.frtyj.com/o4zvoxqry8?aff_id=40075&offer_id=3343&nopop=1"]],
+ ["https://t.frtyj.com/ybs24xhow0?aff_id=55688&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 [["ZZ"], ["https://t.frtyj.com/l727wnb2ps?aff_id=54455&offer_id=3343&nopop=1"]]              
