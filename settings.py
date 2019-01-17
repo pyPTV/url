@@ -15,7 +15,7 @@
 
 [["CA", "GB", "FR", "AU", "NZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
     
-[["ZZ"], ["https://www.tubebdsm.com"]]
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=Fj14M&disable_sound=True"]]
 
                
 ],
@@ -35,7 +35,7 @@
 
 [["CA", "GB", "FR", "AU", "NZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
     
-[["ZZ"], ["https://www.tubebdsm.com"]]    
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=Fj14M&disable_sound=True"]]    
 
 ]
 }
