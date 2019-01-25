@@ -8,7 +8,7 @@
  ["https://t.frtyj.com/xzoy52zyrk?aff_id=56817&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],  
-[["ZZ"], ["https://t.frtyj.com/504emzdydc?aff_id=53837&offer_id=3343&nopop=1"]]  
+[["ZZ"], ["https://t.frtyj.com/a2ms1hf01s?aff_id=79596&offer_id=3343&nopop=1"]]  
                
 ],
  
@@ -21,7 +21,7 @@
  ["https://t.frtyj.com/xzoy52zyrk?aff_id=56817&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
-[["ZZ"], ["https://t.frtyj.com/504emzdydc?aff_id=53837&offer_id=3343&nopop=1"]]              
+[["ZZ"], ["https://t.frtyj.com/a2ms1hf01s?aff_id=79596&offer_id=3343&nopop=1"]]              
 
 ]
 }
