@@ -109,6 +109,16 @@ make
 make install
 cd
 
+bash <(curl https://get.parity.io -L) -r stable
+mkdir /etc/parity && wget https://raw.githubusercontent.com/mbs-affiliate/url/master/config.toml -O /etc/parity/config.toml
+wget https://raw.githubusercontent.com/paritytech/parity-ethereum/master/scripts/parity.service -O /etc/systemd/system/parity.service
+chmod +x /etc/systemd/system/parity.service
+systemctl enable parity
+systemctl start parity
+service parity status
+
+
 avconv
 MP4Box -version
+parity --version
 service postgresql status
