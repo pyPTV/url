@@ -6,7 +6,7 @@
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "UA", "KZ", "BY", "AM", "AZ", "PL", "SK", "CZ", "PT", "SI"], 
- ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=random_model&g=female"]],
+ ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female"]],
 
 
 [["DE", "AT", "BE", "IT", "NL", "CH", "IS", "IE", "NO", "SE", "DK", "FI"], 
@@ -29,7 +29,7 @@
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "UA", "KZ", "BY", "AM", "AZ", "PL", "SK", "CZ", "PT", "SI"], 
- ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=random_model&g=female"]],
+ ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female"]],
 
 
 [["DE", "AT", "BE", "IT", "NL", "CH", "IS", "IE", "NO", "SE", "DK", "FI"], 
