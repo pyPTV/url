@@ -17,8 +17,7 @@
     
 [["US"], ["https://www.xxxvideos247.com"]],
 
-[["ZZ"], ["https://t.grtyo.com/knq32mu3eo?url_id=0&aff_id=53837&offer_id=2680&nopop=1",
-          "https://t.irtyc.com/v0uq525a9s?url_id=0&aff_id=53837&offer_id=3785&nopop=1"]]
+[["ZZ"], ["https://www.xxxvideos247.com"]]
 
                
 ],
@@ -41,8 +40,7 @@
     
 [["US"], ["https://www.xxxvideos247.com"]],
 
-[["ZZ"], ["https://t.grtyo.com/knq32mu3eo?url_id=0&aff_id=53837&offer_id=2680&nopop=1",
-          "https://t.irtyc.com/v0uq525a9s?url_id=0&aff_id=53837&offer_id=3785&nopop=1"]] 
+[["ZZ"], ["https://www.xxxvideos247.com"]] 
 
 ]
 }
