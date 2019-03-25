@@ -7,7 +7,7 @@
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "AZ", "PL", "LI"], 
- ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female"]],
+ ["https://bongacams2.com/track?c=332288"]],
 
 [["CZ", "ES", "FI", "IL", "SK",
   "SI", "LV", "LT", "GR", "ES",
@@ -39,7 +39,7 @@
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "AZ", "PL", "LI"], 
- ["https://promo-bc.com/promo.php?type=direct_link&c=332288&amute=1&page=popular_chat&g=female"]],
+ ["https://bongacams2.com/track?c=332288"]],
 
 [["CZ", "ES", "FI", "IL", "SK",
   "SI", "LV", "LT", "GR", "ES",
