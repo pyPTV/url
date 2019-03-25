@@ -10,12 +10,15 @@
 
 
 [["DE", "AT", "BE", "IT", "NL", "CH", "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://t.grtyo.com/knq32mu3eo?url_id=0&aff_id=53837&offer_id=2680&nopop=1",
-  "https://t.irtyc.com/v0uq525a9s?url_id=0&aff_id=53837&offer_id=3785&nopop=1"]],
+ ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
-[["CA", "GB", "FR", "AU", "NZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
+[["CA", "GB", "FR", "AU", "NZ"], 
+ ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
     
-[["ZZ"], ["https://www.xxxvideos247.com"]]
+[["US"], ["https://www.xxxvideos247.com"]],
+
+[["ZZ"], ["https://t.grtyo.com/knq32mu3eo?url_id=0&aff_id=53837&offer_id=2680&nopop=1",
+          "https://t.irtyc.com/v0uq525a9s?url_id=0&aff_id=53837&offer_id=3785&nopop=1"]]
 
                
 ],
@@ -31,13 +34,15 @@
 
 
 [["DE", "AT", "BE", "IT", "NL", "CH", "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://t.grtyo.com/knq32mu3eo?url_id=0&aff_id=53837&offer_id=2680&nopop=1",
-  "https://t.irtyc.com/v0uq525a9s?url_id=0&aff_id=53837&offer_id=3785&nopop=1"]],
+ ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
-
-[["CA", "GB", "FR", "AU", "NZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
+[["CA", "GB", "FR", "AU", "NZ"], 
+ ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
     
-[["ZZ"], ["https://www.xxxvideos247.com"]]    
+[["US"], ["https://www.xxxvideos247.com"]],
+
+[["ZZ"], ["https://t.grtyo.com/knq32mu3eo?url_id=0&aff_id=53837&offer_id=2680&nopop=1",
+          "https://t.irtyc.com/v0uq525a9s?url_id=0&aff_id=53837&offer_id=3785&nopop=1"]] 
 
 ]
 }
