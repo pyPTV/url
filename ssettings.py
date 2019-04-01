@@ -6,7 +6,7 @@
   "BE", "IS", "IE", "NO", "SE", 
   "DK", "FI", "SG", "JP", "TW", 
   "KR"],
-["https://www.transangels.com/landing/tgp?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 [["CZ", "ES", "IL", "SK", "SI", 
   "LV", "LT", "GR", "ES", "LI", 
@@ -32,7 +32,7 @@
   "BE", "IS", "IE", "NO", "SE", 
   "DK", "FI", "SG", "JP", "TW", 
   "KR"],
-["https://www.transangels.com/landing/tgp?ats=eyJhIjoyOTAwMzYsImMiOjU2NTk0NjU1LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 [["CZ", "ES", "IL", "SK", "SI", 
   "LV", "LT", "GR", "ES", "LI", 
