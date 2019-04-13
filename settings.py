@@ -15,7 +15,8 @@
   "HU", "TR", "CY", "BG", "PT",
   "SG", "ZA", "HR", "PT", "SG",
   "MK", "BH", "JO", "RS", "AR",
-  "KZ", "MX", "MD", "BA", "BE"], ["https://bongacams2.com/track?c=332289"]],
+  "KZ", "MX", "MD", "BA", "BE"], 
+ ["https://bongacams2.com/track?c=332289"]],
 
 [["DE", "AT", "IT", "NL", "CH", 
   "IS", "IE", "NO", "SE", "DK",
@@ -43,7 +44,8 @@
   "HU", "TR", "CY", "BG", "PT",
   "SG", "ZA", "HR", "PT", "SG",
   "MK", "BH", "JO", "RS", "AR",
-  "KZ", "MX", "MD", "BA", "BE"], ["https://bongacams2.com/track?c=332289"]],
+  "KZ", "MX", "MD", "BA", "BE"], 
+ ["https://bongacams2.com/track?c=332289"]],
 
 [["DE", "AT", "IT", "NL", "CH", 
   "IS", "IE", "NO", "SE", "DK",
