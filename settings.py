@@ -22,8 +22,10 @@
   "IS", "IE", "NO", "SE", "DK",
   "CA", "GB", "FR", "AU", "NZ"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
-    
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]]
+
+[["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True]],
+
+[["ZZ"], ["https://www.xxxvideos247.com"]]
 
                
 ],
@@ -52,7 +54,9 @@
   "CA", "GB", "FR", "AU", "NZ"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
     
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]]
+[["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True]],
+
+[["ZZ"], ["https://www.xxxvideos247.com"]]
 
 ]
 }
