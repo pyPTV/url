@@ -2,8 +2,7 @@
     "mobile":
 [
 
-[["IN", "PH", "ID", "TH", "VN", 
-  "TW", "KR", "CN", "MY", "JP"], 
+[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY", "JP"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "AZ", "PL", "LI"], 
@@ -37,8 +36,7 @@
     "desktop":
 [
 
-[["IN", "PH", "ID", "TH", "VN", 
-  "TW", "KR", "CN", "MY", "JP"], 
+[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY", "JP"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "AZ", "PL", "LI"], 
