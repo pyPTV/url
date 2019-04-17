@@ -18,10 +18,9 @@
   "KZ", "MX", "MD", "BA", "BE"], 
  ["https://bongacams2.com/track?c=332289"]],
 
-[["IT", "NO", "SE", "DK"], 
- ["https://promo-bc.com/promo.php?type=direct_link&c=332289&amute=1&page=popular_chat"]],
 
-[["NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ"], 
+
+[["NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
 [["AT", "DE", "CH"], 
@@ -54,10 +53,8 @@
   "KZ", "MX", "MD", "BA", "BE"], 
  ["https://bongacams2.com/track?c=332289"]],
 
-[["IT", "NO", "SE", "DK"], 
- ["https://promo-bc.com/promo.php?type=direct_link&c=332289&amute=1&page=popular_chat"]],
 
-[["NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ"], 
+[["NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
 [["AT", "DE", "CH"], 
