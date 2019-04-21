@@ -23,8 +23,7 @@
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
 [["AT", "DE", "CH"], 
- ["https://t.frtyi.com/vv5yd535kw?url_id=0&aff_id=55931&offer_id=2456&nopop=1",
-  "https://t.frtyi.com/jqmlpwtmo?url_id=0&aff_id=55931&offer_id=645&nopop=1"]],
+ ["https://t.frtyi.com/7j7bcfh8e8?url_id=0&aff_id=55931&offer_id=2456&nopop=1"]],
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
@@ -56,8 +55,7 @@
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
 [["AT", "DE", "CH"], 
- ["https://t.frtyi.com/vv5yd535kw?url_id=0&aff_id=55931&offer_id=2456&nopop=1",
-  "https://t.frtyi.com/jqmlpwtmo?url_id=0&aff_id=55931&offer_id=645&nopop=1"]],
+ ["https://t.frtyi.com/7j7bcfh8e8?url_id=0&aff_id=55931&offer_id=2456&nopop=1"]],
     
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
