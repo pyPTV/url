@@ -18,12 +18,8 @@
  ["https://bongacams2.com/track?c=332289"]],
 
 
-
-[["NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
+[["AT", "DE", "CH", "NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
-
-[["AT", "DE", "CH"], 
- ["https://t.frtyi.com/7j7bcfh8e8?url_id=0&aff_id=55931&offer_id=2456&nopop=1"]],
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
@@ -51,11 +47,9 @@
  ["https://bongacams2.com/track?c=332289"]],
 
 
-[["NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
+[["AT", "DE", "CH", "NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=5EcqX&disable_sound=True"]],
 
-[["AT", "DE", "CH"], 
- ["https://t.frtyi.com/7j7bcfh8e8?url_id=0&aff_id=55931&offer_id=2456&nopop=1"]],
     
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
