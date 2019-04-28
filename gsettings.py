@@ -5,10 +5,10 @@
 [["US", "GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://t.frtyj.com/bvrxyu5e2o?url_id=0&aff_id=59764&offer_id=3343&nopop=1"]],
+ ["https://t.frtyj.com/ec490vig5c?url_id=0&aff_id=56817&offer_id=3343&nopop=1"]],
                                         
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],  
-[["ZZ"], ["https://t.frtyj.com/7kbqksgslc?url_id=0&aff_id=56817&offer_id=3343&nopop=1"]]  
+[["ZZ"], ["https://t.frtyj.com/70wbjn1s8w?url_id=0&aff_id=55931&offer_id=3343&nopop=1"]]  
                
 ],
  
@@ -18,10 +18,10 @@
 [["US", "GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
- ["https://t.frtyj.com/bvrxyu5e2o?url_id=0&aff_id=59764&offer_id=3343&nopop=1"]],
+ ["https://t.frtyj.com/ec490vig5c?url_id=0&aff_id=56817&offer_id=3343&nopop=1"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
-[["ZZ"], ["https://t.frtyj.com/7kbqksgslc?url_id=0&aff_id=56817&offer_id=3343&nopop=1"]]              
+[["ZZ"], ["https://t.frtyj.com/70wbjn1s8w?url_id=0&aff_id=55931&offer_id=3343&nopop=1"]]              
 
 ]
 }
