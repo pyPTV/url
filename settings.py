@@ -19,7 +19,8 @@
 
 
 [["AT", "DE", "CH", "NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
- ["https://www.xxxvideos247.com"]],
+ ["https://t.hrtya.com/9zzi4p7olc?url_id=17846&aff_id=82882&offer_id=3640&nopop=1",
+  "https://t.hrtya.com/4tttn8rlz4?url_id=16948&aff_id=82882&offer_id=3640&nopop=1"]],
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
@@ -48,7 +49,8 @@
 
 
 [["AT", "DE", "CH", "NL", "IS", "IE", "CA", "GB", "FR", "AU", "NZ", "IT", "NO", "SE", "DK"], 
- ["https://www.xxxvideos247.com"]],
+ ["https://t.hrtya.com/9zzi4p7olc?url_id=17846&aff_id=82882&offer_id=3640&nopop=1",
+  "https://t.hrtya.com/4tttn8rlz4?url_id=16948&aff_id=82882&offer_id=3640&nopop=1"]],
 
     
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
