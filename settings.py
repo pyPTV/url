@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY", "JP"], 
+[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "AZ", "PL", "LI", 
@@ -22,7 +22,7 @@
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]]
+[["ZZ"], ["https://t.frtyn.com/ak1fbury0w?url_id=15876&aff_id=82882&offer_id=1725&nopop=1"]]
 
                
 ],
@@ -30,7 +30,7 @@
     "desktop":
 [
 
-[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY", "JP"], 
+[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "AZ", "PL", "LI", 
@@ -50,7 +50,7 @@
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
-[["ZZ"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]]
+[["ZZ"], ["https://t.frtyn.com/ak1fbury0w?url_id=15876&aff_id=82882&offer_id=1725&nopop=1"]]
 
 ]
 }
