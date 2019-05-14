@@ -2,16 +2,14 @@
     "mobile":
 [
 
-[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY"], 
+[["IN", "PH", "ID", "TH", "VN", "KR", "CN", "MY"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
-[["RU", "AM", "AZ", "PL", "LI", 
-  "CZ", "IL", "SK", "SI", "LV", 
-  "LT", "GR", "ES", "BY", "UA", 
-  "AE", "RO", "HU", "TR", "CY", 
-  "IT", "SG", "ZA", "HR", "SG",
-  "MK", "BH", "JO", "RS", "AR",
-  "KZ", "MX", "MD", "BA"], ["https://bongacams2.com/track?c=332289"]],
+[["RU", "AM", "PL", "LI", "CZ", 
+  "SK", "SI", "LV", "LT", "BY", 
+  "UA", "AE", "RO", "HU", "TR", 
+  "ZA", "HR", "MK", "BH", "JO", 
+  "RS", "AR", "KZ", "MD", "BA"], ["https://bongacams2.com/track?c=332289"]],
 
 [["AT", "AU", "BE", "CA", "DK",
   "FI", "FR", "DE", "IE", "IS",
@@ -30,16 +28,14 @@
     "desktop":
 [
 
-[["IN", "PH", "ID", "TH", "VN", "TW", "KR", "CN", "MY"], 
+[["IN", "PH", "ID", "TH", "VN", "KR", "CN", "MY"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
-[["RU", "AM", "AZ", "PL", "LI", 
-  "CZ", "IL", "SK", "SI", "LV", 
-  "LT", "GR", "ES", "BY", "UA", 
-  "AE", "RO", "HU", "TR", "CY", 
-  "IT", "SG", "ZA", "HR", "SG",
-  "MK", "BH", "JO", "RS", "AR",
-  "KZ", "MX", "MD", "BA"], ["https://bongacams2.com/track?c=332289"]],
+[["RU", "AM", "PL", "LI", "CZ", 
+  "SK", "SI", "LV", "LT", "BY", 
+  "UA", "AE", "RO", "HU", "TR", 
+  "ZA", "HR", "MK", "BH", "JO", 
+  "RS", "AR", "KZ", "MD", "BA"], ["https://bongacams2.com/track?c=332289"]],
 
 [["AT", "AU", "BE", "CA", "DK",
   "FI", "FR", "DE", "IE", "IS",
