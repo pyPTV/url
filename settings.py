@@ -15,11 +15,11 @@
   "FI", "FR", "DE", "IE", "IS",
   "JP", "LU", "NL", "NZ", "NO",
   "PT", "ES", "SE", "CH", "GB"],
- ["https://t.grtyv.com/4ht0zniakg?url_id=0&aff_id=82882&offer_id=3826&nopop=1"]],
+ ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=AconN&disable_sound=True"]],
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
-[["ZZ"], ["https://t.grtyv.com/4ht0zniakg?url_id=0&aff_id=82882&offer_id=3826&nopop=1"]]
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=AconN&disable_sound=True"]]
 
                
 ],
@@ -40,11 +40,11 @@
   "FI", "FR", "DE", "IE", "IS",
   "JP", "LU", "NL", "NZ", "NO",
   "PT", "ES", "SE", "CH", "GB"],
- ["https://t.grtyv.com/4ht0zniakg?url_id=0&aff_id=82882&offer_id=3826&nopop=1"]],
+ ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=AconN&disable_sound=True"]],
 
 [["US"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
 
-[["ZZ"], ["https://t.grtyv.com/4ht0zniakg?url_id=0&aff_id=82882&offer_id=3826&nopop=1"]]
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=AconN&disable_sound=True"]]
 
 ]
 }
