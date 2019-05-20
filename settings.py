@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["IN", "PH", "ID", "TH", "VN", "KR", "CN", "MY"], 
+[["IN", "PH", "ID", "TH", "VN", "KR", "CN", "MY", "TW", "SG", "JP"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "PL", "LI", "CZ", 
@@ -13,7 +13,7 @@
 
 [["AT", "AU", "BE", "CA", "DK",
   "FI", "FR", "DE", "IE", "IS",
-  "JP", "LU", "NL", "NZ", "NO",
+  "LU", "NL", "NZ", "NO",
   "PT", "ES", "SE", "CH", "GB"],
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=AconN&disable_sound=True"]],
 
@@ -27,7 +27,7 @@
     "desktop":
 [
 
-[["IN", "PH", "ID", "TH", "VN", "KR", "CN", "MY"], 
+[["IN", "PH", "ID", "TH", "VN", "KR", "CN", "MY", "TW", "SG", "JP"], 
  ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]],
     
 [["RU", "AM", "PL", "LI", "CZ", 
@@ -38,7 +38,7 @@
 
 [["AT", "AU", "BE", "CA", "DK",
   "FI", "FR", "DE", "IE", "IS",
-  "JP", "LU", "NL", "NZ", "NO",
+  "LU", "NL", "NZ", "NO",
   "PT", "ES", "SE", "CH", "GB"],
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=AconN&disable_sound=True"]],
 
