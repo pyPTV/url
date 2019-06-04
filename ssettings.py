@@ -2,7 +2,7 @@
 "mobile": [
 
 
-[["US"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+[["US"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 
 [["CA", "AU", "NZ", "GB", "DE", 
@@ -24,7 +24,7 @@
 "desktop": [
 
 
-[["US"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
+[["US"], ["https://www.transangels.com/landing/tgp?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjozNSwicyI6NDI1LCJlIjo3ODY2LCJwIjoyfQ=="]],
 
 
 [["CA", "AU", "NZ", "GB", "DE", 
