@@ -2,7 +2,7 @@
     "mobile":
 [
 
-[["US", "FR", "GB", "AU", "CA", "NO", "CH", "NZ", "DE", "NL"], 
+[["US", "FR", "GB", "AU", "CA", "NO", "CH", "NZ", "DE", "NL", "NO", "SE", "DK"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
     
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
@@ -15,7 +15,7 @@
     "desktop":
 [
 
-[["US", "FR", "GB", "AU", "CA", "NO", "CH", "NZ", "DE", "NL"], 
+[["US", "FR", "GB", "AU", "CA", "NO", "CH", "NZ", "DE", "NL", "NO", "SE", "DK"], 
  ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=UO9ud&disable_sound=True"]],
     
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
