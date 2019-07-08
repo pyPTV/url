@@ -3,12 +3,9 @@
 
 
 [["US", "CA"], 
- ["http://join.shemalemovieworld.com/track/MjAwNjg0LjEuMTAyLjEwMy4wLjAuMC4wLjA",
-  "http://join.shemalesexhd.com/track/MjAwNjg0LjEuMTAzLjEwNC4wLjAuMC4wLjA"]],
+ ["http://join.shemalemovieworld.com/track/MjAwNjg0LjEuMTAyLjEwMy4wLjAuMC4wLjA"]],
 
-[["ZZ"], 
- ["http://join.shemalemovieworld.com/track/MjAwNjg0LjEuMTAyLjEwMy4wLjAuMC4wLjA",
-  "http://join.shemalesexhd.com/track/MjAwNjg0LjEuMTAzLjEwNC4wLjAuMC4wLjA"]]
+[["ZZ"], ["https://tgp.transangelsnetwork.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjozNSwicyI6NTQxLCJlIjo4OTkxLCJwIjoxMX0="]]
 
 
 ],
@@ -18,12 +15,9 @@
 "desktop": [
 
 [["US", "CA"], 
- ["http://join.shemalemovieworld.com/track/MjAwNjg0LjEuMTAyLjEwMy4wLjAuMC4wLjA",
-  "http://join.shemalesexhd.com/track/MjAwNjg0LjEuMTAzLjEwNC4wLjAuMC4wLjA"]],
+ ["http://join.shemalemovieworld.com/track/MjAwNjg0LjEuMTAyLjEwMy4wLjAuMC4wLjA"]],
 
-[["ZZ"], 
- ["http://join.shemalemovieworld.com/track/MjAwNjg0LjEuMTAyLjEwMy4wLjAuMC4wLjA",
-  "http://join.shemalesexhd.com/track/MjAwNjg0LjEuMTAzLjEwNC4wLjAuMC4wLjA"]]
+[["ZZ"], ["https://tgp.transangelsnetwork.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjozNSwicyI6NTQxLCJlIjo4OTkxLCJwIjoxMX0="]]
 
 
 ]}
