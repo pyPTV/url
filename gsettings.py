@@ -2,8 +2,8 @@
     "mobile":
 [
 
-[["US"], ["https://t.frtyj.com/tyilaeoedc?url_id=0&aff_id=59764&offer_id=3343&nopop=1"]], 
-[["GB", "FR", "AU", "NZ", "CA", 
+
+[["US", "GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
  ["https://t.frtyj.com/730agjufb4?url_id=0&aff_id=79596&offer_id=3343&nopop=1",
@@ -21,8 +21,8 @@
 [
 
 
-[["US"], ["https://t.frtyj.com/tyilaeoedc?url_id=0&aff_id=59764&offer_id=3343&nopop=1"]], 
-[["GB", "FR", "AU", "NZ", "CA", 
+
+[["US", "GB", "FR", "AU", "NZ", "CA", 
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
  ["https://t.frtyj.com/730agjufb4?url_id=0&aff_id=79596&offer_id=3343&nopop=1",
