@@ -4,13 +4,12 @@
 
 
 
-[["US", "CA", "FR", "DE", "GB"], 
-["https://t.frtyr.com/4gdkl1glj4?url_id=11889&aff_id=40075&offer_id=3&nopop=1"]],
+[["US", "CA", "FR", "DE", "GB", "AU", "CH", "NZ", "NL", "NO", "DK", "SE"], 
+["https://t.frtyr.com/k75w8nyozk?url_id=0&aff_id=53837&offer_id=3&nopop=1"]],
 
-[["AU", "CH", "NZ", "NL", "NO", "DK", "SE"], 
-["https://t.frtyr.com/4gdkl1glj4?url_id=11889&aff_id=40075&offer_id=3&nopop=1"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
+
 
 [["ZZ"], ["https://bongacams3.com/track?c=332289"]]
 
@@ -22,13 +21,12 @@
 
 
 
-[["US", "CA", "FR", "DE", "GB"], 
-["https://t.frtyr.com/4gdkl1glj4?url_id=11889&aff_id=40075&offer_id=3&nopop=1"]],
+[["US", "CA", "FR", "DE", "GB", "AU", "CH", "NZ", "NL", "NO", "DK", "SE"], 
+["https://t.frtyr.com/k75w8nyozk?url_id=0&aff_id=53837&offer_id=3&nopop=1"]],
 
-[["AU", "CH", "NZ", "NL", "NO", "DK", "SE"], 
-["https://t.frtyr.com/4gdkl1glj4?url_id=11889&aff_id=40075&offer_id=3&nopop=1"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
+
 
 [["ZZ"], ["https://bongacams3.com/track?c=332289"]]
 
