@@ -11,7 +11,7 @@
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
 
 
-[["ZZ"], ["https://bongacams3.com/track?c=332289"]]
+[["ZZ"], ["https://bongacams3.com/track?a=189751&p=1&camp=mobile"]]
 
                
 ],
@@ -28,7 +28,7 @@
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
 
 
-[["ZZ"], ["https://bongacams3.com/track?c=332289"]]
+[["ZZ"], ["https://bongacams3.com/track?a=189751&p=1&camp=desktop"]]
 
 ]
 }
