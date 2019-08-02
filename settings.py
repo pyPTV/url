@@ -5,7 +5,7 @@
 
 
 [["US", "CA", "FR", "DE", "GB", "AU", "CH", "NZ", "NL", "NO", "DK", "SE"], 
-["https://t.frtyr.com/db3mxcvw00?url_id=0&aff_id=82882&offer_id=3&nopop=1"]],
+["https://t.frtyr.com/yp1vpo2aio?url_id=0&aff_id=59764&offer_id=3&nopop=1"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
@@ -22,7 +22,7 @@
 
 
 [["US", "CA", "FR", "DE", "GB", "AU", "CH", "NZ", "NL", "NO", "DK", "SE"], 
-["https://t.frtyr.com/db3mxcvw00?url_id=0&aff_id=82882&offer_id=3&nopop=1"]],
+["https://t.frtyr.com/yp1vpo2aio?url_id=0&aff_id=59764&offer_id=3&nopop=1"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
