@@ -7,7 +7,8 @@
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
 ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9",
- "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTYsInAiOjJ9"]],
+ "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTYsInAiOjJ9",
+ "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
@@ -26,7 +27,8 @@
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
 ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9",
- "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTYsInAiOjJ9"]],
+ "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTYsInAiOjJ9",
+ "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
