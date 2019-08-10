@@ -2,7 +2,7 @@
 "mobile": [
 
 
-[["US"], ["http://join.shemalemovieworld.com/track/MjAwNDQyLjEuMTAyLjEwMy4wLjAuMC4wLjA"]],
+[["US", "CA"], ["https://tgp.transangelsnetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjozNSwicyI6NTQxLCJlIjo4OTkxLCJwIjoxMX0="]],
 
 [["ZZ"], ["https://tgp.transangelsnetwork.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjozNSwicyI6NTQxLCJlIjo4OTkxLCJwIjoxMX0="]]
 
@@ -13,7 +13,7 @@
 
 "desktop": [
 
-[["US"], ["http://join.shemalemovieworld.com/track/MjAwNDQyLjEuMTAyLjEwMy4wLjAuMC4wLjA"]],
+[["US", "CA"], ["https://tgp.transangelsnetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjozNSwicyI6NTQxLCJlIjo4OTkxLCJwIjoxMX0="]],
 
 [["ZZ"], ["https://tgp.transangelsnetwork.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjozNSwicyI6NTQxLCJlIjo4OTkxLCJwIjoxMX0="]]
 
