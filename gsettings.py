@@ -7,7 +7,7 @@
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
 ["https://t.frtyj.com/qejgfe1bgg?url_id=0&aff_id=55931&offer_id=2852&nopop=1",
- "http://join.allgaysitespass.com/track/MjAwOTA0LjEuMy40LjAuMC4wLjAuMA"]],
+ "http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
@@ -26,7 +26,7 @@
   "DE", "AT", "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", "DK", "FI"], 
 ["https://t.frtyj.com/qejgfe1bgg?url_id=0&aff_id=55931&offer_id=2852&nopop=1",
- "http://join.allgaysitespass.com/track/MjAwOTA0LjEuMy40LjAuMC4wLjAuMA"]],
+ "http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
