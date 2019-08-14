@@ -3,11 +3,12 @@
 [
 
 
-[["US", "GB", "FR", "AU", "NZ", "CA", 
-  "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], 
-["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9"]],
+[["US", "AU", "NZ", "CA"], ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9"]],
 
+[["GB", "FR", "DE", "AT", 
+  "BE", "IT", "NL", "CH",
+  "IS", "IE", "NO", "SE", 
+  "DK", "FI", "ES", "PT"], ["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
@@ -21,10 +22,12 @@
 
 
 
-[["US", "GB", "FR", "AU", "NZ", "CA", 
-  "DE", "AT", "BE", "IT", "NL", "CH",
-  "IS", "IE", "NO", "SE", "DK", "FI"], 
-["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9"]],
+[["US", "AU", "NZ", "CA"], ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9"]],
+
+[["GB", "FR", "DE", "AT", 
+  "BE", "IT", "NL", "CH",
+  "IS", "IE", "NO", "SE", 
+  "DK", "FI", "ES", "PT"], ["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
