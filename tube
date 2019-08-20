@@ -13,7 +13,7 @@ apt  install -y build-essential
 apt  install -y git 
 apt  install -y pkg-config 
 apt  install -y transmission-cli
-apt  install -y python-dev 
+apt  install -y python3-dev 
 apt  install -y libffi-dev 
 apt  install -y libssl-dev 
 apt  install -y libevent-dev 
@@ -74,15 +74,15 @@ apt  install -y python-opencv
 apt  install -y psmisc  # killall install
 export PATH=$PATH:/usr/local/bin
 cd
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
+#curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+#python get-pip.py
 pip  install lxml 
-pip  install psycopg2
-pip  install paramiko
+apt-get install python3-psycopg2
+#pip  install paramiko
 
 apt install install python3-pip
-pip3 install lxml psycopg2 django
-pip3 install psycopg2-binary
+pip3 install lxml django
+#pip3 install psycopg2-binary
 apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
 cd /tmp
 git clone git://github.com/requests/requests.git
