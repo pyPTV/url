@@ -81,7 +81,11 @@ apt-get install python3-psycopg2
 #pip  install paramiko
 
 apt install install python3-pip
-pip3 install lxml django
+pip3 install lxml 
+pip3 install django
+pip3 install waitress
+
+
 #pip3 install psycopg2-binary
 apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
 cd /tmp
@@ -89,8 +93,16 @@ git clone git://github.com/requests/requests.git
 cd requests
 python setup.py install
 cd
+
+
+
 pip3 install uwsgi 
 apt install uwsgi-plugin-python3 -y
+apt-get install uwsgi-plugins-all
+
+
+
+
 echo "net.core.rmem_max = 4194304" >> /etc/sysctl.conf
 echo "net.core.wmem_max = 1048576" >> /etc/sysctl.conf
 sysctl -p
