@@ -11,7 +11,7 @@
   "CZ", "SK", "SI", "PL",
   "JP", "SG", "TW", "IL",
   "HU", "LI", "LU", "GR"], 
-["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273914&cs=tour1&ar=&buffer="]],
+["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
@@ -33,7 +33,7 @@
   "CZ", "SK", "SI", "PL",
   "JP", "SG", "TW", "IL",
   "HU", "LI", "LU", "GR"], 
-["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273914&cs=tour1&ar=&buffer="]],
+["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
