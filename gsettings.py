@@ -2,8 +2,9 @@
     "mobile":
 [
 
+[["US"], ["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=270918&cs=tour1&ar=&buffer="]],
 
-[["US", "AU", "NZ", "CA",
+[["AU", "NZ", "CA",
   "GB", "FR", "DE", "AT", 
   "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", 
@@ -11,7 +12,7 @@
   "CZ", "SK", "SI", "PL",
   "JP", "SG", "TW", "IL",
   "HU", "LI", "LU", "GR"], 
-["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
+["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273914&pa=index&ar=&buffer="]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
@@ -24,8 +25,9 @@
 [
 
 
-
-[["US", "AU", "NZ", "CA",
+[["US"], ["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=270918&cs=tour1&ar=&buffer="]],
+ 
+[["AU", "NZ", "CA",
   "GB", "FR", "DE", "AT", 
   "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", 
@@ -33,7 +35,7 @@
   "CZ", "SK", "SI", "PL",
   "JP", "SG", "TW", "IL",
   "HU", "LI", "LU", "GR"], 
-["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
+["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273914&pa=index&ar=&buffer="]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
