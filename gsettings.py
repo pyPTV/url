@@ -2,9 +2,9 @@
     "mobile":
 [
 
-[["US"], ["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=270918&cs=tour1&ar=&buffer="]],
 
-[["AU", "NZ", "CA",
+
+[["US", "AU", "NZ", "CA",
   "GB", "FR", "DE", "AT", 
   "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", 
@@ -25,9 +25,8 @@
 [
 
 
-[["US"], ["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=270918&cs=tour1&ar=&buffer="]],
  
-[["AU", "NZ", "CA",
+[["US", "AU", "NZ", "CA",
   "GB", "FR", "DE", "AT", 
   "BE", "IT", "NL", "CH",
   "IS", "IE", "NO", "SE", 
