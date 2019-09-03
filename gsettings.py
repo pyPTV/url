@@ -12,7 +12,7 @@
   "CZ", "SK", "SI", "PL",
   "JP", "SG", "TW", "IL",
   "HU", "LI", "LU", "GR"], 
-["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA", 
+["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA", 
  "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&cs=tour1&ar=&buffer=",
  "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&pa=index&ar=&buffer="]],
 
@@ -36,7 +36,7 @@
   "CZ", "SK", "SI", "PL",
   "JP", "SG", "TW", "IL",
   "HU", "LI", "LU", "GR"], 
-["http://join.allgaysitespass.com/track/MjAwNDQyLjEuMy40LjAuMC4wLjAuMA", 
+["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA", 
  "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&cs=tour1&ar=&buffer=",
  "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&pa=index&ar=&buffer="]],
 
