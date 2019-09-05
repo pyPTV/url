@@ -12,9 +12,7 @@
   "CH", "ES", "PT", "CZ", 
   "SK", "SI", "PL", "JP", 
   "SG", "TW", "HU", "GR"], 
-["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA", 
- "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&cs=tour1&ar=&buffer=",
- "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&pa=index&ar=&buffer="]],
+["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
@@ -38,9 +36,7 @@
   "CH", "ES", "PT", "CZ", 
   "SK", "SI", "PL", "JP", 
   "SG", "TW", "HU", "GR"], 
-["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA", 
- "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&cs=tour1&ar=&buffer=",
- "https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273969&pa=index&ar=&buffer="]],
+["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
