@@ -12,7 +12,7 @@
   "DE", "ES", "PT", "CZ", 
   "SK", "SI", "PL", "JP", 
   "SG", "TW", "HU", "GR"], 
-["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
+["http://join.allgaysitespass.com/track/MjAxMDE4LjEuMy40LjAuMC4wLjAuMA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
@@ -36,7 +36,7 @@
   "DE", "ES", "PT", "CZ", 
   "SK", "SI", "PL", "JP", 
   "SG", "TW", "HU", "GR"], 
-["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
+["http://join.allgaysitespass.com/track/MjAxMDE4LjEuMy40LjAuMC4wLjAuMA"]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
