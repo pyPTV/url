@@ -26,6 +26,7 @@
 
 [["US"], ["http://join.allgaysitespass.com/track/MjAxMDE4LjEuMy40LjAuMC4wLjAuMA"]],
  
+
 [["BE", "IT", "AT", "IS", 
   "IE", "NO", "SE", "DK", 
   "FI", "LI", "LU", "AU", 
@@ -34,8 +35,6 @@
 ["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273894&cs=tour1&ar=&buffer="]], 
 
 
-[["CA", "GB", "DE"], 
-["https://www.buddylead.com/iconmale/go.php?pr=9&su=2&si=79&ad=273894&cs=tour1&ar=&buffer="]],
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
 
