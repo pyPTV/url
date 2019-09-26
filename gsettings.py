@@ -3,6 +3,7 @@
 [
 
 
+[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
 
 [["BE", "IT", "AT", "IS", 
   "IE", "NO", "SE", "DK", 
@@ -24,7 +25,7 @@
 [
 
 
-
+[["US"], ["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
 
 [["BE", "IT", "AT", "IS", 
   "IE", "NO", "SE", "DK", 
