@@ -3,7 +3,7 @@
 [
 
 
-[["US", "CA"], ["http://join.allgaysitespass.com/track/MjAwOTA0LjEuMy40LjAuMC4wLjAuMA"]],
+[["US"], ["http://join.allgaysitespass.com/track/MjAwOTA0LjEuMy40LjAuMC4wLjAuMA"]],
 
 [["BE", "IT", "AT", "IS", 
   "IE", "NO", "SE", "DK", 
@@ -25,7 +25,7 @@
 [
 
 
-[["US", "CA"], ["http://join.allgaysitespass.com/track/MjAwOTA0LjEuMy40LjAuMC4wLjAuMA"]],
+[["US"], ["http://join.allgaysitespass.com/track/MjAwOTA0LjEuMy40LjAuMC4wLjAuMA"]],
 
 [["BE", "IT", "AT", "IS", 
   "IE", "NO", "SE", "DK", 
