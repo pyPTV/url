@@ -9,7 +9,7 @@
   "IE", "NO", "SE", "DK", 
   "FI", "AU", "NZ", "CH",
   "FR", "DE", "NL", "GB"], 
-["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
+["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
 
 
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://gay.com"]],
@@ -31,7 +31,7 @@
   "IE", "NO", "SE", "DK", 
   "FI", "AU", "NZ", "CH",
   "FR", "DE", "NL", "GB"], 
-["http://join.allgaysitespass.com/track/MjAwMjYyLjEuMy40LjAuMC4wLjAuMA"]],
+["http://www2.euroboyxxx.com/track/NjAwMDAwMDIzNi44LjM2LjIwMy4wLjAuMC4wLjA"]],
 
 
 
