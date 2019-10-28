@@ -72,6 +72,7 @@ apt  install -y libx264-dev
 apt  install -y yasm
 apt  install -y python-opencv
 apt  install -y psmisc  # killall install
+apt-get install -y p7zip-rar p7zip-full
 export PATH=$PATH:/usr/local/bin
 cd
 #curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
