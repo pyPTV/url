@@ -34,6 +34,7 @@ apt  install -y libdv4-dev					# Library for DV format digital video
 apt  install -y libdvbpsi-dev				# Library for MPEG TS and DVB PSI tables decoding and generating
 apt  install -y libfaac-dev					# AAC audio encoder
 apt  install -y libfaad-dev					# Advanced Audio Decoder
+apt  install -y libfdk-aac-dev
 apt  install -y libflac++-dev				# Free Lossless Audio Codec
 apt  install -y libgpac-dev					# GPAC - an implementation of the MPEG-4 Systems standard
 apt  install -y libmad0-dev					# MPEG audio decoder
