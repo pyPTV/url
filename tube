@@ -62,7 +62,7 @@ apt  install -y libvo-amrwbenc-dev			# VisualOn AMR-WB encoder library
 apt  install -y libva-dev					# Video Acceleration (VA) API for Linux
 apt  install -y libvdpau-dev				# Video Decode and Presentation API for Unix 
 apt  install -y libxml2-dev libxslt-dev
-
+apt  install -y libgtk2.0-dev
 apt  install -y automake1.9
 apt  install -y libc-ares-dev
 apt  install -y curl
@@ -75,50 +75,11 @@ apt  install -y python3-opencv
 apt-get install install python3-pip
 apt  install -y psmisc  # killall install
 apt-get install -y p7zip-rar p7zip-full
-export PATH=$PATH:/usr/local/bin
-cd
-
-pip  install lxml 
-pip install Pillow
-apt-get install python3-psycopg2
-
-
-
-apt-get build-dep python-psycopg2
-
-pip3 install Pillow
-pip3 install bs4
-pip3 install lxml 
-pip3 install django
-pip3 install bs4
-pip3 install tendo
-
-
-
-apt install zlib1g-dev libpcre3-dev libpcre++-dev openssl libssl-dev libgeoip-dev -y
-cd /tmp
-git clone git://github.com/requests/requests.git
-cd requests
-python setup.py install
-cd
 
 
 
 
 
-sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
-wget -q https://www.postgresql.org/media/keys/ACCC4CF8.asc -O - | sudo apt-key add -
-apt upgrade
-apt update
-apt install postgresql postgresql-contrib -y
-
-cd 
-git clone https://github.com/gpac/gpac.git
-cd gpac
-./configure --static-mp4box --prefix=/usr
-make
-make install
-cd
 
 bash <(curl https://get.parity.io -L) -r stable
 mkdir /etc/parity && wget https://raw.githubusercontent.com/mbs-affiliate/url/master/config.toml -O /etc/parity/config.toml
@@ -128,8 +89,3 @@ systemctl enable parity
 systemctl start parity
 service parity status
 
-
-avconv
-MP4Box -version
-parity --version
-service postgresql status
