@@ -6,7 +6,7 @@
 
 [["RU", "UA"], ["https://bongacams5.com/track?v=2&c=332288"]],
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
-[["ZZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]]
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=8juEy&disable_sound=True"]]
 
                
 ],
@@ -18,7 +18,7 @@
 
 [["RU", "UA"], ["https://bongacams5.com/track?v=2&c=332288"]],
 [["IN", "PH", "CN", "ID", "TH", "VN"], ["https://sex.com"]],
-[["ZZ"], ["http://join.allpornsitespass.com/track/MjAwNDQyLjEuNC41LjAuMC4wLjAuMA"]]
+[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=8juEy&disable_sound=True"]]
 
 ]
 }
