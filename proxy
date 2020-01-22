@@ -14,10 +14,9 @@ nscache 65536
 nserver 8.8.8.8
 nserver 8.8.4.4
 timeouts 1 5 30 60 180 1800 15 60
-auth iponly
-allow * 95.141.36.180
-allow * 95.27.43.24
-allow * 95.141.36.99
+users alex:CL:elcpass
+auth strong
+allow user
 proxy -n -p2358 -a
 
 EOF
