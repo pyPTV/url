@@ -4,10 +4,11 @@ apt-get update
 apt install -y build-essential 
 apt install -y libevent-dev 
 apt install -y libssl-dev
-add-apt-repository -y ppa:artyom.h31/3proxy
+wget https://github.com/z3APA3A/3proxy/archive/0.8.13.tar.gz
+#add-apt-repository -y ppa:artyom.h31/3proxy
 apt update
-apt install -y 3proxy
-service 3proxy stop
+#apt install -y 3proxy
+#service 3proxy stop
 cat <<EOF > /etc/3proxy/3proxy.cfg
 nscache 65536
 nserver 8.8.8.8
