@@ -23,7 +23,7 @@ dns_nameservers 8.8.8.8 8.8.4.4
 positive_dns_ttl 6 hours
 negative_dns_ttl 1 minutes
 
-auth_param basic program /usr/lib/squid/ncsa_auth  /etc/squid/pass
+auth_param basic program /usr/lib/squid/basic_ncsa_auth  /etc/squid/pass
 auth_param basic children 5
 auth_param basic realm ServerName
 auth_param basic credentialsttl 24 hour
@@ -96,7 +96,7 @@ debug_options ALL,5
 EOF
 
 echo 'alex:elcpass' > /etc/squid/pass
-
+chmod 775 /etc/squid/pass
 
 
 
