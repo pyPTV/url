@@ -31,7 +31,7 @@ auth_param basic children 5
 auth_param basic realm ServerName
 auth_param basic credentialsttl 24 hour
 
-acl all src 0.0.0.0/0
+
 acl ncsa_users proxy_auth REQUIRED
 
 
@@ -99,5 +99,5 @@ EOF
 
 echo 'user1:$apr1$FZeV00GX$avazDffp6clww.2Y5Abn11' > /etc/squid/pass
 chmod 775 /etc/squid/pass
-/etc/init.d/squid start
+/usr/sbin/squid -YC -f /etc/squid/squid.conf
 
