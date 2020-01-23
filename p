@@ -12,9 +12,6 @@ http_port 2358
 visible_hostname squidworth
 
 acl manager proto cache_object
-acl localhost src 127.0.0.1/32 ::1
-acl to_localhost dst 127.0.0.0/8 0.0.0.0/32 ::1
-
 
 
 refresh_pattern ^ftp:           1440    20%     10080
@@ -54,13 +51,10 @@ acl Safe_ports port 777         # multiling http
 
 acl CONNECT method CONNECT
 
-http_access allow manager localhost
-http_access deny manager
 http_access allow password
 http_access allow Safe_ports
 http_access allow CONNECT SSL_ports
 http_access allow localnet
-http_access allow localhost
 http_access deny all
 
 request_header_access Allow allow all
@@ -103,6 +97,6 @@ EOF
 
 echo 'alex:elcpass' > /etc/squid/pass
 
-/etc/init.d/squid start
+
 
 
