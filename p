@@ -9,7 +9,7 @@ sysctl -p
 apt-get install -y squid3 apache2-utils
 
 
-cat <<EOF > /etc/squid/squid3.conf
+cat <<EOF > /etc/squid/squid.conf
 http_port 2358
 visible_hostname squidworth
 auth_param basic program /usr/lib/squid3/ncsa_auth /etc/squid/passwd
