@@ -7,6 +7,8 @@ apt install -y libssl-dev
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
 apt-get -y install squid3
+
+
 cat <<EOF > /etc/3proxy/3proxy.cfg
 http_port 2358
 icp_port  0
@@ -30,7 +32,7 @@ dns_nameservers 8.8.8.8 8.8.4.4
 positive_dns_ttl 6 hours
 negative_dns_ttl 1 minutes
 
-auth_param basic program /usr/lib/squid3/basic_ncsa_auth /etc/squid3/password
+auth_param basic program /usr/lib/squid3/basic_ncsa_auth /etc/squid3/users
 auth_param basic children 5
 auth_param basic realm ServerName
 auth_param basic credentialsttl 24 hour
@@ -66,16 +68,44 @@ http_access allow CONNECT SSL_ports
 http_access allow localnet
 http_access deny all
 
-request_header_access X-Forwarded-For deny all
-request_header_access Via deny all
-request_header_access Cache-Control deny all
 
+header_access Allow allow all
+header_access Authorization allow all
+header_access Cache-Control allow all
+header_access Content-Encoding allow all
+header_access Content-Length allow all
+header_access Content-Type allow all
+header_access Date allow all
+header_access Expires allow all
+header_access Host allow all
+header_access If-Modified-Since allow all
+header_access Last-Modified allow all
+header_access Location allow all
+header_access Pragma allow all
+header_access Accept allow all
+header_access Accept-Enncoding allow all
+header_access Accept-Language allow all
+header_access Content-Language allow all
+header_access Mime-Version allow all
+header_access Cookie allow all
+header_access Set_Cookie allow all
+header_access Retry-After allow all
+header_access Title allow all
+header_access Connection allow all
+header_access Proxy-Connection allow all
+header_access All deny all
+
+via off
+forwarded_for delete
 
 EOF
 
-cat <<EOF > /etc/squid3/password
+cat <<EOF > /etc/squid3/users
 alex:elcpass
 user2:pas45rd
 
 EOF
+cd /var/spool
+mkdir squid3
+
 service squid3 start
