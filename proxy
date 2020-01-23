@@ -6,34 +6,31 @@ apt install -y libevent-dev
 apt install -y libssl-dev
 add-apt-repository -y ppa:artyom.h31/3proxy
 apt update
-echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
-sysctl -p
 apt install -y 3proxy
 service 3proxy stop
-ip=$(ifconfig eth0 | grep "inet addr" | cut -d ':' -f 2 | cut -d ' ' -f 1)
-
 cat <<EOF > /etc/3proxy/3proxy.cfg
+nscache 65536
 nserver 8.8.8.8
 nserver 8.8.4.4
-nscache 65536
-external $ip
-internal $ip
 timeouts 1 5 30 60 180 1800 15 60
-pidfile /tmp/3proxy.pid
-daemon
-maxconn 32
-setgid 65534
-setuid 65534
-users alex:CL:elcpass
-auth strong
-allow user
-proxy -n -p2358
-socks -p7835
-auth strong
-flush
-
+auth None
+proxy -n -p2358 -a
 EOF
 
-/usr/bin/3proxy /etc/3proxy/3proxy.cfg
+cat <<EOF >  /etc/systemd/system/3proxy.proxy.service
+[Unit]
+Description=Simple proxy (3proxy) service
+After=network.target
+[Service]
+User=nobody
+Group=nogroup
+ExecStart=/usr/bin/3proxy /etc/3proxy/3proxy.cfg
+[Install]
+WantedBy=multi-user.target
+EOF
+
+systemctl start 3proxy
+echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
+sysctl -p
 
 
