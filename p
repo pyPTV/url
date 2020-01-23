@@ -97,6 +97,6 @@ EOF
 
 echo 'alex:elcpass' > /etc/squid/pass
 
-service squid3 start
+/etc/init.d/squid start
 
 
