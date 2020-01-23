@@ -6,7 +6,7 @@ apt install -y libevent-dev
 apt install -y libssl-dev
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
-apt-get -y install squid3
+apt-get install squid3, apache2-utils
 
 
 cat <<EOF > /etc/3proxy/3proxy.cfg
