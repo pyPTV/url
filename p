@@ -91,6 +91,8 @@ via off
 forwarded_for off
 follow_x_forwarded_for deny all
 
+debug_options ALL,5
+
 EOF
 
 cat <<EOF > /etc/squid3/users
