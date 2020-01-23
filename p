@@ -7,7 +7,10 @@ apt-get install -y squid3 apache2-utils
 
 
 
-cat <<EOF >> /etc/squid/squid.conf
+echo '' > /etc/squid/squid.conf
+
+cat <<EOF > /etc/squid/squid.conf
+http_port 3128
 
 visible_hostname squidworth
 
