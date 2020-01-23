@@ -98,7 +98,7 @@ debug_options ALL,5
 
 EOF
 
-echo 'alex:elcpass' > /etc/squid/pass
+echo 'user1:$apr1$FZeV00GX$avazDffp6clww.2Y5Abn11' > /etc/squid/pass
 chmod 775 /etc/squid/pass
 
 
