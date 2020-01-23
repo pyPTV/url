@@ -5,10 +5,10 @@ echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
 apt-get install -y squid3 apache2-utils
 
-echo '' > /etc/squid/squid.conf
 
-cat <<EOF > /etc/squid/squid.conf
-http_port 2358
+
+cat <<EOF >> /etc/squid/squid.conf
+
 visible_hostname squidworth
 
 acl manager proto cache_object
