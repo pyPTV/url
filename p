@@ -24,7 +24,6 @@ auth_param basic children 5
 auth_param basic realm SquidProxy
 auth_param basic credentialsttl 1 hour
 
-acl all src 0.0.0.0/0.0.0.0
 acl ncsa_users proxy_auth REQUIRED
 
 
