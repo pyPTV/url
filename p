@@ -10,7 +10,7 @@ apt-get install -y squid3 apache2-utils
 echo '' > /etc/squid/squid.conf
 
 cat <<EOF > /etc/squid/squid.conf
-http_port 2358
+http_port 23589
 
 dns_nameservers 8.8.8.8 8.8.4.4
 positive_dns_ttl 6 hours
