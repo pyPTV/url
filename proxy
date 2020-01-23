@@ -9,7 +9,28 @@ sysctl -p
 apt-get -y install squid3
 cat <<EOF > /etc/3proxy/3proxy.cfg
 http_port 2358
+
+
+auth_param basic program /usr/lib/squid3/ncsa_auth /etc/squid3/pass
+auth_param basic childred 5
+auth_param basic realm Squid proxy-caching web server
+auth_param basic credentialsttl 24 hours 
+acl ncsaauth proxy_auth REQUIRED
 acl password proxy_auth REQUIRED
+http_access allow ncsaauth
+
+
+http_access allow password
+http_access allow Safe_ports
+http_access allow CONNECT SSL_ports
+http_access allow localnet
+http_access deny all
+
+
+
+
+
+
 
 
 forwarded_for off
