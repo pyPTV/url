@@ -6,13 +6,13 @@ apt install -y libevent-dev
 apt install -y libssl-dev
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
-apt-get install squid3, apache2-utils
+apt-get install -y squid3 apache2-utils
 
 
-cat <<EOF > /etc/3proxy/3proxy.cfg
+cat <<EOF > /etc/squid/squid3.conf
 http_port 2358
 visible_hostname squidworth
-auth_param basic program /usr/lib/squid3/ncsa_auth /etc/squid3/passwd
+auth_param basic program /usr/lib/squid3/ncsa_auth /etc/squid/passwd
 
 refresh_pattern ^ftp:           1440    20%     10080
 refresh_pattern ^gopher:        1440    0%      1440
