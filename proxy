@@ -19,7 +19,7 @@ nscache 65536
 external $ip
 internal $ip
 timeouts 1 5 30 60 180 1800 15 60
-pidfile /usr/local/etc/3proxy/3proxy.pid
+pidfile /tmp/3proxy.pid
 daemon
 maxconn 32
 setgid 65534
