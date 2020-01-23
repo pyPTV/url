@@ -1,9 +1,6 @@
 #!/bin/bash
 
 apt-get update 
-apt install -y build-essential 
-apt install -y libevent-dev 
-apt install -y libssl-dev
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
 apt-get install -y squid3 apache2-utils
