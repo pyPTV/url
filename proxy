@@ -16,6 +16,7 @@ dns_nameservers 8.8.8.8 8.8.4.4
 positive_dns_ttl 6 hours
 negative_dns_ttl 1 minutes
 
+refresh_pattern . 0 100% 0
 cache deny all
 
 auth_param basic program /usr/lib/squid/basic_ncsa_auth  /etc/squid/pass
@@ -34,7 +35,6 @@ acl CONNECT method CONNECT
 
 http_access allow all
 http_access allow ncsa_users
-http_access allow Safe_ports
 http_access allow CONNECT SSL_ports
 http_access deny all
 
