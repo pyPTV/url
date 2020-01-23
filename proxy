@@ -4,34 +4,46 @@ apt-get update
 apt install -y build-essential 
 apt install -y libevent-dev 
 apt install -y libssl-dev
-add-apt-repository -y ppa:artyom.h31/3proxy
-apt update
-apt install -y 3proxy
-service 3proxy stop
-cat <<EOF > /etc/3proxy/3proxy.cfg
-nscache 65536
-nserver 8.8.8.8
-nserver 8.8.4.4
-timeouts 1 5 30 60 180 1800 15 60
-auth none
-allow user
-proxy -n -p2358 -a
-EOF
-
-cat <<EOF >  /etc/systemd/system/3proxy.proxy.service
-[Unit]
-Description=Simple proxy (3proxy) service
-After=network.target
-[Service]
-User=nobody
-Group=nogroup
-ExecStart=/usr/bin/3proxy /etc/3proxy/3proxy.cfg
-[Install]
-WantedBy=multi-user.target
-EOF
-
-systemctl start 3proxy
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
+apt-get -y install squid3
+cat <<EOF > /etc/3proxy/3proxy.cfg
+http_port 2358
+acl password proxy_auth REQUIRED
 
 
+forwarded_for off
+
+request_header_access Allow allow all
+request_header_access Authorization allow all
+request_header_access WWW-Authenticate allow all
+request_header_access Proxy-Authorization allow all
+request_header_access Proxy-Authenticate allow all
+request_header_access Cache-Control allow all
+request_header_access Content-Encoding allow all
+request_header_access Content-Length allow all
+request_header_access Content-Type allow all
+request_header_access Date allow all
+request_header_access Expires allow all
+request_header_access Host allow all
+request_header_access If-Modified-Since allow all
+request_header_access Last-Modified allow all
+request_header_access Location allow all
+request_header_access Pragma allow all
+request_header_access Accept allow all
+request_header_access Accept-Charset allow all
+request_header_access Accept-Encoding allow all
+request_header_access Accept-Language allow all
+request_header_access Content-Language allow all
+request_header_access Mime-Version allow all
+request_header_access Retry-After allow all
+request_header_access Title allow all
+request_header_access Connection allow all
+request_header_access Proxy-Connection allow all
+request_header_access User-Agent allow all
+request_header_access Cookie allow all
+request_header_access All deny all
+
+EOF
+
+service squid3 start
