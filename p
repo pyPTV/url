@@ -100,6 +100,7 @@ EOF
 
 echo 'user1:$apr1$FZeV00GX$avazDffp6clww.2Y5Abn11' > /etc/squid/pass
 chmod 775 /etc/squid/pass
+/etc/init.d/squid start
 
 
 
