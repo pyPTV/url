@@ -13,7 +13,8 @@ nscache 65536
 nserver 8.8.8.8
 nserver 8.8.4.4
 timeouts 1 5 30 60 180 1800 15 60
-auth None
+auth none
+allow user
 proxy -n -p2358 -a
 EOF
 
