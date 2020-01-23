@@ -28,6 +28,9 @@ auth_param basic children 5
 auth_param basic realm ServerName
 auth_param basic credentialsttl 24 hour
 
+
+acl ncsa_users proxy_auth REQUIRED
+
 acl localnet src 10.0.0.0/8     # RFC 1918 possible internal network
 acl localnet src 172.16.0.0/12  # RFC 1918 possible internal network
 acl localnet src 192.168.0.0/16 # RFC 1918 possible internal network
@@ -51,7 +54,7 @@ acl Safe_ports port 777         # multiling http
 
 acl CONNECT method CONNECT
 
-http_access allow password
+http_access allow ncsa_users
 http_access allow Safe_ports
 http_access allow CONNECT SSL_ports
 http_access allow localnet
