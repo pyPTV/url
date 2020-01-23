@@ -8,21 +8,25 @@ echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
 apt-get install -y squid3 apache2-utils
 
+echo '' > /etc/squid/squid.conf
 
 cat <<EOF > /etc/squid/squid.conf
 http_port 2358
 visible_hostname squidworth
-auth_param basic program /usr/lib/squid3/ncsa_auth /etc/squid/passwd
 
 refresh_pattern ^ftp:           1440    20%     10080
 refresh_pattern ^gopher:        1440    0%      1440
 refresh_pattern -i (/cgi-bin/|\?) 0     0%      0
-refresh_pattern .               0       20%     4320
+refresh_pattern .                 0     20%     4320
 
-acl manager url_regex -i ^cache_object:// +i ^https?://[^/]+/squid-internal-mgr/
+dns_nameservers 8.8.8.8 8.8.4.4
+positive_dns_ttl 6 hours
+negative_dns_ttl 1 minutes
 
-acl localhost src 127.0.0.1/32 ::1
-acl to_localhost dst 127.0.0.0/8 0.0.0.0/32 ::1
+auth_param basic program /usr/lib/squid3/basic_ncsa_auth  /etc/squid3/pass
+auth_param basic children 5
+auth_param basic realm ServerName
+auth_param basic credentialsttl 24 hour
 
 acl localnet src 10.0.0.0/8     # RFC 1918 possible internal network
 acl localnet src 172.16.0.0/12  # RFC 1918 possible internal network
@@ -30,12 +34,12 @@ acl localnet src 192.168.0.0/16 # RFC 1918 possible internal network
 acl localnet src fc00::/7       # RFC 4193 local private network range
 acl localnet src fe80::/10      # RFC 4291 link-local (directly plugged) machines
 
-acl wwwusers src all
-acl ncsa_auth proxy_auth REQUIRED
+acl SSL_ports port 443          # https
+acl SSL_ports port 22           # ssh
 
-acl SSL_ports port 443
 acl Safe_ports port 80          # http
 acl Safe_ports port 21          # ftp
+acl Safe_ports port 22          # ssh
 acl Safe_ports port 443         # https
 acl Safe_ports port 70          # gopher
 acl Safe_ports port 210         # wais
@@ -44,18 +48,14 @@ acl Safe_ports port 280         # http-mgmt
 acl Safe_ports port 488         # gss-http
 acl Safe_ports port 591         # filemaker
 acl Safe_ports port 777         # multiling http
+
 acl CONNECT method CONNECT
 
-http_access allow manager localhost
-http_access allow ncsa_auth
-http_access deny !Safe_ports
-http_access deny CONNECT !SSL_ports
-http_access deny to_localhost
-http_access allow localhost
-
+http_access allow password
+http_access allow Safe_ports
+http_access allow CONNECT SSL_ports
+http_access allow localnet
 http_access deny all
-
-
 
 request_header_access Allow allow all
 request_header_access Authorization allow all
@@ -95,12 +95,8 @@ debug_options ALL,5
 
 EOF
 
-cat <<EOF > /etc/squid3/users
-alex:elcpass
-user2:pas45rd
+echo 'alex:elcpass' > /etc/squid/pass
 
-EOF
-cd /var/spool
-mkdir squid3
+
 
 service squid3 start
