@@ -24,16 +24,13 @@ auth_param basic children 5
 auth_param basic realm SquidProxy
 auth_param basic credentialsttl 1 hour
 
-acl localhost src 127.0.0.1/32
+acl all src 0.0.0.0/0.0.0.0
 acl ncsa_users proxy_auth REQUIRED
 
 
 http_access allow all
 http_access allow ncsa_users
-http_access allow Safe_ports
-http_access allow CONNECT SSL_ports
 http_access deny all
-
 
 
 request_header_access Allow allow all
