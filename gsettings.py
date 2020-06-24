@@ -6,13 +6,13 @@
  ["https://t.bdwafx.com/6xz5cp05kw?url_id=5804&aff_id=82882&offer_id=2996"]],
     
 [["CZ", "SK"], 
- ["https://landing.czechhunter.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjo2MCwicyI6NTI4LCJlIjo5MDk3LCJwIjoxMX0="]],
+ ["https://landing.czechhunter.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjo2MCwicyI6NTI4LCJlIjo5MDk3LCJwIjoxMX0="]],
     
 
 [["ZZ"], 
- ["https://landing.iconmale.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",
-  "https://landing.maleaccess.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjo3OCwicyI6NjAyLCJlIjo5NDc3LCJwIjoxMX0=",
-  "https://landing.mennetwork.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.iconmale.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",
+  
+  "https://landing.mennetwork.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
                
 ],
  
@@ -23,13 +23,13 @@
  ["https://t.bdwafx.com/6xz5cp05kw?url_id=5804&aff_id=82882&offer_id=2996"]],
     
 [["CZ", "SK"], 
- ["https://landing.czechhunter.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjo2MCwicyI6NTI4LCJlIjo5MDk3LCJwIjoxMX0="]],
+ ["https://landing.czechhunter.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjo2MCwicyI6NTI4LCJlIjo5MDk3LCJwIjoxMX0="]],
     
 
 [["ZZ"], 
- ["https://landing.iconmale.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",
-  "https://landing.maleaccess.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjo3OCwicyI6NjAyLCJlIjo5NDc3LCJwIjoxMX0=",
-  "https://landing.mennetwork.com/?ats=eyJhIjoyODk0OTYsImMiOjU2NDU3MTQ1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.iconmale.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",
+  
+  "https://landing.mennetwork.com/?ats=eyJhIjoyOTY5OTcsImMiOjU3NjY3NjgzLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
 
 ]
 }
