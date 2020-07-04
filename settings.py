@@ -3,7 +3,7 @@
 [
 
 [["RU", "UA", "PL"], ["https://bongacams7.com/track?c=332288"]],
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=gy564&disable_sound=True"]]
+[["ZZ"], ["http://join.allpornsitespass.com/track/MjAxMDE4LjEuNC41LjAuMC4wLjAuMA"]]
 
                
 ],
@@ -13,7 +13,7 @@
 
 
 [["RU", "UA", "PL"], ["https://bongacams7.com/track?c=332288"]],
-[["ZZ"], ["https://chaturbate.com/in/?track=default&tour=hr8m&campaign=gy564&disable_sound=True"]]
+[["ZZ"], ["http://join.allpornsitespass.com/track/MjAxMDE4LjEuNC41LjAuMC4wLjAuMA"]]
 
     
 ]
