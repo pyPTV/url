@@ -9,8 +9,7 @@
           "https://landing.brazzersnetwork.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ==",
           "https://landing.fakehub.com/tgp1/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjozMCwicyI6MjYxLCJlIjoxMTcwLCJwIjoxMX0=",
           "https://landing.milfed.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjo5MiwicyI6NjMxLCJlIjo5ODE2LCJwIjoxMX0=",
-          "https://landing.sexyhub.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjozMSwicyI6MjczLCJlIjo5MTkwLCJwIjoxMX0=",
-          "https://landing.squirted.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjo4MSwicyI6NjA3LCJlIjo5Njk1LCJwIjoxMX0="
+          "https://landing.sexyhub.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjozMSwicyI6MjczLCJlIjo5MTkwLCJwIjoxMX0="          
          ]]
 
                
@@ -27,8 +26,7 @@
           "https://landing.brazzersnetwork.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ==",
           "https://landing.fakehub.com/tgp1/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjozMCwicyI6MjYxLCJlIjoxMTcwLCJwIjoxMX0=",
           "https://landing.milfed.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjo5MiwicyI6NjMxLCJlIjo5ODE2LCJwIjoxMX0=",
-          "https://landing.sexyhub.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjozMSwicyI6MjczLCJlIjo5MTkwLCJwIjoxMX0=",
-          "https://landing.squirted.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjo4MSwicyI6NjA3LCJlIjo5Njk1LCJwIjoxMX0="
+          "https://landing.sexyhub.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjozMSwicyI6MjczLCJlIjo5MTkwLCJwIjoxMX0="          
          ]]
 
     
