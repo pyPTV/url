@@ -6,7 +6,7 @@
     
     
 [["ZZ"], [
-          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="         
+          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="         
          ]]
 
                
@@ -20,7 +20,7 @@
     
     
 [["ZZ"], [
-          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="       
+          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="       
          ]]
 
     
