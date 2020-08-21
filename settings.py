@@ -6,8 +6,7 @@
     
     
 [["ZZ"], [
-          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ==",
-          "https://landing.sexyhub.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjozMSwicyI6MjczLCJlIjo5MTkwLCJwIjoxMX0=",
+          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ==",          
           "https://landing.familysinners.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjo3MCwicyI6NTczLCJlIjo5Mjg5LCJwIjoxMX0="          
          ]]
 
@@ -22,8 +21,7 @@
     
     
 [["ZZ"], [
-          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ==",
-          "https://landing.sexyhub.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjozMSwicyI6MjczLCJlIjo5MTkwLCJwIjoxMX0=",
+          "https://landing.brazzersnetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ==",         
           "https://landing.familysinners.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjo3MCwicyI6NTczLCJlIjo5Mjg5LCJwIjoxMX0="          
          ]]
 
