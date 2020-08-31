@@ -8,8 +8,8 @@
 
 
 [["ZZ"], 
- ["https://landing.iconmale.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",  
-  "https://landing.mennetwork.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.iconmale.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",  
+  "https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
                
 ],
  
@@ -22,8 +22,8 @@
     
 
 [["ZZ"], 
- ["https://landing.iconmale.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",  
-  "https://landing.mennetwork.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.iconmale.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0=",  
+  "https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
 
 ]
 }
