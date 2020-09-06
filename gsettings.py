@@ -8,7 +8,7 @@
 
 
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDYzMTIsImMiOjU4OTMwNjY5LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
                
 ],
  
@@ -21,7 +21,7 @@
     
 
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDYzMTIsImMiOjU4OTMwNjY5LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
 
 ]
 }
