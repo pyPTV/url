@@ -5,7 +5,7 @@
 [["RU", "UA", "PL"], ["https://bongacams7.com/track?c=332288"]],
     
     
-[["ZZ"], ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]]
+[["ZZ"], ["https://landing.brazzersnetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]]
 
                
 ],
@@ -17,7 +17,7 @@
 [["RU", "UA", "PL"], ["https://bongacams7.com/track?c=332288"]],
     
     
-[["ZZ"], ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]]
+[["ZZ"], ["https://landing.brazzersnetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]]
 
     
 ]
