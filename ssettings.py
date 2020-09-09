@@ -2,13 +2,13 @@
 "mobile": [
 
 [["RU"], ["https://trans.com"]],
-[["ZZ"], ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
 
 ],
 
 "desktop": [
 
 [["RU"], ["https://trans.com"]],
-[["ZZ"], ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
 
 ]}
