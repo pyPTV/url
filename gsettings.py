@@ -3,7 +3,8 @@
 [
 
 [["IN", "PH", "CN", "ID", "TH", "VN", "RU"], 
- ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9"]],
+ ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9",
+  "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]],
     
 
 
@@ -16,7 +17,8 @@
 [
 
 [["IN", "PH", "CN", "ID", "TH", "VN", "RU"], 
- ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9"]],
+ ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9", 
+  "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]],
     
     
 
