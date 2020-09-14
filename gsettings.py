@@ -2,28 +2,28 @@
     "mobile":
 [
 
-[["IN", "PH", "CN", "ID", "TH", "VN", "RU"], 
- ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9",
-  "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]],
-    
-
+[["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
+  "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
+  
 
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9",
+  "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]]
                
 ],
  
     "desktop":
 [
 
-[["IN", "PH", "CN", "ID", "TH", "VN", "RU"], 
- ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9", 
-  "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]],
-    
-    
+[["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
+  "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
+  
 
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6NTgsInAiOjJ9",
+  "https://wct.link/click?c=eyJhIjoxOTQ4MSwibyI6MjA5LCJwIjoyfSAg"]]
 
 ]
 }
