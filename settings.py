@@ -7,7 +7,7 @@
  ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
     
-[["ZZ"], ["https://bongacams7.com/track?c=332288"]]
+[["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
 
                
 ],
@@ -20,7 +20,7 @@
  ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
     
-[["ZZ"], ["https://bongacams7.com/track?c=332288"]]
+[["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
 
     
 ]
