@@ -4,8 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.mennetwork.com/?ats=eyJhIjozMDcxMDQsImMiOjU4OTc3MDkzLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0=",
-  "https://landing.iconmale.com/?ats=eyJhIjozMDcxMDQsImMiOjU4OTc3MDkzLCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0="]],  
+ ["https://landing.mennetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
 
 [["ZZ"], 
@@ -19,8 +18,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.mennetwork.com/?ats=eyJhIjozMDcxMDQsImMiOjU4OTc3MDkzLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0=",
-  "https://landing.iconmale.com/?ats=eyJhIjozMDcxMDQsImMiOjU4OTc3MDkzLCJuIjo3NCwicyI6NTgxLCJlIjo5NDM3LCJwIjoxMX0="]],  
+ ["https://landing.mennetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
 
 [["ZZ"], 
