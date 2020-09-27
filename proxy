@@ -2,6 +2,7 @@
 
 # wget -O - https://raw.githubusercontent.com/mbs-affiliate/url/master/proxy | bash
 # in lightsail menu need to go instance - networking - firewall - open all protocols
+# go to https://console.aws.amazon.com/iam/home#/security_credentials --> Access Key --> generate
 
 sudo -s
 apt-get update 
