@@ -3,17 +3,13 @@
 # wget -O - https://raw.githubusercontent.com/mbs-affiliate/url/master/proxy | bash
 # in lightsail menu need to go instance - networking - firewall - open all protocols
 
-sudo -s
 sudo apt-get update 
-sudo echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
-sudo sysctl -p
 sudo apt-get install -y squid3 apache2-utils
 
-
-sudo echo '' > /etc/squid/squid.conf
+echo '' > /etc/squid/squid.conf
 sudo chmod 775 /etc/squid/squid.conf
 
-sudo cat <<EOF > /etc/squid/squid.conf
+cat <<EOF > /etc/squid/squid.conf
 http_port 23589
 dns_nameservers 8.8.8.8 8.8.4.4
 positive_dns_ttl 6 hours
@@ -21,7 +17,7 @@ negative_dns_ttl 1 minutes
 refresh_pattern . 0 100% 0
 cache deny all
 http_access allow all
-http_access deny all
+
 request_header_access Allow allow all
 request_header_access Authorization allow all
 request_header_access WWW-Authenticate allow all
@@ -56,5 +52,9 @@ follow_x_forwarded_for deny all
 
 EOF
 
-sudo /etc/init.d/squid start
+#sudo /etc/init.d/squid start
+sudo service squid start
+sudo -s
+sudo echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
+sudo sysctl -p
 
