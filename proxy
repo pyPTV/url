@@ -3,11 +3,12 @@
 # wget -O - https://raw.githubusercontent.com/mbs-affiliate/url/master/proxy | bash
 # in lightsail menu need to go instance - networking - firewall - open all protocols
 
-sudo apt-get update 
-sudo apt-get install -y squid3 apache2-utils
+sudo -s
+apt-get update 
+apt-get install -y squid3 apache2-utils
 
 echo '' > /etc/squid/squid.conf
-sudo chmod 775 /etc/squid/squid.conf
+#chmod 775 /etc/squid/squid.conf
 
 cat <<EOF > /etc/squid/squid.conf
 http_port 23589
@@ -53,8 +54,7 @@ follow_x_forwarded_for deny all
 EOF
 
 #sudo /etc/init.d/squid start
-sudo service squid start
-sudo -s
-sudo echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
-sudo sysctl -p
+service squid start
+echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
+sysctl -p
 
