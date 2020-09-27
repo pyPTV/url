@@ -20,7 +20,7 @@ negative_dns_ttl 1 minutes
 refresh_pattern . 0 100% 0
 cache deny all
 http_access allow all
-http_access deny all
+
 request_header_access Allow allow all
 request_header_access Authorization allow all
 request_header_access WWW-Authenticate allow all
