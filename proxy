@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# wget -O - https://raw.githubusercontent.com/mbs-affiliate/url/master/proxy | bash
 # in lightsail menu need to go instance - networking - firewall - open all protocols
 
 sudo -s
