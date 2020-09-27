@@ -8,7 +8,7 @@ apt-get update
 apt-get install -y squid3 apache2-utils
 
 echo '' > /etc/squid/squid.conf
-#chmod 775 /etc/squid/squid.conf
+chmod 775 /etc/squid/squid.conf
 
 cat <<EOF > /etc/squid/squid.conf
 http_port 23589
@@ -18,7 +18,7 @@ negative_dns_ttl 1 minutes
 refresh_pattern . 0 100% 0
 cache deny all
 http_access allow all
-debug_options ALL,9
+debug_options ALL,6
 request_header_access Allow allow all
 request_header_access Authorization allow all
 request_header_access WWW-Authenticate allow all
@@ -54,7 +54,7 @@ follow_x_forwarded_for deny all
 EOF
 
 #sudo /etc/init.d/squid start
-service squid start
+service squid restart
 echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
 sysctl -p
 
