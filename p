@@ -1,15 +1,13 @@
 #!/bin/bash
 
-apt-get update 
-echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
-sysctl -p
-apt-get install -y squid3 apache2-utils
+sudo apt-get update 
+sudo echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
+sudo sysctl -p
+sudo apt-get install -y squid3 apache2-utils
 
+sudo echo '' > /etc/squid/squid.conf
 
-
-echo '' > /etc/squid/squid.conf
-
-cat <<EOF > /etc/squid/squid.conf
+sudo cat <<EOF > /etc/squid/squid.conf
 http_port 23589
 
 dns_nameservers 8.8.8.8 8.8.4.4
