@@ -3,7 +3,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]],
+ ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]],
   
 [["ZZ"], ["https://trans.com"]]
 
@@ -13,7 +13,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODk4NTYsImMiOjU2NTQyNDk0LCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]],
+ ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]],
   
 [["ZZ"], ["https://trans.com"]]
 ]}
