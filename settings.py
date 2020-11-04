@@ -4,7 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
+ ["https://landing.brazzersnetwork.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
     
 [["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
@@ -17,7 +17,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
+ ["https://landing.brazzersnetwork.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
     
 [["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
