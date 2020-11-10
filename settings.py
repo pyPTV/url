@@ -4,7 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],     
+ ["https://landing.brazzersnetwork.com/?ats=eyJhIjozMDYzMTIsImMiOjU4OTMwNjY5LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
     
 [["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
@@ -17,7 +17,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["http://join.allpornsitespass.com/track/MjAwMzc0LjEuNC41LjAuMC4wLjAuMA"]],     
+ ["https://landing.brazzersnetwork.com/?ats=eyJhIjozMDYzMTIsImMiOjU4OTMwNjY5LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
     
 [["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
