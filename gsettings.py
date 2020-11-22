@@ -9,7 +9,9 @@
 [["BR", "AR", "CL", "MX", "PE", "BO", "VE", "GT", "DO", "CO",
   "CR", "CU", "PY", "UY", "EC", "ES", "PT"],
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjYsInAiOjIsImMiOnt9fSAg"]],
-  
+
+[["CN"],
+ ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],
   
 [["ZZ"], 
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjIsInAiOjIsImMiOnt9fSAg", 
