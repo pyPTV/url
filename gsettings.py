@@ -12,7 +12,9 @@
 
 [["CN", "ID", "JP", "PH", "BD", "TW", "HK", "VN"],
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],
-  
+
+[["RU"], ["https://trans.com/"]],
+    
 [["ZZ"], 
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjIsInAiOjIsImMiOnt9fSAg", 
   "https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6MjA5LCJwIjoyLCJjIjp7fX0g",
@@ -34,6 +36,8 @@
     
 [["CN", "ID", "JP", "PH", "BD", "TW", "HK", "VN"],
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],    
+
+[["RU"], ["https://trans.com/"]],
     
 [["ZZ"], 
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjIsInAiOjIsImMiOnt9fSAg", 
