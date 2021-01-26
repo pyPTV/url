@@ -4,7 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
+ ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
     
 [["RU"], ["https://trans.com/"]],
 
@@ -19,7 +19,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
+ ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]],     
 
 [["RU"], ["https://trans.com/"]],
     
