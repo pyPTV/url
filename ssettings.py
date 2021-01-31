@@ -5,9 +5,9 @@
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
  ["https://landing.transsensual.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]],
   
-[["RU"], ["https://trans.com/"]],
+[["RU"], ["https://transdh.com/"]],
   
-[["ZZ"], ["https://trans.com"]]
+[["ZZ"], ["https://transdh.com"]]
 
 ],
 
@@ -17,7 +17,7 @@
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
  ["https://landing.transsensual.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]],
   
-[["RU"], ["https://trans.com/"]],
+[["RU"], ["https://transdh.com/"]],
   
-[["ZZ"], ["https://trans.com"]]
+[["ZZ"], ["https://transdh.com"]]
 ]}
