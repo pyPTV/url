@@ -7,7 +7,7 @@
   
 [["RU"], ["https://transdh.com/"]],
   
-[["ZZ"], ["https://transdh.com"]]
+[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
 
 ],
 
@@ -19,5 +19,5 @@
   
 [["RU"], ["https://transdh.com/"]],
   
-[["ZZ"], ["https://transdh.com"]]
+[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjoyODY1MDYsImMiOjUzMjU1MTM5LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
 ]}
