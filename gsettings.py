@@ -4,7 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
 [["BR", "AR", "CL", "MX", "PE", "BO", "VE", "GT", "DO", "CO",
   "CR", "CU", "PY", "UY", "EC", "ES", "PT"],
@@ -27,7 +27,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
     
 [["BR", "AR", "CL", "MX", "PE", "BO", "VE", "GT", "DO", "CO",
