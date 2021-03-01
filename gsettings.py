@@ -6,19 +6,14 @@
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
  ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
-[["BR", "AR", "CL", "MX", "PE", "BO", "VE", "GT", "DO", "CO",
-  "CR", "CU", "PY", "UY", "EC", "ES", "PT"],
- ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjYsInAiOjIsImMiOnt9fSAg"]],
-
-[["CN", "ID", "JP", "PH", "BD", "TW", "HK", "VN"],
- ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],
+   
+[["CN", "ID", "PH", "BD", "VN", "IN"],
+ ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],    
 
 [["RU"], ["https://transdh.com/"]],
     
 [["ZZ"], 
- ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjIsInAiOjIsImMiOnt9fSAg", 
-  "https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6MjA5LCJwIjoyLCJjIjp7fX0g",
-  "https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NDksInAiOjIsImMiOnt9fSAg"]]
+ ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
                
 ],
  
@@ -29,20 +24,14 @@
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
  ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
-    
-[["BR", "AR", "CL", "MX", "PE", "BO", "VE", "GT", "DO", "CO",
-  "CR", "CU", "PY", "UY", "EC", "ES", "PT"],
- ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjYsInAiOjIsImMiOnt9fSAg"]],
-    
-[["CN", "ID", "JP", "PH", "BD", "TW", "HK", "VN"],
+   
+[["CN", "ID", "PH", "BD", "VN", "IN"],
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],    
 
 [["RU"], ["https://transdh.com/"]],
     
 [["ZZ"], 
- ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjIsInAiOjIsImMiOnt9fSAg", 
-  "https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6MjA5LCJwIjoyLCJjIjp7fX0g",
-  "https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NDksInAiOjIsImMiOnt9fSAg"]]
+ ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
 
 ]
 }
