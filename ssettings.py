@@ -5,7 +5,7 @@
   
 [["RU"], ["https://transdh.com/"]],
   
-[["ZZ"], ["https://landing.transharder.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjo5MCwicyI6NjI5LCJlIjo5ODAyLCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]]
 
 ],
 
@@ -15,5 +15,5 @@
   
 [["RU"], ["https://transdh.com/"]],
   
-[["ZZ"], ["https://landing.transharder.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjo5MCwicyI6NjI5LCJlIjo5ODAyLCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]]
 ]}
