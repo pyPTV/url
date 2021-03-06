@@ -4,7 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
    
 [["CN", "ID", "PH", "BD", "VN", "IN"],
@@ -13,7 +13,7 @@
 [["RU"], ["http://pylasdfghh.com"]],
     
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
                
 ],
  
@@ -22,7 +22,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]],  
   
    
 [["CN", "ID", "PH", "BD", "VN", "IN"],
@@ -31,7 +31,7 @@
 [["RU"], ["http://pylasdfghh.com"]],
     
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDY5ODksImMiOjU4OTcwNDEyLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
 
 ]
 }
