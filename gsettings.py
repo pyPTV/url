@@ -10,7 +10,7 @@
 [["CN", "ID", "PH", "BD", "VN", "IN"],
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],    
 
-[["RU"], ["https://transdh.com/"]],
+[["RU"], ["https://pylasdfghh.com"]],
     
 [["ZZ"], 
  ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
@@ -28,7 +28,7 @@
 [["CN", "ID", "PH", "BD", "VN", "IN"],
  ["https://wct.link/click?c=eyJhIjoxOTk1MSwibyI6NjUsInAiOjIsImMiOnt9fSAg"]],    
 
-[["RU"], ["https://transdh.com/"]],
+[["RU"], ["https://pylasdfghh.com"]],
     
 [["ZZ"], 
  ["https://landing.mennetwork.com/?ats=eyJhIjoyOTc5MjAsImMiOjU3Nzg4NDU1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
