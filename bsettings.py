@@ -6,7 +6,7 @@
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
  ["https://landing.biempire.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
 
-[["RU"], ["https://transdh.com/"]],
+[["RU"], ["http://galturgg.com"]],
     
 [["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
                
@@ -19,7 +19,7 @@
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
  ["https://landing.biempire.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
 
-[["RU"], ["https://transdh.com/"]],
+[["RU"], ["http://galturgg.com"]],
     
 [["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
 
