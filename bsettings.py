@@ -4,7 +4,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.biempire.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
+ ["https://landing.biempire.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
 
 [["RU"], ["http://galturgg.com"]],
     
@@ -17,7 +17,7 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.biempire.com/?ats=eyJhIjozMDU2ODQsImMiOjU4ODkxNzk0LCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
+ ["https://landing.biempire.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
 
 [["RU"], ["http://galturgg.com"]],
     
