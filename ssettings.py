@@ -5,7 +5,7 @@
   
 [["RU"], ["http://merytgddm.com"]],
   
-[["ZZ"], ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
 
 ],
 
@@ -15,5 +15,5 @@
   
 [["RU"], ["http://merytgddm.com"]],
   
-[["ZZ"], ["https://landing.transangelsnetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjozNSwicyI6NTQxLCJlIjo5MTEzLCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
 ]}
