@@ -4,11 +4,11 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.biempire.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
+ ["https://landing.biempire.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
 
 [["RU"], ["http://galturgg.com"]],
     
-[["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
+[["ZZ"], ["https://landing.biempire.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]]
                
 ],
  
@@ -17,11 +17,11 @@
 
 [["CA", "US", "AU", "NZ", "GB", "IE", "DK", "NO", "SE", 
   "FR", "DE", "AT", "BE", "IT", "CH", "NL", "IS", "FI"],
- ["https://landing.biempire.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
+ ["https://landing.biempire.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]],
 
 [["RU"], ["http://galturgg.com"]],
     
-[["ZZ"], ["https://bongacams7.com/track?v=2&c=332289"]]
+[["ZZ"], ["https://landing.biempire.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MSwicyI6NTc1LCJlIjo5MjcwLCJwIjoxMX0="]]
 
 ]
 }
