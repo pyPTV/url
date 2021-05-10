@@ -9,7 +9,7 @@
   
 [["RU"], ["http://tranldhr.com"]],
     
-[["ZZ"], ["https://landing.brazzersnetwork.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjoxNCwicyI6OTAsImUiOjg4MDMsInAiOjExfQ=="]]
+[["ZZ"], ["https://1261a046afdc.nobhere.com/?p=25321&media_type=adult"]]
 
                
 ],
