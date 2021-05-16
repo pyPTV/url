@@ -2,18 +2,18 @@
 "mobile": [
 
 
-  
+[["CN", "ID", "PH", "BD", "VN", "IN"], ["https://bongacams7.com/track?v=2&c=332289"]],   
 [["RU"], ["http://merytgddm.com"]],
   
-[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transharder.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjo5MCwicyI6NjI5LCJlIjo5ODAyLCJwIjoxMX0="]]
 
 ],
 
 "desktop": [
 
-
+[["CN", "ID", "PH", "BD", "VN", "IN"], ["https://bongacams7.com/track?v=2&c=332289"]], 
   
 [["RU"], ["http://merytgddm.com"]],
   
-[["ZZ"], ["https://landing.transsensual.com/?ats=eyJhIjoyOTc3MjYsImMiOjU3NzY3NzI0LCJuIjo3MiwicyI6NTc2LCJlIjo5MjU4LCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.transharder.com/?ats=eyJhIjoyODgxMzgsImMiOjU1ODIwMDAxLCJuIjo5MCwicyI6NjI5LCJlIjo5ODAyLCJwIjoxMX0="]]
 ]}
