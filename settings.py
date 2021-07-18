@@ -17,7 +17,7 @@
     "desktop":
 [
     
-[["CN", "ID", "PH", "BD", "VN", "IN"], ["https://bongacams7.com/track?v=2&c=332289"]], 
+[["CN", "ID", "PH", "BD", "VN", "IN", "JP", "TW"], ["https://enter.javhd.com/track/MjIwOTIuMi4yLjIuMC4wLjAuMC4w"]], 
 
 [["RU"], ["http://tranldhr.com"]],  
     
