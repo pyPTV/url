@@ -7,7 +7,7 @@
 
 [["RU"], ["http://pylasdfghh.com"]],
     
-[["ZZ"], ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.mennetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
                
 ],
  
@@ -19,7 +19,7 @@
 
 [["RU"], ["http://pylasdfghh.com"]],
     
-[["ZZ"], ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
+[["ZZ"], ["https://landing.mennetwork.com/?ats=eyJhIjoyODkwNDIsImMiOjU2MzQ2MzQxLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="]]
 
 ]
 }
