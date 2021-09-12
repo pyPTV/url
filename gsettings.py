@@ -9,9 +9,9 @@
 [["RU"], ["http://pylasdfghh.com"]],
     
 [["ZZ"], 
- ["https://landing.mennetwork.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0=",
-  "https://landing.seancodynetwork.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjoyNywicyI6NTM4LCJlIjo5MDk2LCJwIjoxMX0=",
-  "https://landing.twinkpop.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjo5NywicyI6NjQ0LCJlIjo5ODk4LCJwIjoxMX0="
+ ["https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="
+  
+  
 
   ]]
           
@@ -31,9 +31,9 @@
 [["RU"], ["http://pylasdfghh.com"]],
     
 [["ZZ"],
- ["https://landing.mennetwork.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0=",
-  "https://landing.seancodynetwork.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjoyNywicyI6NTM4LCJlIjo5MDk2LCJwIjoxMX0=",
-  "https://landing.twinkpop.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjo5NywicyI6NjQ0LCJlIjo5ODk4LCJwIjoxMX0="
+ [
+  "https://landing.mennetwork.com/?ats=eyJhIjozMDc4OTcsImMiOjU5MDIzMTM1LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="
+  
         
           
   ]]
