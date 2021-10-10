@@ -10,8 +10,8 @@
     
 [["ZZ"], 
  [
-  "https://www.buddylead.com/nextdoorstudios/go.php?pr=9&su=2&si=46&ad=277893&cs=/lp&cl=/aff_tubends&ar=&buffer="
-  
+  "https://www.buddylead.com/nextdoorstudios/go.php?pr=9&su=2&si=46&ad=277893&cs=/lp&cl=/aff_tubends&ar=&buffer=",
+  "https://landing.mennetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="
 
   ]]
           
@@ -33,8 +33,8 @@
 [["ZZ"],
  [
   
-  "https://www.buddylead.com/nextdoorstudios/go.php?pr=9&su=2&si=46&ad=277893&cs=/lp&cl=/aff_tubends&ar=&buffer="
-  
+  "https://www.buddylead.com/nextdoorstudios/go.php?pr=9&su=2&si=46&ad=277893&cs=/lp&cl=/aff_tubends&ar=&buffer=",
+  "https://landing.mennetwork.com/?ats=eyJhIjoyODg4MzMsImMiOjU2Mjk2NzE2LCJuIjoyMiwicyI6NTQyLCJlIjo5MDk0LCJwIjoxMX0="
         
           
   ]]
