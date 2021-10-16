@@ -5,7 +5,7 @@
 [["CN", "ID", "PH", "BD", "VN", "IN"], ["https://bongacams7.com/track?v=2&c=332289"]],   
 [["RU"], ["http://merytgddm.com"]],
   
-[["ZZ"], ["https://landing.transharder.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjo5MCwicyI6NjI5LCJlIjo5ODAyLCJwIjoxMX0="]]
+[["ZZ"], ["https://www.iyalc.com/tsplayground/go.php?pr=8&su=2&si=165&ad=277961&cs=/lp&cl=/aff_tsplayground&ar=&buffer="]]
 
 ],
 
@@ -15,5 +15,5 @@
   
 [["RU"], ["http://merytgddm.com"]],
   
-[["ZZ"], ["https://landing.transharder.com/?ats=eyJhIjozMDkxNTgsImMiOjU5MTAxMTgwLCJuIjo5MCwicyI6NjI5LCJlIjo5ODAyLCJwIjoxMX0="]]
+[["ZZ"], ["https://www.iyalc.com/tsplayground/go.php?pr=8&su=2&si=165&ad=277961&cs=/lp&cl=/aff_tsplayground&ar=&buffer="]]
 ]}
