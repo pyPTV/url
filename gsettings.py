@@ -10,7 +10,7 @@
     
 [["ZZ"], 
  [
-  "https://www.buddylead.com/falconstudios/go.php?pr=9&su=2&si=33&ad=277893&cs=/lp&cl=/aff_tubefs&ar=&buffer="
+  "https://www.buddylead.com/pridestudios/go.php?pr=9&su=2&si=70&ad=277937&cs=/lp&cl=/aff_pridestudios&ar=&buffer="
   
   ]]
           
@@ -32,7 +32,7 @@
 [["ZZ"],
  [
   
-  "https://www.buddylead.com/falconstudios/go.php?pr=9&su=2&si=33&ad=277893&cs=/lp&cl=/aff_tubefs&ar=&buffer="        
+  "https://www.buddylead.com/pridestudios/go.php?pr=9&su=2&si=70&ad=277937&cs=/lp&cl=/aff_pridestudios&ar=&buffer="        
           
   ]]
 
