@@ -12,6 +12,9 @@ echo '' > /etc/squid/squid.conf
 chmod 775 /etc/squid/squid.conf
 
 cat <<EOF > /etc/squid/squid.conf
+acl home_network src 178.66.56.54
+http_access allow home_network
+http_access deny all
 http_port 23589
 dns_nameservers 8.8.8.8 8.8.4.4
 positive_dns_ttl 6 hours
