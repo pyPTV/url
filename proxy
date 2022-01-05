@@ -62,6 +62,6 @@ EOF
 
 #sudo /etc/init.d/squid start
 service squid restart
-echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
-sysctl -p
+#echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
+#sysctl -p
 
