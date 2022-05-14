@@ -6,7 +6,7 @@
 
 
 apt-get update 
-apt-get install -y squid3 apache2-utils
+apt-get install -y squid3
 
 echo '' > /etc/squid/squid.conf
 chmod 775 /etc/squid/squid.conf
