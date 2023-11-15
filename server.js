@@ -13,7 +13,7 @@ const pool = new Pool({
     user: 'peertube',
     host: 'localhost',
     database: 'visitors',
-    password: 'POSTGRESQL-DB-PASSWORD',
+    password: 'POSTGRESQL_DB_PASSWORD',
     port: 5432,
   });
 
@@ -22,8 +22,8 @@ const pool = new Pool({
 // Configure AWS SDK for JavaScript v3
 const s3 = new S3({
     credentials: {
-        accessKeyId: 'STORJ-KEY-ID',
-        secretAccessKey: 'STORJ-ACCESS-KEY'
+        accessKeyId: 'STORJ_KEY_ID',
+        secretAccessKey: 'STORJ_ACCESS_KEY'
     },
     endpoint: 'https://gateway.storjshare.io',
     s3ForcePathStyle: true,
@@ -33,7 +33,7 @@ const s3 = new S3({
 
 
 
-const CACHE_DIR = '/tmp/pepper'; // Define the cache directory
+const CACHE_DIR = '/tmp/peertube-cache'; // Define the cache directory
 const MAX_CACHE_AGE_HOURS = 24; // Change this to your desired cache age limit
 
 async function cleanUpCache() {
