@@ -34,7 +34,7 @@ const s3 = new S3({
 
 
 const CACHE_DIR = '/tmp/peertube-cache'; // Define the cache directory
-const MAX_CACHE_AGE_HOURS = 24; // Change this to your desired cache age limit
+const MAX_CACHE_AGE_HOURS = 5; // Change this to your desired cache age limit
 
 async function cleanUpCache() {
     try {
