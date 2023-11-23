@@ -1,67 +1,52 @@
 #!/bin/bash
 
-# wget -O - https://raw.githubusercontent.com/mbs-affiliate/url/master/proxy | bash
-# in lightsail menu need to go instance - networking - firewall - open all protocols
-# go to https://console.aws.amazon.com/iam/home#/security_credentials --> Access Key --> generate
 
 
-apt-get update 
-apt-get install -y squid3
+# Update the package list
+sudo apt update
 
-echo '' > /etc/squid/squid.conf
-chmod 775 /etc/squid/squid.conf
+# Install Squid and apache2-utils
+sudo apt install squid apache2-utils -y
 
-cat <<EOF > /etc/squid/squid.conf
-acl home_network src 178.64.27.5
-http_access allow home_network
-http_access deny all
-http_port 23589
-dns_nameservers 8.8.8.8 8.8.4.4
-positive_dns_ttl 6 hours
-negative_dns_ttl 1 minutes
-refresh_pattern . 0 100% 0
-cache deny all
-#debug_options ALL,6
-access_log daemon:/var/log/squid/access.log squid
-access_log stdio:/var/log/squid/access.log squid
-http_access allow all
-http_access allow all
-request_header_access Allow allow all
-request_header_access Authorization allow all
-request_header_access WWW-Authenticate allow all
-request_header_access Proxy-Authorization allow all
-request_header_access Proxy-Authenticate allow all
-request_header_access Cache-Control allow all
-request_header_access Content-Encoding allow all
-request_header_access Content-Length allow all
-request_header_access Content-Type allow all
-request_header_access Expires allow all
-request_header_access Host allow all
-request_header_access If-Modified-Since allow all
-request_header_access Last-Modified allow all
-request_header_access Location allow all
-request_header_access Pragma allow all
-request_header_access Accept allow all
-request_header_access Accept-Charset allow all
-request_header_access Accept-Encoding allow all
-request_header_access Accept-Language allow all
-request_header_access Content-Language allow all
-request_header_access Mime-Version allow all
-request_header_access Retry-After allow all
-request_header_access Title allow all
-request_header_access Connection allow all
-request_header_access Proxy-Connection allow all
-request_header_access User-Agent allow all
-request_header_access Cookie allow all
-request_header_access All deny all
-via off
-forwarded_for off
-follow_x_forwarded_for deny all
+# Backup the original Squid configuration file
+sudo cp /etc/squid/squid.conf /etc/squid/squid.conf.backup
 
-EOF
+# Basic Squid configuration with fixed port 8080
+echo "
+http_port 8080
+auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
+auth_param basic children 5
+auth_param basic realm Squid proxy-caching web server
+auth_param basic credentialsttl 2 hours
+auth_param basic casesensitive off
+acl authenticated proxy_auth REQUIRED
+http_access allow authenticated
+" | sudo tee /etc/squid/squid.conf
 
-#sudo /etc/init.d/squid start
-service squid restart
-#echo "net.ipv4.icmp_echo_ignore_all = 1" >> /etc/sysctl.conf
-#sysctl -p
+# Generate random username and password
+PROXY_USER=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 13 ; echo '')
+PROXY_PASS=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 13 ; echo '')
+
+# Create the password file with the first user (it will overwrite existing file!)
+sudo htpasswd -b -c /etc/squid/passwd $PROXY_USER $PROXY_PASS
+
+# Restart Squid to apply the changes
+sudo systemctl restart squid
+
+# Enable Squid to start on boot
+sudo systemctl enable squid
+
+# Retrieve server IP address
+SERVER_IP=$(hostname -I | awk '{print $1}')
+
+# Print the filled proxy details
+echo "
+proxies = {
+    'http': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:8080',
+    'https': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:8080'
+}
+"
+
+# End of script
+
 
