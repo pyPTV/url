@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# wget -O - https://raw.githubusercontent.com/pyPTV/url/master/proxy | bash
 
 
 # Update the package list
