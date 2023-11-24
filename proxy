@@ -43,7 +43,7 @@ http_port 3128 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_siz
 auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
 auth_param basic children 5
 auth_param basic realm Squid proxy-caching web server
-auth_param basic credentialsttl 1 year
+auth_param basic credentialsttl 2 hours
 auth_param basic casesensitive off
 
 # Access Control List (ACL) Configuration
@@ -81,6 +81,9 @@ PROXY_PASS=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 13 ; echo '')
 
 # Create the password file with the first user (it will overwrite existing file!)
 sudo htpasswd -b -c /etc/squid/passwd $PROXY_USER $PROXY_PASS
+sudo chown root:proxy /etc/squid/passwd
+sudo chmod 640 /etc/squid/passwd
+
 
 # Restart Squid to apply the changes
 sudo systemctl restart squid
