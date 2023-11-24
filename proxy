@@ -36,18 +36,42 @@ sudo -u proxy /usr/lib/squid/security_file_certgen -c -s /var/spool/squid/ssl_db
 
 # Write new Squid configuration with SSL support and fixed port 3128
 sudo tee /etc/squid/squid.conf > /dev/null << EOF
+# Basic HTTP and HTTPS (with SSL Bump) Port Configuration
 http_port 3128 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_size=4MB cert=/etc/squid/ssl_cert/myCA.pem
+
+# Authentication Configuration
 auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
 auth_param basic children 5
 auth_param basic realm Squid proxy-caching web server
 auth_param basic credentialsttl 1 year
 auth_param basic casesensitive off
+
+# Access Control List (ACL) Configuration
 acl SSL_ports port 443
 acl step1 at_step SslBump1
 ssl_bump peek step1
 ssl_bump bump all
 acl authenticated proxy_auth REQUIRED
+
+# Allow authenticated users
 http_access allow authenticated
+
+# Anonymity Settings
+forwarded_for off
+via off
+request_header_access Referer deny all
+request_header_access X-Forwarded-For deny all
+request_header_access From deny all
+
+# Additional recommended settings for security and performance
+http_access deny all
+cache deny all
+coredump_dir /var/spool/squid
+refresh_pattern ^ftp:       1440    20%     10080
+refresh_pattern ^gopher:    1440    0%      1440
+refresh_pattern -i (/cgi-bin/|\?) 0 0% 0
+refresh_pattern .           0       20%     4320
+
 EOF
 
 # Generate random username and password
