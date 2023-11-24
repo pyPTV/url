@@ -3,6 +3,7 @@
 # wget -O - https://raw.githubusercontent.com/pyPTV/url/master/proxy | bash
 
 
+
 # Update the package list
 sudo apt update
 
@@ -19,6 +20,11 @@ sudo chmod 700 /etc/squid/ssl_cert
 # Generate a self-signed certificate
 sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.pem -out /etc/squid/ssl_cert/myCA.pem
 sudo chmod 400 /etc/squid/ssl_cert/myCA.pem
+
+# Create and initialize the SSL db directory
+sudo mkdir -p /var/spool/squid/ssl_db
+sudo /usr/lib/squid/security_file_certgen -c -s /var/spool/squid/ssl_db -M 4MB
+sudo chown -R proxy:proxy /var/spool/squid/ssl_db
 
 # Squid configuration with SSL support and fixed port 8080
 echo "
@@ -61,5 +67,3 @@ proxies = {
 "
 
 # End of script
-
-
