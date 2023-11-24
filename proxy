@@ -6,20 +6,32 @@
 # Update the package list
 sudo apt update
 
-# Install Squid and apache2-utils
-sudo apt install squid apache2-utils -y
+# Install Squid with OpenSSL support and apache2-utils
+sudo apt install squid-openssl apache2-utils -y
 
 # Backup the original Squid configuration file
 sudo cp /etc/squid/squid.conf /etc/squid/squid.conf.backup
 
-# Basic Squid configuration with fixed port 8080
+# Create a directory for the SSL certificate
+sudo mkdir -p /etc/squid/ssl_cert
+sudo chmod 700 /etc/squid/ssl_cert
+
+# Generate a self-signed certificate
+sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.pem -out /etc/squid/ssl_cert/myCA.pem
+sudo chmod 400 /etc/squid/ssl_cert/myCA.pem
+
+# Squid configuration with SSL support and fixed port 8080
 echo "
-http_port 8080
+http_port 8080 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_size=4MB cert=/etc/squid/ssl_cert/myCA.pem
 auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
 auth_param basic children 5
 auth_param basic realm Squid proxy-caching web server
-auth_param basic credentialsttl 2 hours
+auth_param basic credentialsttl 1 year
 auth_param basic casesensitive off
+acl SSL_ports port 443
+acl step1 at_step SslBump1
+ssl_bump peek step1
+ssl_bump bump all
 acl authenticated proxy_auth REQUIRED
 http_access allow authenticated
 " | sudo tee /etc/squid/squid.conf
