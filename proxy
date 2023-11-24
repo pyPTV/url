@@ -27,7 +27,7 @@ sudo chmod 400 /etc/squid/ssl_cert/myCA.crt
 sudo sh -c 'cat /etc/squid/ssl_cert/myCA.key /etc/squid/ssl_cert/myCA.crt > /etc/squid/ssl_cert/myCA.pem'
 
 # Change ownership and permissions of the SSL certificate directory
-sudo chown -R squid:squid /etc/squid/ssl_cert/
+sudo chown -R proxy:proxy /etc/squid/ssl_cert/
 sudo chmod -R 700 /etc/squid/ssl_cert/
 
 # Initialize the SSL db
