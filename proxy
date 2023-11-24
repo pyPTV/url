@@ -3,6 +3,7 @@
 # wget -O - https://raw.githubusercontent.com/pyPTV/url/master/proxy | bash
 
 
+
 # Update the package list
 sudo apt update
 
@@ -14,18 +15,27 @@ sudo cp /etc/squid/squid.conf /etc/squid/squid.conf.backup
 
 # Create a directory for the SSL certificate
 sudo mkdir -p /etc/squid/ssl_cert
-sudo chmod 700 /etc/squid/ssl_cert
 
-# Generate a self-signed certificate
-sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.pem -out /etc/squid/ssl_cert/myCA.pem
-sudo chmod 400 /etc/squid/ssl_cert/myCA.pem
+# Generate a private key and a self-signed certificate
+sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.key -out /etc/squid/ssl_cert/myCA.crt
+
+# Set appropriate permissions for key and certificate
+sudo chmod 400 /etc/squid/ssl_cert/myCA.key
+sudo chmod 400 /etc/squid/ssl_cert/myCA.crt
+
+# Concatenate the key and certificate into a single PEM file
+sudo sh -c 'cat /etc/squid/ssl_cert/myCA.key /etc/squid/ssl_cert/myCA.crt > /etc/squid/ssl_cert/myCA.pem'
+
+# Change ownership and permissions of the SSL certificate directory
+sudo chown -R squid:squid /etc/squid/ssl_cert/
+sudo chmod -R 700 /etc/squid/ssl_cert/
 
 # Initialize the SSL db
-sudo -u proxy /usr/lib/squid/security_file_certgen -c -s /var/spool/squid/ssl_db -M 400
+sudo -u proxy /usr/lib/squid/security_file_certgen -c -s /var/spool/squid/ssl_db -M 4MB
 
-# Squid configuration with SSL support and fixed port 8080
-echo "
-http_port 8080 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_size=4MB cert=/etc/squid/ssl_cert/myCA.pem
+# Write new Squid configuration with SSL support and fixed port 3128
+sudo tee /etc/squid/squid.conf > /dev/null << EOF
+http_port 3128 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_size=4MB cert=/etc/squid/ssl_cert/myCA.pem
 auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
 auth_param basic children 5
 auth_param basic realm Squid proxy-caching web server
@@ -37,7 +47,7 @@ ssl_bump peek step1
 ssl_bump bump all
 acl authenticated proxy_auth REQUIRED
 http_access allow authenticated
-" | sudo tee /etc/squid/squid.conf
+EOF
 
 # Generate random username and password
 PROXY_USER=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 13 ; echo '')
@@ -53,14 +63,12 @@ sudo systemctl restart squid
 sudo systemctl enable squid
 
 # Retrieve server IP address
-SERVER_IP=$(hostname -I | awk '{print $1}')
+SERVER_IP=$(hostname -I | awk '{print $1}' | tr -d '[:space:]')
 
 # Print the filled proxy details
 echo "
 proxies = {
-    'http': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:8080',
-    'https': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:8080'
+    'http': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:3128',
+    'https': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:3128'
 }
 "
-
-# End of script
