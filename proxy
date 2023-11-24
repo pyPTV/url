@@ -50,7 +50,8 @@ http_access allow authenticated
 EOF
 
 # Generate random username and password
-PROXY_USER=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 13 ; echo '')
+# USER MUST BE LOWERCASE
+PROXY_USER=$(tr -dc 'a-z' </dev/urandom | head -c 13 ; echo '')
 PROXY_PASS=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 13 ; echo '')
 
 # Create the password file with the first user (it will overwrite existing file!)
