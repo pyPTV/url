@@ -59,9 +59,13 @@ http_access allow authenticated
 # Anonymity Settings
 forwarded_for off
 via off
-request_header_access Referer deny all
+request_header_access Referer allow all
+request_header_access User-Agent allow all
 request_header_access X-Forwarded-For deny all
 request_header_access From deny all
+request_header_access Accept allow all
+request_header_access Accept-Encoding allow all
+request_header_access Accept-Language allow all
 
 # Additional recommended settings for security and performance
 http_access deny all
@@ -103,8 +107,8 @@ SERVER_IP=$(hostname -I | awk '{print $1}' | tr -d '[:space:]')
 # Print the filled proxy details
 echo "
 proxies = {
-    'http': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:3128',
-    'https': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:3128'
+    'http': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:4205',
+    'https': 'http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:4205'
 }
 "
 
@@ -113,4 +117,4 @@ TEST_URL="https://httpbin.org/ip"
 CA_CERT_PATH="/etc/squid/ssl_cert/myCA.pem"
 
 echo "Testing Squid proxy with curl..."
-curl --cacert "$CA_CERT_PATH" -x http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:3128 "$TEST_URL"
+curl --cacert "$CA_CERT_PATH" -x http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:4205 "$TEST_URL"
