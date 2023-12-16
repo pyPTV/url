@@ -81,6 +81,8 @@ access_log none
 cache_log /dev/null
 cache_store_log none
 
+dns_v4_first on	
+max_filedesc 4096
 
 EOF
 
