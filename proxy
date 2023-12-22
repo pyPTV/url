@@ -86,6 +86,9 @@ max_filedesc 4096
 
 EOF
 
+echo '1' > /proc/sys/net/ipv4/icmp_echo_ignore_all
+echo 'net.ipv4.icmp_echo_ignore_all = 1' >> /etc/sysctl.conf
+sysctl -p
 # Generate random username and password
 # USER MUST BE LOWERCASE
 PROXY_USER=$(tr -dc 'a-z' </dev/urandom | head -c 13 ; echo '')
