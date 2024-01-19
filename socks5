@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# wget -O - https://raw.githubusercontent.com/pyPTV/url/master/socks5 | bash
+
+sudo apt install dante-server 
+
+sudo tee /etc/danted.conf > /dev/null << EOF
+
+logoutput: syslog /var/log/danted.log
+# Specify the network interface and port Dante listens on
+internal: enp3s0 port = 1080
+external: enp3s0
+# Use the "username" method for SOCKS5 authentication
+method: username
+# Specify the user for running the Dante server
+user.privileged: root
+user.notprivileged: nobody
+# Client rules: who can connect to the proxy
+client pass {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+    log: connect disconnect error
+}
+client block {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+    log: connect disconnect error
+}
+# SOCKS pass rules: allow clients to use the proxy (with authentication)
+socks pass {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+    log: connect disconnect error
+    method: username
+}
+socks block {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+    log: connect disconnect error
+}
+
+EOF
+
+sudo useradd -r -s /bin/false mysocksuser
+sudo passwd mysocksuser
+
+sudo systemctl restart danted
+sudo systemctl enable danted
