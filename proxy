@@ -37,7 +37,7 @@ sudo -u proxy /usr/lib/squid/security_file_certgen -c -s /var/spool/squid/ssl_db
 # Write new Squid configuration with SSL support and fixed port 3128
 sudo tee /etc/squid/squid.conf > /dev/null << EOF
 # Basic HTTP and HTTPS (with SSL Bump) Port Configuration
-http_port 4205 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_size=4MB cert=/etc/squid/ssl_cert/myCA.pem
+http_port 4205 ssl-bump generate-host-certificates=on dynamic_cert_mem_cache_size=4MB cert=/etc/squid/ssl_cert/squidCA.pem
 
 # Authentication Configuration
 auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
