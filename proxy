@@ -21,11 +21,11 @@ sudo mkdir -p /etc/squid/ssl_cert
 sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.key -out /etc/squid/ssl_cert/myCA.crt
 
 # Set appropriate permissions for key and certificate
-sudo chmod 400 /etc/squid/ssl_cert/myCA.key
-sudo chmod 400 /etc/squid/ssl_cert/myCA.crt
+sudo chmod 400 /etc/squid/ssl_cert/squidCA.key
+sudo chmod 400 /etc/squid/ssl_cert/squidCA.crt
 
 # Concatenate the key and certificate into a single PEM file
-sudo sh -c 'cat /etc/squid/ssl_cert/myCA.key /etc/squid/ssl_cert/myCA.crt > /etc/squid/ssl_cert/myCA.pem'
+sudo sh -c 'cat /etc/squid/ssl_cert/squidCA.key /etc/squid/ssl_cert/squidCA.crt > /etc/squid/ssl_cert/squidCA.pem'
 
 # Change ownership and permissions of the SSL certificate directory
 sudo chown -R proxy:proxy /etc/squid/ssl_cert/
