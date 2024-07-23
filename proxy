@@ -117,7 +117,7 @@ proxies = {
 
 # Test the Squid proxy setup using curl with the CA certificate
 TEST_URL="https://httpbin.org/ip"
-CA_CERT_PATH="/etc/squid/ssl_cert/myCA.pem"
+CA_CERT_PATH="/etc/squid/ssl_cert/squidCA.pem"
 
 echo "Testing Squid proxy with curl..."
 curl --cacert "$CA_CERT_PATH" -x http://$PROXY_USER:$PROXY_PASS@$SERVER_IP:4205 "$TEST_URL"
