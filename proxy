@@ -18,11 +18,11 @@ sudo cp /etc/squid/squid.conf /etc/squid/squid.conf.backup
 sudo mkdir -p /etc/squid/ssl_cert
 
 # Generate a private key and a self-signed certificate
-sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.key -out /etc/squid/ssl_cert/myCA.crt
+sudo openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout /etc/squid/ssl_cert/myCA.key -out /etc/squid/ssl_cert/myCA.crt -subj "/C=AU/ST=Some-State/L=City/O=Internet Widgits Pty Ltd/OU=IT/CN=yourdomain.com/emailAddress=din@frexample.com"
 
 # Set appropriate permissions for key and certificate
-sudo chmod 400 /etc/squid/ssl_cert/squidCA.key
-sudo chmod 400 /etc/squid/ssl_cert/squidCA.crt
+sudo chmod 400 /etc/squid/ssl_cert/myCA.key
+sudo chmod 400 /etc/squid/ssl_cert/myCA.crt
 
 # Concatenate the key and certificate into a single PEM file
 sudo sh -c 'cat /etc/squid/ssl_cert/squidCA.key /etc/squid/ssl_cert/squidCA.crt > /etc/squid/ssl_cert/squidCA.pem'
