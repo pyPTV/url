@@ -25,7 +25,7 @@ sudo chmod 400 /etc/squid/ssl_cert/myCA.key
 sudo chmod 400 /etc/squid/ssl_cert/myCA.crt
 
 # Concatenate the key and certificate into a single PEM file
-sudo sh -c 'cat /etc/squid/ssl_cert/squidCA.key /etc/squid/ssl_cert/squidCA.crt > /etc/squid/ssl_cert/squidCA.pem'
+sudo sh -c 'cat /etc/squid/ssl_cert/myCA.key /etc/squid/ssl_cert/myCA.crt > /etc/squid/ssl_cert/squidCA.pem'
 
 # Change ownership and permissions of the SSL certificate directory
 sudo chown -R proxy:proxy /etc/squid/ssl_cert/
