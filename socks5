@@ -1,6 +1,9 @@
 #!/bin/bash
 
-# wget -O - https://raw.githubusercontent.com/pyPTV/url/master/socks5 | bash
+#  wget -O socks5.sh https://raw.githubusercontent.com/pyPTV/url/master/socks5
+#  chmod +x socks5.sh
+#  ./socks5.sh
+
 
 
 # Prompt the user for their home static IP address
@@ -12,7 +15,7 @@ if [ -z "$home_ip" ]; then
     exit 1
 fi
 
-# Now proceed with the installation and configuration
+# Proceed with the installation and configuration
 sudo apt update
 sudo apt install -y dante-server
 
@@ -22,8 +25,8 @@ sudo tee /etc/danted.conf > /dev/null << EOF
 internal: ens5 port = 1809
 external: ens5
 
-# Use "none" method for SOCKS5 authentication to make it anonymous
-method: none
+# Specify global authentication methods for SOCKS
+socksmethod: none
 
 # Specify the user for running the Dante server
 user.privileged: root
@@ -32,22 +35,17 @@ user.notprivileged: nobody
 # Client rules: allow connections only from your home static IP
 client pass {
     from: $home_ip/32 to: 0.0.0.0/0
-    log: connect disconnect error
 }
 client block {
     from: 0.0.0.0/0 to: 0.0.0.0/0
-    log: connect disconnect error
 }
 
 # SOCKS pass rules: allow clients to use the proxy
 socks pass {
     from: $home_ip/32 to: 0.0.0.0/0
-    log: connect disconnect error
-    method: none
 }
 socks block {
     from: 0.0.0.0/0 to: 0.0.0.0/0
-    log: connect disconnect error
 }
 EOF
 
@@ -56,4 +54,3 @@ sudo systemctl restart danted
 sudo systemctl enable danted
 
 echo "SOCKS5 proxy has been set up with access restricted to your home static IP: $home_ip"
-
